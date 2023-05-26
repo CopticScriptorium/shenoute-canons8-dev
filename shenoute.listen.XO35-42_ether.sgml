@@ -10897,7 +10897,7 @@
 </orig>
 <orig orig="ⲣⲱⲡⲉ">
 <norm norm="ⲣⲱⲡⲉ">
-<lemma lemma="ⲣⲱⲡⲉ">
+<lemma lemma="ⲣⲟⲙⲡⲉ">
 <pos pos="N">
 ⲣⲱⲡⲉ
 </pos>
@@ -11409,7 +11409,7 @@
 <orig orig="ⲉ">
 <norm norm="ⲉ">
 <lemma lemma="ⲉⲣⲉ">
-<pos pos="CFOC">
+<pos pos="CCIRC">
 ⲉ
 </pos>
 </lemma>
@@ -11433,17 +11433,26 @@
 </lemma>
 </norm>
 </orig>
-<orig orig="ϫⲟⲟⲩⲧ">
-<norm norm="ϫⲟⲟⲩⲧ">
-<lemma lemma="ϫⲟⲟⲩⲧ">
+<orig orig="ϫⲟⲟⲩ">
+<norm norm="ϫⲟⲟⲩ">
+<lemma lemma="ϫⲟⲟⲩ">
 <pos pos="V">
-ϫⲟⲟⲩⲧ
+ϫⲟⲟⲩ
 </pos>
 </lemma>
 </norm>
 </orig>
 </norm_group>
 </orig_group>
+<orig orig="ⲧ">
+<norm norm="ⲧ">
+<lemma lemma="ⲁⲛⲟⲕ">
+<pos pos="PPERO">
+ⲧ
+</pos>
+</lemma>
+</norm>
+</orig>
 <orig_group orig_group="ⲉϩⲣⲁⲩ">
 <norm_group norm_group="ⲉϩⲣⲁⲩ">
 <orig orig="ⲉϩⲣⲁ">
@@ -12210,20 +12219,11 @@
 </lemma>
 </norm>
 </orig>
-<orig orig="ⲟⲩⲁϣ">
-<norm norm="ⲟⲩⲁϣ">
-<lemma lemma="ⲟⲩⲱϣ">
-<pos pos="V">
+<orig orig="ⲟⲩⲁϣⲥ">
+<norm norm="ⲟⲩⲁϣⲥ">
+<lemma lemma="ⲟⲩⲱϣⲥ">
+<pos pos="VSTAT">
 ⲟⲩⲁϣ
-</pos>
-</lemma>
-</norm>
-</orig>
-<orig orig="ⲥ">
-<norm norm="ⲥ">
-<lemma lemma="ⲛⲧⲟⲥ">
-<pos pos="PPERO">
-ⲥ
 </pos>
 </lemma>
 </norm>
@@ -12467,20 +12467,11 @@
 </lemma>
 </norm>
 </orig>
-<orig orig="ⲟⲩ">
-<norm norm="ⲟⲩ">
-<lemma lemma="ⲟⲩ">
-<pos pos="ART">
-ⲟⲩ
-</pos>
-</lemma>
-</norm>
-</orig>
-<orig orig="ⲟⲉⲓϣ">
-<norm norm="ⲟⲉⲓϣ">
-<lemma lemma="ⲟⲉⲓϣ">
+<orig orig="ⲟⲩⲟⲉⲓϣ">
+<norm norm="ⲟⲩⲟⲉⲓϣ">
+<lemma lemma="ⲟⲩⲟⲉⲓϣ">
 <pos pos="N">
-ⲟⲉⲓϣ
+ⲟⲩⲟⲉⲓϣ
 </pos>
 </lemma>
 </norm>
@@ -12808,11 +12799,20 @@
 </lemma>
 </norm>
 </orig>
-<orig orig="ⲧⲟⲩⲣⲏⲥ">
-<norm norm="ⲧⲟⲩⲣⲏⲥ">
-<lemma lemma="ⲧⲟⲩⲣⲏⲥ">
+<orig orig="ⲧⲟⲩ">
+<norm norm="ⲧⲟⲩ">
+<lemma lemma="ⲧⲏⲩ">
 <pos pos="N">
-ⲧⲟⲩⲣⲏⲥ
+ⲧⲏⲩ
+</pos>
+</lemma>
+</norm>
+</orig>
+<orig orig="ⲣⲏⲥ">
+<norm norm="ⲣⲏⲥ">
+<lemma lemma="ⲣⲏⲥ">
+<pos pos="N">
+ⲣⲏⲥ
 </pos>
 </lemma>
 </norm>
@@ -12932,7 +12932,7 @@
 <orig orig="ⲟⲩⲟⲛϩ">
 <norm norm="ⲟⲩⲟⲛϩ">
 <lemma lemma="ⲟⲩⲱⲛϩ">
-<pos pos="V">
+<pos pos="VSTAT">
 ⲟⲩⲟⲛϩ
 </pos>
 </lemma>
@@ -13305,19 +13305,10 @@
 </lemma>
 </norm>
 </orig>
-<orig orig="ⲕ">
-<norm norm="ⲕ">
-<lemma lemma="ⲛⲧⲟⲕ">
-<pos pos="PPERS">
-ⲕ
-</pos>
-</lemma>
-</norm>
-</orig>
-<orig orig="ⲧⲟⲉⲓⲧ">
-<norm norm="ⲧⲟⲉⲓⲧ">
-<lemma lemma="ⲧⲟⲉⲓⲧ">
-<pos pos="V">
+<orig orig="ⲕⲧⲟⲉⲓⲧ">
+<norm norm="ⲕⲧⲟⲉⲓⲧ">
+<lemma lemma="ⲕⲧⲟ">
+<pos pos="VSTAT">
 ⲧⲟⲉⲓⲧ
 </pos>
 </lemma>
@@ -13516,17 +13507,26 @@
 </orig_group>
 <orig_group orig_group="ⲉⲓ︦ⲥ︦">
 <norm_group norm_group="ⲉⲓⲥ">
-<orig orig="ⲉⲓ︦ⲥ︦">
-<norm norm="ⲉⲓⲥ">
-<lemma lemma="ⲉⲓⲥ">
-<pos pos="PTC">
-ⲉⲓ︦ⲥ︦
+<orig orig="ⲉ">
+<norm norm="ⲉ">
+<lemma lemma="ⲉ">
+<pos pos="PREP">
+ⲉ
 </pos>
 </lemma>
 </norm>
 </orig>
 </norm_group>
 </orig_group>
+<orig orig="ⲓ︦ⲥ︦">
+<norm norm="ⲓ︦ⲥ︦">
+<lemma lemma="ⲓⲏⲥⲟⲩⲥ">
+<pos pos="N">
+ⲓ︦ⲥ︦
+</pos>
+</lemma>
+</norm>
+</orig>
 <orig_group orig_group="ⲙⲡⲕϫⲟⲟϥ">
 <norm_group norm_group="ⲙⲡⲕϫⲟⲟϥ">
 <orig orig="ⲙⲡ">
@@ -14220,7 +14220,9 @@
 <lemma lemma="ⲕⲁⲓ">
 <pos pos="PPOS">
 <lang lang="Greek">
+<note note="Interpreted as an orthographic variant of ⲕⲉ in Boud'hors (2013)">
 ⲕⲁⲓ
+</note>
 </lang>
 </pos>
 </lemma>
@@ -14381,10 +14383,7 @@
 <lemma lemma="ⲯⲩⲭⲏ">
 <pos pos="N">
 <lang lang="Greek">
-ⲯⲩ
-</pb_xml_id>
-<pb_xml_id pb_xml_id="ⲙ︦ⲁ︦">
-ⲭⲏ
+ⲯⲩⲭⲏ
 </lang>
 </pos>
 </lemma>
@@ -14392,6 +14391,7 @@
 </orig>
 </norm_group>
 </orig_group>
+</pb_xml_id>
 <orig_group orig_group="ⲧⲉⲧⲟ">
 <norm_group norm_group="ⲧⲉⲧⲟ">
 <orig orig="ⲧ">
@@ -14493,8 +14493,8 @@
 </orig>
 <orig orig="ϩⲏⲗ">
 <norm norm="ϩⲏⲗ">
-<lemma lemma="ϩⲏⲗ">
-<pos pos="V">
+<lemma lemma="ϩⲱⲗ">
+<pos pos="VSTAT">
 ϩⲏⲗ
 </pos>
 </lemma>
@@ -14908,7 +14908,7 @@
 <orig orig="ⲉϣϫⲡⲉ">
 <norm norm="ⲉϣϫⲡⲉ">
 <lemma lemma="ⲉϣϫⲡⲉ">
-<pos pos="V">
+<pos pos="CONJ">
 ⲉϣϫⲡⲉ
 </pos>
 </lemma>
@@ -15322,7 +15322,7 @@
 <orig orig="ⲉ">
 <norm norm="ⲉ">
 <lemma lemma="ⲉ">
-<pos pos="PREP">
+<pos pos="CCIRC">
 ⲉ
 </pos>
 </lemma>
@@ -16292,20 +16292,20 @@
 </orig_group>
 <orig_group orig_group="ⲛⲁϩⲉ">
 <norm_group norm_group="ⲛⲁϩⲉ">
-<orig orig="ⲛ">
-<norm norm="ⲛ">
-<lemma lemma="ⲛ">
-<pos pos="PREP">
-ⲛ
+<orig orig="ⲛⲁ">
+<norm norm="ⲛⲁ">
+<lemma lemma="ⲛⲁ">
+<pos pos="FUT">
+ⲛⲁ
 </pos>
 </lemma>
 </norm>
 </orig>
-<orig orig="ⲁϩⲉ">
-<norm norm="ⲁϩⲉ">
-<lemma lemma="ⲁϩⲉ">
-<pos pos="N">
-ⲁϩⲉ
+<orig orig="ϩⲉ">
+<norm norm="ϩⲉ">
+<lemma lemma="ϩⲉ">
+<pos pos="V">
+ϩⲉ
 </pos>
 </lemma>
 </norm>
@@ -16426,17 +16426,35 @@
 </lemma>
 </norm>
 </orig>
-<orig orig="ϫⲛⲉⲉⲧⲟ">
-<norm norm="ϫⲛⲉⲉⲧⲟ">
-<lemma lemma="ϫⲛⲉⲉⲧⲟ">
+<orig orig="ϫⲛⲉ">
+<norm norm="ϫⲛⲉ">
+<lemma lemma="ϫⲛⲉ">
 <pos pos="N">
-ϫⲛⲉⲉⲧⲟ
+ϫⲛⲉ
 </pos>
 </lemma>
 </norm>
 </orig>
 </norm_group>
 </orig_group>
+<orig orig="ⲉⲧ">
+<norm norm="ⲉⲧ">
+<lemma lemma="ⲉⲧⲉⲣⲉ">
+<pos pos="CREL">
+ⲉⲧ
+</pos>
+</lemma>
+</norm>
+</orig>
+<orig orig="ⲟ">
+<norm norm="ⲟ">
+<lemma lemma="ⲉⲓⲣⲉ">
+<pos pos="VSTAT">
+ⲟ
+</pos>
+</lemma>
+</norm>
+</orig>
 <orig_group orig_group="ⲙⲡϣⲗⲱⲙ">
 <norm_group norm_group="ⲙⲡϣⲗⲱⲙ">
 <orig orig="ⲙ">
@@ -16448,19 +16466,19 @@
 </lemma>
 </norm>
 </orig>
-<orig orig="ⲡ">
-<norm norm="ⲡ">
-<lemma lemma="ⲡ">
-<pos pos="ART">
-ⲡ
+<orig orig="ⲡϣ">
+<norm norm="ⲡϣ">
+<lemma lemma="ⲡⲁϣⲉ">
+<pos pos="N">
+ⲡϣ
 </pos>
 </lemma>
 </norm>
 </orig>
-<orig orig="ϣⲗⲱⲙ">
-<norm norm="ϣⲗⲱⲙ">
-<lemma lemma="ϣⲗⲱⲙ">
-<pos pos="N">
+<orig orig="ⲗⲱⲙ">
+<norm norm="ⲗⲱⲙ">
+<lemma lemma="ⲗⲱϩⲙ">
+<pos pos="V">
 ϣⲗⲱⲙ
 </pos>
 </lemma>
@@ -16498,7 +16516,9 @@
 <norm norm="ⲙⲟⲗⲟⲭⲏ">
 <lemma lemma="ⲙⲟⲗⲟⲭⲏ">
 <pos pos="N">
+<lang lang="Greek">
 ⲙⲟⲗⲟⲭⲏ
+</lang>
 </pos>
 </lemma>
 </norm>
@@ -16518,8 +16538,8 @@
 </orig>
 <orig orig="ϩⲟϭⲃ">
 <norm norm="ϩⲟϭⲃ">
-<lemma lemma="ϩⲟϭⲃ">
-<pos pos="V">
+<lemma lemma="ϩⲱϭⲃ">
+<pos pos="VSTAT">
 ϩⲟϭⲃ
 </pos>
 </lemma>
@@ -16581,20 +16601,20 @@
 </orig_group>
 <orig_group orig_group="ⲉⲛⲉⲕϣⲟⲩⲉⲓⲧ">
 <norm_group norm_group="ⲉⲛⲉⲕϣⲟⲩⲉⲓⲧ">
-<orig orig="ⲉ">
-<norm norm="ⲉ">
-<lemma lemma="ⲉ">
-<pos pos="PREP">
-ⲉ
+<orig orig="ⲉⲛⲉ">
+<norm norm="ⲉⲛⲉ">
+<lemma lemma="ⲉⲛⲉ">
+<pos pos="IRR">
+ⲉⲛⲉ
 </pos>
 </lemma>
 </norm>
 </orig>
-<orig orig="ⲛⲉⲕ">
-<norm norm="ⲛⲉⲕ">
-<lemma lemma="ⲡⲉⲕ">
-<pos pos="PPOS">
-ⲛⲉⲕ
+<orig orig="ⲕ">
+<norm norm="ⲕ">
+<lemma lemma="ⲛⲧⲟⲕ">
+<pos pos="PPERS">
+ⲕ
 </pos>
 </lemma>
 </norm>
@@ -16860,7 +16880,6 @@
 </orig>
 </norm_group>
 </orig_group>
-</pb_xml_id>
 <pb_xml_id pb_xml_id="ⲙ︦ⲃ︦">
 <orig_group orig_group="ⲙⲙⲁⲩ">
 <norm_group norm_group="ⲙⲙⲁⲩ">
@@ -17212,7 +17231,9 @@
 <norm norm="ⲁⲅⲁⲑⲁⲣⲧⲟⲥ">
 <lemma lemma="ⲁⲅⲁⲑⲁⲣⲧⲟⲥ">
 <pos pos="N">
+<lang lang="Greek">
 ⲁⲅⲁⲑⲁⲣⲧⲟⲥ
+</lang>
 </pos>
 </lemma>
 </norm>
@@ -17339,17 +17360,26 @@
 </orig_group>
 <orig_group orig_group="ⲉⲓ︦ⲥ︦">
 <norm_group norm_group="ⲉⲓⲥ">
-<orig orig="ⲉⲓ︦ⲥ︦">
-<norm norm="ⲉⲓⲥ">
-<lemma lemma="ⲉⲓⲥ">
-<pos pos="PTC">
-ⲉⲓ︦ⲥ︦
+<orig orig="ⲉ">
+<norm norm="ⲉ">
+<lemma lemma="ⲉ">
+<pos pos="PREP">
+ⲉ
 </pos>
 </lemma>
 </norm>
 </orig>
 </norm_group>
 </orig_group>
+<orig orig="ⲓ︦ⲥ︦">
+<norm norm="ⲓ︦ⲥ︦">
+<lemma lemma="ⲓⲏⲥⲟⲩⲥ">
+<pos pos="N">
+ⲓ︦ⲥ︦
+</pos>
+</lemma>
+</norm>
+</orig>
 <orig_group orig_group="ϩⲛⲧⲡⲉ">
 <norm_group norm_group="ϩⲛⲧⲡⲉ">
 <orig orig="ϩⲛ">
@@ -17746,20 +17776,20 @@
 </lemma>
 </norm>
 </orig>
-<orig orig="ⲧⲁⲩⲟⲟ">
-<norm norm="ⲧⲁⲩⲟⲟ">
-<lemma lemma="ⲧⲁⲩⲟⲟ">
+<orig orig="ⲧⲁⲩⲟ">
+<norm norm="ⲧⲁⲩⲟ">
+<lemma lemma="ⲧⲁⲩⲟ">
 <pos pos="V">
-ⲧⲁⲩⲟⲟ
+ⲧⲁⲩⲟ
 </pos>
 </lemma>
 </norm>
 </orig>
-<orig orig="ⲩ">
-<norm norm="ⲩ">
+<orig orig="ⲟⲩ">
+<norm norm="ⲟⲩ">
 <lemma lemma="ⲛⲧⲟⲟⲩ">
 <pos pos="PPERO">
-ⲩ
+ⲟⲩ
 </pos>
 </lemma>
 </norm>
@@ -17894,7 +17924,9 @@
 <norm norm="ⲁⲡⲟⲙⲉⲣⲟⲩⲥ">
 <lemma lemma="ⲁⲡⲟⲙⲉⲣⲟⲩⲥ">
 <pos pos="N">
+<morph morph="Greek">
 ⲁⲡⲟⲙⲉⲣⲟⲩⲥ
+</morph>
 </pos>
 </lemma>
 </norm>
@@ -17941,18 +17973,34 @@
 </norm_group>
 </orig_group>
 <orig_group orig_group="ⲉϯϫⲱ">
-<norm_group norm_group="_warn:empty_norm_">
-<orig orig="ⲉϯϫⲱ">
-<norm norm="_warn:empty_norm_">
-<lemma lemma="_warn:empty_norm_">
-<pos pos="N">
-ⲉϯϫⲱ
+<orig orig="ⲉ">
+<norm norm="ⲉ">
+<lemma lemma="ⲉⲧⲉⲣⲉ">
+<pos pos="CREL">
+ⲉ
 </pos>
 </lemma>
 </norm>
 </orig>
-</norm_group>
 </orig_group>
+<orig orig="ϯ">
+<norm norm="ϯ">
+<lemma lemma="ⲁⲛⲟⲕ">
+<pos pos="PPERS">
+ϯ
+</pos>
+</lemma>
+</norm>
+</orig>
+<orig orig="ϫⲱ">
+<norm norm="ϫⲱ">
+<lemma lemma="ϫⲱ">
+<pos pos="V">
+ϫⲱ
+</pos>
+</lemma>
+</norm>
+</orig>
 <orig_group orig_group="ⲙⲙⲟϥ">
 <norm_group norm_group="ⲙⲙⲟϥ">
 <orig orig="ⲙⲙⲟ">
@@ -18421,7 +18469,7 @@
 <orig orig="ⲙⲉϩ">
 <norm norm="ⲙⲉϩ">
 <lemma lemma="ⲙⲟⲩϩ">
-<pos pos="V">
+<pos pos="VSTAT">
 ⲙⲉϩ
 </pos>
 </lemma>
