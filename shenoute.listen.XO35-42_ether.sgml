@@ -6860,7 +6860,7 @@
 <orig_group orig_group="ⲓ︦ⲥ︦">
 <norm_group norm_group="ⲓⲏⲥⲟⲩⲥ">
 <orig orig="ⲓ︦ⲥ︦">
-<norm norm="ⲓⲏⲥⲟⲩⲥ">
+<norm norm="ⲓ︦ⲥ︦">
 <lemma lemma="ⲓⲏⲥⲟⲩⲥ">
 <pos pos="NPROP">
 <lang lang="Hebrew">
@@ -10321,11 +10321,13 @@
 </orig>
 </norm_group>
 </orig_group>
-<orig orig="ⲓⲥ">
-<norm norm="ⲓⲥ">
+<orig orig="ⲓ︦ⲥ︦">
+<norm norm="ⲓ︦ⲥ︦">
 <lemma lemma="ⲓⲏⲥⲟⲩⲥ">
-<pos pos="N">
+<pos pos="NPROP">
+<lang lang="Hebrew">
 ⲓ︦ⲥ︦
+</lang>
 </pos>
 </lemma>
 </norm>
@@ -13641,17 +13643,19 @@
 </lemma>
 </norm>
 </orig>
-</norm_group>
-</orig_group>
 <orig orig="ⲓ︦ⲥ︦">
 <norm norm="ⲓ︦ⲥ︦">
 <lemma lemma="ⲓⲏⲥⲟⲩⲥ">
-<pos pos="N">
+<pos pos="NPROP">
+<lang lang="Hebrew">
 ⲓ︦ⲥ︦
+</lang>
 </pos>
 </lemma>
 </norm>
 </orig>
+</norm_group>
+</orig_group>
 <orig_group orig_group="ⲙⲡⲕϫⲟⲟϥ">
 <norm_group norm_group="ⲙⲡⲕϫⲟⲟϥ">
 <orig orig="ⲙⲡ">
@@ -14456,7 +14460,7 @@
 <orig_group orig_group="ⲓ︦ⲥ︦">
 <norm_group norm_group="ⲓⲏⲥⲟⲩⲥ">
 <orig orig="ⲓ︦ⲥ︦">
-<norm norm="ⲓⲏⲥⲟⲩⲥ">
+<norm norm="ⲓ︦ⲥ︦">
 <lemma lemma="ⲓⲏⲥⲟⲩⲥ">
 <pos pos="NPROP">
 <lang lang="Hebrew">
@@ -17537,8 +17541,10 @@
 <orig orig="ⲓ︦ⲥ︦">
 <norm norm="ⲓ︦ⲥ︦">
 <lemma lemma="ⲓⲏⲥⲟⲩⲥ">
-<pos pos="N">
+<pos pos="NPROP">
+<lang lang="Hebrew">
 ⲓ︦ⲥ︦
+</lang>
 </pos>
 </lemma>
 </norm>
