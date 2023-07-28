@@ -1,6 +1,6 @@
 <meta annotation="Lance Martin, Lydia Bremer-McCollum" author="Shenoute" collection="Borgia Collection" Coptic_edition="&lt;a href=&amp;quot;https://archive.org/details/oeuvresdeschenou02shen/page/80/mode/2up&amp;quot;&gt;Amélineau Oeuvres de Schenoudi 2:80-89&lt;/a&gt;" corpus="shenoute.listen" country="Egypt" document_cts_urn="-" entities="-" identities="-" idno="IB5 ff. 65-71" language="Sahidic Coptic" license="&lt;a href='https://creativecommons.org/licenses/by/4.0/'&gt;CC-BY 4.0&lt;/a&gt;" msContents_title_n="8" msContents_title_type="canons" msItem_title="So Listen" msName="MONB.FL" next="-" note="Digital text provided by Stephen Emmel. Typed transcription of Amélineau's Oeuvres de Schenoudi." objectType="codex" order="1" origDate="between 600 and 800 C.E." origDate_notAfter="0800" origDate_notBefore="0600" origDate_precision="medium" origPlace="White Monastery" pages_from="15" pages_to="28" parsing="automatic" paths_authors="&lt;a href='http://paths.uniroma1.it/atlas/authors/95'&gt;95&lt;/a&gt;" paths_manuscripts="&lt;a href='https://atlas.paths-erc.eu/manuscripts/385'&gt;385&lt;/a&gt;" paths_works="&lt;a href='https://atlas.paths-erc.eu/works/793'&gt;793&lt;/a&gt;" people="none" placeName="Atripe" places="none" previous="-" project="Coptic SCRIPTORIUM" redundant="no" repository="Biblioteca Nazionale di Napoli" segmentation="checked" source="Stephen Emmel, Amélineau Oeuvres de Schenoudi 1907" source_info="Digital text provided by Stephen Emmel. Typed transcription of Amélineau's Oeuvres de Schenoudi. Reproduced with permission from Emmel" tagging="automatic" title="So Listen FL15-28" Trismegistos="none" version_date="-" version_n="-" witness="** enter doc urn here ***">
-<ed_page ed_page="80">
-<pb_xml_id pb_xml_id="ⲓ︦ⲉ︦">
+<ed_page_n ed_page_n="80">
+<pb_xml_id pb_xml_id="FL15">
 <lb_n lb_n="1">
 <orig_group orig_group="ϫⲡⲓⲟⲛ">
 <norm_group norm_group="ϫⲡⲓⲟⲛ">
@@ -60,7 +60,7 @@
 <orig orig="[..]ⲁⲓ">
 <norm norm="..ⲁⲓ">
 <lemma lemma="..ⲁⲓ">
-<pos pos="UNKNOWN">
+<pos pos="PUNCT">
 [..]ⲁⲓ
 </pos>
 </lemma>
@@ -151,35 +151,35 @@
 </orig>
 </norm_group>
 </orig_group>
-<orig_group orig_group="[....]">
-<norm_group norm_group="....">
-<orig orig="[....]">
-<norm norm="....">
-<lemma lemma="....">
+<orig_group orig_group="[....]ⲥ">
+<norm_group norm_group="....ⲥ">
+<orig orig="[....]ⲥ">
+<norm norm="....ⲥ">
+<lemma lemma="....ⲥ">
 <pos pos="PUNCT">
-[....]
+[....]ⲥ
 </pos>
 </lemma>
 </norm>
 </orig>
 </norm_group>
 </orig_group>
-<orig_group orig_group="ⲥⲛϩⲟⲩⲟ">
-<norm_group norm_group="ⲥⲛϩⲟⲩⲟ">
-<orig orig="ⲥ">
-<norm norm="ⲥ">
-<lemma lemma="ⲛⲧⲟⲥ">
-<pos pos="PPERS">
-ⲥ
+<orig_group orig_group="ⲛϩⲟⲩⲟ">
+<norm_group norm_group="ⲛϩⲟⲩⲟ">
+<orig orig="ⲛ">
+<norm norm="ⲛ">
+<lemma lemma="ⲛ">
+<pos pos="PREP">
+ⲛ
 </pos>
 </lemma>
 </norm>
 </orig>
-<orig orig="ⲛϩⲟⲩⲟ">
-<norm norm="ⲛϩⲟⲩⲟ">
-<lemma lemma="ⲛϩⲟⲩⲟ">
-<pos pos="ADV">
-ⲛϩⲟⲩⲟ
+<orig orig="ϩⲟⲩⲟ">
+<norm norm="ϩⲟⲩⲟ">
+<lemma lemma="ϩⲟⲩⲟ">
+<pos pos="N">
+ϩⲟⲩⲟ
 </pos>
 </lemma>
 </norm>
@@ -1252,7 +1252,7 @@
 <orig orig="ⲁⲇⲓⲕⲟⲛ">
 <norm norm="ⲁⲇⲓⲕⲟⲛ">
 <lemma lemma="ⲁⲇⲓⲕⲟⲛ">
-<pos pos="N">
+<pos pos="NPROP">
 <lang lang="Greek">
 ⲁⲇⲓⲕⲟⲛ
 </lang>
@@ -1527,7 +1527,7 @@
 </norm_group>
 </orig_group>
 </lb_n>
-<lb_n lb_n="1">
+<lb_n lb_n="9">
 <orig_group orig_group="ⲙⲙⲛⲧⲙⲉ">
 <norm_group norm_group="ⲙⲙⲛⲧⲙⲉ">
 <orig orig="ⲙ">
@@ -1693,8 +1693,8 @@
 </orig_group>
 </lb_n>
 </pb_xml_id>
-<pb_xml_id pb_xml_id="ⲓ︦︦ϝ︦">
-<lb_n lb_n="2">
+<pb_xml_id pb_xml_id="FL16">
+<lb_n lb_n="10">
 <orig_group orig_group="ϩⲓⲧⲙⲡⲉϩⲟⲩⲟ">
 <norm_group norm_group="ϩⲓⲧⲙⲡⲉϩⲟⲩⲟ">
 <orig orig="ϩⲓⲧⲙ">
@@ -1868,7 +1868,7 @@
 </norm_group>
 </orig_group>
 </lb_n>
-<lb_n lb_n="3">
+<lb_n lb_n="11">
 <orig_group orig_group="ⲛⲗⲟⲓⲙⲟⲥ">
 <norm_group norm_group="ⲛⲗⲟⲓⲙⲟⲥ">
 <orig orig="ⲛ">
@@ -2098,7 +2098,7 @@
 <pos pos="VSTAT">
 ⲥⲟ
 </lb_n>
-<lb_n lb_n="4">
+<lb_n lb_n="12">
 ⲟⲩϩ
 </pos>
 </lemma>
@@ -2279,7 +2279,7 @@
 </norm_group>
 </orig_group>
 </lb_n>
-<lb_n lb_n="5">
+<lb_n lb_n="13">
 <orig_group orig_group="ⲙⲛϩⲉⲛⲣⲱⲙⲉ">
 <norm_group norm_group="ⲙⲛϩⲉⲛⲣⲱⲙⲉ">
 <orig orig="ⲙⲛ">
@@ -2459,9 +2459,9 @@
 </norm_group>
 </orig_group>
 </lb_n>
-</ed_page>
-<ed_page ed_page="ed_page">
-<lb_n lb_n="6">
+</ed_page_n>
+<ed_page_n ed_page_n="81">
+<lb_n lb_n="1">
 <orig_group orig_group="ϩⲟⲣϣ">
 <norm_group norm_group="ϩⲟⲣϣ">
 <orig orig="ϩⲟⲣϣ">
@@ -2661,7 +2661,7 @@
 <lang lang="Greek">
 ⲡⲟⲣ
 </lb_n>
-<lb_n lb_n="7">
+<lb_n lb_n="2">
 ⲛⲟⲥ
 </lang>
 </pos>
@@ -2853,7 +2853,7 @@
 </norm>
 </orig>
 </lb_n>
-<lb_n lb_n="8">
+<lb_n lb_n="3">
 <orig orig="ϫⲉ">
 <norm norm="ϫⲉ">
 <lemma lemma="ϫⲉ">
@@ -3055,7 +3055,7 @@
 </norm>
 </orig>
 </lb_n>
-<lb_n lb_n="9">
+<lb_n lb_n="4">
 <orig orig="ⲛϩⲏⲧ">
 <norm norm="ⲛϩⲏⲧ">
 <lemma lemma="ϩⲛ">
@@ -3235,7 +3235,7 @@
 </norm>
 </orig>
 </lb_n>
-<lb_n lb_n="10">
+<lb_n lb_n="5">
 <orig orig="ⲡⲣⲟⲥⲫⲟⲣⲁ">
 <norm norm="ⲡⲣⲟⲥⲫⲟⲣⲁ">
 <lemma lemma="ⲡⲣⲟⲥⲫⲟⲣⲁ">
@@ -3424,7 +3424,7 @@
 </norm_group>
 </orig_group>
 </lb_n>
-<lb_n lb_n="11">
+<lb_n lb_n="6">
 <orig_group orig_group="ⲉⲣⲟⲟⲩ">
 <norm_group norm_group="ⲉⲣⲟⲟⲩ">
 <orig orig="ⲉⲣⲟ">
@@ -3645,8 +3645,8 @@
 ⲣⲱ
 </lb_n>
 </pb_xml_id>
-<pb_xml_id pb_xml_id="ⲓ︦ⲍ︦">
-<lb_n lb_n="1">
+<pb_xml_id pb_xml_id="FL17">
+<lb_n lb_n="7">
 ⲙⲉ
 </pos>
 </lemma>
@@ -3807,7 +3807,7 @@
 </norm>
 </orig>
 </lb_n>
-<lb_n lb_n="2">
+<lb_n lb_n="8">
 <orig orig="ⲉⲓⲣⲉ">
 <norm norm="ⲉⲓⲣⲉ">
 <lemma lemma="ⲉⲓⲣⲉ">
@@ -4000,7 +4000,7 @@
 </norm_group>
 </orig_group>
 </lb_n>
-<lb_n lb_n="3">
+<lb_n lb_n="9">
 <orig_group orig_group="ⲛϩⲉⲛⲡⲣⲟⲥⲫⲟⲣⲁ">
 <norm_group norm_group="ⲛϩⲉⲛⲡⲣⲟⲥⲫⲟⲣⲁ">
 <orig orig="ⲛ">
@@ -4173,7 +4173,7 @@
 </norm>
 </orig>
 </lb_n>
-<lb_n lb_n="4">
+<lb_n lb_n="10">
 <orig orig="ⲕⲣⲓⲙⲁ">
 <norm norm="ⲕⲣⲓⲙⲁ">
 <lemma lemma="ⲕⲣⲓⲙⲁ">
@@ -4329,7 +4329,7 @@
 </norm>
 </orig>
 </lb_n>
-<lb_n lb_n="5">
+<lb_n lb_n="11">
 <orig orig="ⲧⲉ">
 <norm norm="ⲧⲉ">
 <lemma lemma="ⲡ">
@@ -4543,7 +4543,7 @@
 </norm_group>
 </orig_group>
 </lb_n>
-<lb_n lb_n="6">
+<lb_n lb_n="12">
 <orig_group orig_group="ⲉⲧⲙⲙⲁⲩ">
 <norm_group norm_group="ⲉⲧⲙⲙⲁⲩ">
 <orig orig="ⲉⲧ">
@@ -4742,7 +4742,7 @@
 </norm>
 </orig>
 </lb_n>
-<lb_n lb_n="7">
+<lb_n lb_n="13">
 <orig orig="ⲡ">
 <norm norm="ⲡ">
 <lemma lemma="ⲡ">
@@ -4940,7 +4940,7 @@
 </norm_group>
 </orig_group>
 </lb_n>
-<lb_n lb_n="8">
+<lb_n lb_n="14">
 <orig_group orig_group="ⲉⲧⲙⲧⲣⲉϥⲟⲩⲉⲙⲟⲉⲓⲕ">
 <norm_group norm_group="ⲉⲧⲙⲧⲣⲉϥⲟⲩⲉⲙⲟⲉⲓⲕ">
 <orig orig="ⲉ">
@@ -5147,7 +5147,7 @@
 </norm_group>
 </orig_group>
 </lb_n>
-<lb_n lb_n="9">
+<lb_n lb_n="15">
 <orig_group orig_group="ⲉϣⲗⲏⲗ">
 <norm_group norm_group="ⲉϣⲗⲏⲗ">
 <orig orig="ⲉ">
@@ -5334,8 +5334,8 @@
 </norm_group>
 </orig_group>
 </lb_n>
-</ed_page>
-<ed_page ed_page="ed_page">
+</ed_page_n>
+<ed_page_n ed_page_n="82">
 <lb_n lb_n="1">
 <orig_group orig_group="ⲉϫⲛⲧⲙⲏⲧⲉ">
 <norm_group norm_group="ⲉϫⲛⲧⲙⲏⲧⲉ">
@@ -5402,7 +5402,7 @@
 </norm>
 </orig>
 </pb_xml_id>
-<pb_xml_id pb_xml_id="ⲓ︦ⲏ︦">
+<pb_xml_id pb_xml_id="FL18">
 <orig orig="ⲡⲁⲗⲓⲛ">
 <norm norm="ⲡⲁⲗⲓⲛ">
 <lemma lemma="ⲡⲁⲗⲓⲛ">
@@ -5434,7 +5434,7 @@
 <orig orig="ⲛⲧⲉ">
 <norm norm="ⲛⲧⲉ">
 <lemma lemma="ⲛⲧⲉ">
-<pos pos="PREP">
+<pos pos="ACONJ">
 ⲛⲧⲉ
 </pos>
 </lemma>
@@ -6293,12 +6293,21 @@
 </norm_group>
 </orig_group>
 <orig_group orig_group="ⲙⲡⲉⲓⲥⲟⲡ">
-<norm_group norm_group="ⲙⲡⲉⲓϩⲉⲥⲟⲡ">
-<orig orig="ⲙⲡⲉⲓ">
-<norm norm="ⲙⲡⲉⲓϩⲉ">
-<lemma lemma="ⲙⲡⲉⲓϩⲉ">
-<pos pos="CONJ">
-ⲙⲡⲉⲓ
+<norm_group norm_group="ⲙⲡⲉⲓⲥⲟⲡ">
+<orig orig="ⲙ">
+<norm norm="ⲙ">
+<lemma lemma="ⲛ">
+<pos pos="PREP">
+ⲙ
+</pos>
+</lemma>
+</norm>
+</orig>
+<orig orig="ⲡⲉⲓ">
+<norm norm="ⲡⲉⲓ">
+<lemma lemma="ⲡⲉⲓ">
+<pos pos="PDEM">
+ⲡⲉⲓ
 </pos>
 </lemma>
 </norm>
@@ -6673,8 +6682,8 @@
 </orig>
 <orig orig="ⲉ">
 <norm norm="ⲉ">
-<lemma lemma="ⲉⲣⲉ">
-<pos pos="CCIRC">
+<lemma lemma="ⲛⲧⲟ">
+<pos pos="PPERO">
 ⲉ
 </pos>
 </lemma>
@@ -6886,8 +6895,8 @@
 </orig_group>
 </lb_n>
 <lb_n lb_n="9">
-<orig_group orig_group="ⲉϣϫⲉ">
-<norm_group norm_group="ⲉϣϫⲉ">
+<orig_group orig_group="ⲉϣϫⲉⲟⲩⲛϩⲉⲛⲕⲟⲟⲩⲉ">
+<norm_group norm_group="ⲉϣϫⲉⲟⲩⲛϩⲉⲛⲕⲟⲟⲩⲉ">
 <orig orig="ⲉϣϫⲉ">
 <norm norm="ⲉϣϫⲉ">
 <lemma lemma="ⲉϣϫⲉ">
@@ -6897,10 +6906,6 @@
 </lemma>
 </norm>
 </orig>
-</norm_group>
-</orig_group>
-<orig_group orig_group="ⲟⲩⲛϩⲉⲛⲕⲟⲟⲩⲉ">
-<norm_group norm_group="ⲟⲩⲛϩⲉⲛⲕⲟⲟⲩⲉ">
 <orig orig="ⲟⲩⲛ">
 <norm norm="ⲟⲩⲛ">
 <lemma lemma="ⲟⲩⲛ">
@@ -7070,7 +7075,7 @@
 </norm>
 </orig>
 </lb_n>
-<lb_n lb_n="1">
+<lb_n lb_n="10">
 <orig orig="ⲕⲣⲟϥ">
 <norm norm="ⲕⲣⲟϥ">
 <lemma lemma="ⲕⲣⲟϥ">
@@ -7205,7 +7210,7 @@
 </norm_group>
 </orig_group>
 </pb_xml_id>
-<pb_xml_id pb_xml_id="ⲓ︦ⲑ︦">
+<pb_xml_id pb_xml_id="FL19">
 <orig_group orig_group="ⲉⲓⲧⲉ">
 <norm_group norm_group="ⲉⲓⲧⲉ">
 <orig orig="ⲉⲓⲧⲉ">
@@ -7250,7 +7255,7 @@
 </norm_group>
 </orig_group>
 </lb_n>
-<lb_n lb_n="2">
+<lb_n lb_n="11">
 <orig_group orig_group="ⲕⲟⲩⲓ">
 <norm_group norm_group="ⲕⲟⲩⲓ">
 <orig orig="ⲕⲟⲩⲓ">
@@ -7460,7 +7465,7 @@
 </norm>
 </orig>
 </lb_n>
-<lb_n lb_n="3">
+<lb_n lb_n="12">
 <orig orig="ϭⲱⲛⲧ">
 <norm norm="ϭⲱⲛⲧ">
 <lemma lemma="ϭⲱⲛⲧ">
@@ -7654,7 +7659,7 @@
 </norm_group>
 </orig_group>
 </lb_n>
-<lb_n lb_n="4">
+<lb_n lb_n="13">
 <orig_group orig_group="ϩⲣⲁⲓ">
 <norm_group norm_group="ϩⲣⲁⲓ">
 <orig orig="ϩⲣⲁⲓ">
@@ -7832,7 +7837,7 @@
 </norm>
 </orig>
 </lb_n>
-<lb_n lb_n="5">
+<lb_n lb_n="14">
 <orig orig="ⲛ">
 <norm norm="ⲛ">
 <lemma lemma="ⲡ">
@@ -8050,9 +8055,9 @@
 </norm>
 </orig>
 </lb_n>
-</ed_page>
-<ed_page ed_page="ed_page">
-<lb_n lb_n="6">
+</ed_page_n>
+<ed_page_n ed_page_n="83">
+<lb_n lb_n="1">
 <orig orig="ⲛ">
 <norm norm="_warn:empty_norm_">
 <lemma lemma="_warn:empty_norm_">
@@ -8237,7 +8242,7 @@
 </norm>
 </orig>
 </lb_n>
-<lb_n lb_n="7">
+<lb_n lb_n="2">
 <orig orig="ⲙⲡ">
 <norm norm="ⲙⲡ">
 <lemma lemma="ⲙⲡⲉ">
@@ -8383,20 +8388,16 @@
 </lemma>
 </norm>
 </orig>
-<orig orig="ⲙⲛⲧ">
-<norm norm="ⲙⲛⲧ">
-<lemma lemma="ⲙⲛⲧⲉ">
-<pos pos="EXIST">
+<orig orig="ⲙⲛⲧⲟⲩ">
+<norm norm="ⲙⲛⲧⲟⲩ">
+<lemma lemma="ⲙⲛⲧⲟⲩ">
+<pos pos="PPOS">
+<morph morph="ⲙⲛⲧ">
 ⲙⲛⲧ
-</pos>
-</lemma>
-</norm>
-</orig>
-<orig orig="ⲟⲩ">
-<norm norm="ⲟⲩ">
-<lemma lemma="ⲟⲩ">
-<pos pos="ART">
+</morph>
+<morph morph="ⲟⲩ">
 ⲟⲩ
+</morph>
 </pos>
 </lemma>
 </norm>
@@ -8457,7 +8458,7 @@
 </norm_group>
 </orig_group>
 </lb_n>
-<lb_n lb_n="8">
+<lb_n lb_n="3">
 <orig_group orig_group="ⲉⲧⲉⲧⲛⲁⲛⲁⲩ">
 <norm_group norm_group="ⲉⲧⲉⲧⲛⲁⲛⲁⲩ">
 <orig orig="ⲉ">
@@ -8668,7 +8669,7 @@
 </norm_group>
 </orig_group>
 </lb_n>
-<lb_n lb_n="9">
+<lb_n lb_n="4">
 <orig_group orig_group="ⲕⲉⲙⲉⲣⲟⲥ">
 <norm_group norm_group="ⲕⲉⲙⲉⲣⲟⲥ">
 <orig orig="ⲕⲉ">
@@ -8902,7 +8903,7 @@
 </norm>
 </orig>
 </lb_n>
-<lb_n lb_n="10">
+<lb_n lb_n="5">
 <orig orig="ⲡⲁⲓ">
 <norm norm="ⲡⲁⲓ">
 <lemma lemma="ⲡⲁⲓ">
@@ -9077,7 +9078,7 @@
 </norm_group>
 </orig_group>
 </lb_n>
-<lb_n lb_n="1">
+<lb_n lb_n="6">
 <orig_group orig_group="ⲉⲡϩⲱⲃ">
 <norm_group norm_group="ⲉⲡϩⲱⲃ">
 <orig orig="ⲉ">
@@ -9141,7 +9142,7 @@
 </norm_group>
 </orig_group>
 </pb_xml_id>
-<pb_xml_id pb_xml_id="ⲕ︦">
+<pb_xml_id pb_xml_id="FL20">
 <orig_group orig_group="ⲛⲧⲟϥ">
 <norm_group norm_group="ⲛⲧⲟϥ">
 <orig orig="ⲛⲧⲟϥ">
@@ -9225,8 +9226,8 @@
 </orig>
 </norm_group>
 </orig_group>
-<orig_group orig_group="ⲉϣϫⲉ">
-<norm_group norm_group="ⲉϣϫⲉ">
+<orig_group orig_group="ⲉϣϫⲉⲙⲫⲁⲥⲕⲓⲁ">
+<norm_group norm_group="ⲉϣϫⲉⲙⲫⲁⲥⲕⲓⲁ">
 <orig orig="ⲉϣϫⲉ">
 <norm norm="ⲉϣϫⲉ">
 <lemma lemma="ⲉϣϫⲉ">
@@ -9236,14 +9237,10 @@
 </lemma>
 </norm>
 </orig>
-</norm_group>
-</orig_group>
-<orig_group orig_group="ⲙⲫⲁⲥⲕⲓⲁ">
-<norm_group norm_group="ⲙⲫⲁⲥⲕⲓⲁ">
 <orig orig="ⲙ">
 <norm norm="ⲙ">
-<lemma lemma="ⲛ">
-<pos pos="PREP">
+<lemma lemma="ⲡ">
+<pos pos="ART">
 ⲙ
 </pos>
 </lemma>
@@ -9296,7 +9293,7 @@
 </norm>
 </orig>
 </lb_n>
-<lb_n lb_n="2">
+<lb_n lb_n="7">
 <orig orig="ⲍⲱⲛⲏ">
 <norm norm="ⲍⲱⲛⲏ">
 <lemma lemma="ⲍⲱⲛⲏ">
@@ -9512,7 +9509,7 @@
 </norm_group>
 </orig_group>
 </lb_n>
-<lb_n lb_n="3">
+<lb_n lb_n="8">
 <orig_group orig_group="ⲉⲧϣⲟⲟⲡ">
 <norm_group norm_group="ⲉⲧϣⲟⲟⲡ">
 <orig orig="ⲉⲧ">
@@ -9701,7 +9698,7 @@
 </norm_group>
 </orig_group>
 </lb_n>
-<lb_n lb_n="4">
+<lb_n lb_n="9">
 <orig_group orig_group="ⲛⲁⲛⲍⲱⲛⲏ">
 <norm_group norm_group="ⲛⲁⲛⲍⲱⲛⲏ">
 <orig orig="ⲛⲁ">
@@ -9910,7 +9907,7 @@
 </norm_group>
 </orig_group>
 </lb_n>
-<lb_n lb_n="5">
+<lb_n lb_n="10">
 <orig_group orig_group="ⲙⲙⲁⲩ">
 <norm_group norm_group="ⲙⲙⲁⲩ">
 <orig orig="ⲙⲙⲁⲩ">
@@ -10130,7 +10127,7 @@
 </norm_group>
 </orig_group>
 </lb_n>
-<lb_n lb_n="6">
+<lb_n lb_n="11">
 <orig_group orig_group="ϫⲉⲙⲛϣϭⲟⲙ">
 <norm_group norm_group="ϫⲉⲙⲛϣϭⲟⲙ">
 <orig orig="ϫⲉ">
@@ -10357,7 +10354,7 @@
 </norm>
 </orig>
 </lb_n>
-<lb_n lb_n="7">
+<lb_n lb_n="12">
 <orig orig="ⲡⲁⲓ">
 <norm norm="ⲡⲁⲓ">
 <lemma lemma="ⲡⲁⲓ">
@@ -10604,7 +10601,7 @@
 </norm>
 </orig>
 </lb_n>
-<lb_n lb_n="8">
+<lb_n lb_n="13">
 <orig orig="ⲡⲉ">
 <norm norm="ⲡⲉ">
 <lemma lemma="ⲡ">
@@ -10804,9 +10801,9 @@
 </norm>
 </orig>
 </lb_n>
-</ed_page>
-<ed_page ed_page="ed_page">
-<lb_n lb_n="9">
+</ed_page_n>
+<ed_page_n ed_page_n="84">
+<lb_n lb_n="1">
 <orig orig="ⲡ">
 <norm norm="ⲡ">
 <lemma lemma="ⲡ">
@@ -11035,7 +11032,7 @@
 </norm>
 </orig>
 </lb_n>
-<lb_n lb_n="10">
+<lb_n lb_n="2">
 <orig orig="ϣⲁⲩ">
 <norm norm="ϣⲁⲩ">
 <lemma lemma="ϣⲁⲩ">
@@ -11213,7 +11210,7 @@
 </norm_group>
 </orig_group>
 </lb_n>
-<lb_n lb_n="1">
+<lb_n lb_n="3">
 <orig_group orig_group="ⲉⲛⲧⲁⲡⲁⲓ">
 <norm_group norm_group="ⲉⲛⲧⲁⲡⲁⲓ">
 <orig orig="ⲉⲛⲧ">
@@ -11257,7 +11254,7 @@
 </norm>
 </orig>
 </pb_xml_id>
-<pb_xml_id pb_xml_id="ⲕ︦ⲁ︦">
+<pb_xml_id pb_xml_id="FL21">
 <orig orig="ϣⲁϫⲉ">
 <norm norm="ϣⲁϫⲉ">
 <lemma lemma="ϣⲁϫⲉ">
@@ -11391,7 +11388,7 @@
 </norm_group>
 </orig_group>
 </lb_n>
-<lb_n lb_n="2">
+<lb_n lb_n="4">
 <orig_group orig_group="ⲛⲧⲁϥⲁⲁⲩ">
 <norm_group norm_group="ⲛⲧⲁϥⲁⲁⲩ">
 <orig orig="ⲛⲧ">
@@ -11614,7 +11611,7 @@
 </norm_group>
 </orig_group>
 </lb_n>
-<lb_n lb_n="3">
+<lb_n lb_n="5">
 <orig_group orig_group="ⲛⲛⲉⲓϩⲃⲏⲩⲉ">
 <norm_group norm_group="ⲛⲛⲉⲓϩⲃⲏⲩⲉ">
 <orig orig="ⲛ">
@@ -11834,7 +11831,7 @@
 </norm_group>
 </orig_group>
 </lb_n>
-<lb_n lb_n="4">
+<lb_n lb_n="6">
 <orig_group orig_group="ⲙⲡⲉⲧϩⲓⲧⲟⲩⲱϥ">
 <norm_group norm_group="ⲙⲡⲉⲧϩⲓⲧⲟⲩⲱϥ">
 <orig orig="ⲙ">
@@ -12054,7 +12051,7 @@
 </norm_group>
 </orig_group>
 </lb_n>
-<lb_n lb_n="5">
+<lb_n lb_n="7">
 <orig_group orig_group="ⲉϥⲕⲧⲟ">
 <norm_group norm_group="ⲉϥⲕⲧⲟ">
 <orig orig="ⲉ">
@@ -12267,7 +12264,7 @@
 </norm>
 </orig>
 </lb_n>
-<lb_n lb_n="6">
+<lb_n lb_n="8">
 <orig orig="ⲟⲩ">
 <norm norm="ⲟⲩ">
 <lemma lemma="ⲟⲩ">
@@ -12452,7 +12449,7 @@
 </norm_group>
 </orig_group>
 </lb_n>
-<lb_n lb_n="7">
+<lb_n lb_n="9">
 <orig_group orig_group="ϥϩⲓϫⲱⲟⲩ">
 <norm_group norm_group="ϥϩⲓϫⲱⲟⲩ">
 <orig orig="ϥ">
@@ -12629,7 +12626,7 @@
 </norm>
 </orig>
 </lb_n>
-<lb_n lb_n="8">
+<lb_n lb_n="10">
 <orig orig="ϥ">
 <norm norm="ϥ">
 <lemma lemma="ⲛⲧⲟϥ">
@@ -12807,7 +12804,7 @@
 <pos pos="V">
 ⲡⲉ
 </lb_n>
-<lb_n lb_n="9">
+<lb_n lb_n="11">
 ϯⲛⲁⲩ
 </pos>
 </lemma>
@@ -12957,7 +12954,7 @@
 </norm>
 </orig>
 </lb_n>
-<lb_n lb_n="10">
+<lb_n lb_n="12">
 <orig orig="ⲙ">
 <norm norm="ⲙ">
 <lemma lemma="ⲡ">
@@ -13181,7 +13178,7 @@
 </norm_group>
 </orig_group>
 </lb_n>
-<lb_n lb_n="1">
+<lb_n lb_n="13">
 <orig_group orig_group="ⲛϣⲟⲩ">
 <norm_group norm_group="ⲛϣⲟⲩ">
 <orig orig="ⲛ">
@@ -13308,7 +13305,7 @@
 </norm_group>
 </orig_group>
 </pb_xml_id>
-<pb_xml_id pb_xml_id="ⲕ︦ⲃ︦">
+<pb_xml_id pb_xml_id="FL22">
 <orig_group orig_group="ⲉⲧⲃⲉⲡⲉⲩⲧⲃⲃⲟ">
 <norm_group norm_group="ⲉⲧⲃⲉⲡⲉⲩⲧⲃⲃⲟ">
 <orig orig="ⲉⲧⲃⲉ">
@@ -13361,7 +13358,7 @@
 </norm>
 </orig>
 </lb_n>
-<lb_n lb_n="2">
+<lb_n lb_n="14">
 <orig orig="ⲁⲅⲁⲡⲏ">
 <norm norm="ⲁⲅⲁⲡⲏ">
 <lemma lemma="ⲁⲅⲁⲡⲏ">
@@ -13506,7 +13503,7 @@
 <orig orig="ϩⲏⲩ">
 <norm norm="ϩⲏⲩ">
 <lemma lemma="ϩⲏⲩ">
-<pos pos="VSTAT">
+<pos pos="N">
 ϩⲏⲩ
 </pos>
 </lemma>
@@ -13515,24 +13512,24 @@
 </norm_group>
 </orig_group>
 </lb_n>
-</ed_page>
-<ed_page ed_page="ed_page">
-<lb_n lb_n="3">
+</ed_page_n>
+<ed_page_n ed_page_n="85">
+<lb_n lb_n="1">
 <orig_group orig_group="ⲉⲣⲟⲟⲩ">
-<norm_group norm_group="ⲉⲣⲟⲟⲩ">
+<norm_group norm_group="_warn:empty_norm_ⲉⲣⲟ">
 <orig orig="ⲉⲣⲟ">
-<norm norm="ⲉⲣⲟ">
-<lemma lemma="ⲉ">
-<pos pos="PREP">
+<norm norm="_warn:empty_norm_">
+<lemma lemma="_warn:empty_norm_">
+<pos pos="V">
 ⲉⲣⲟ
 </pos>
 </lemma>
 </norm>
 </orig>
 <orig orig="ⲟⲩ">
-<norm norm="ⲟⲩ">
-<lemma lemma="ⲛⲧⲟⲟⲩ">
-<pos pos="PPERO">
+<norm norm="ⲉⲣⲟ">
+<lemma lemma="ⲉ_ⲛⲧⲟ">
+<pos pos="PREP_PPERO">
 ⲟⲩ
 </pos>
 </lemma>
@@ -13697,7 +13694,7 @@
 </norm>
 </orig>
 </lb_n>
-<lb_n lb_n="4">
+<lb_n lb_n="2">
 <orig orig="ⲡ">
 <norm norm="ⲡ">
 <lemma lemma="ⲡ">
@@ -13916,7 +13913,7 @@
 </norm_group>
 </orig_group>
 </lb_n>
-<lb_n lb_n="5">
+<lb_n lb_n="3">
 <orig_group orig_group="ⲛⲓⲙ">
 <norm_group norm_group="ⲛⲓⲙ">
 <orig orig="ⲛⲓⲙ">
@@ -14116,7 +14113,7 @@
 </norm_group>
 </orig_group>
 </lb_n>
-<lb_n lb_n="6">
+<lb_n lb_n="4">
 <orig_group orig_group="ⲉⲓⲉ">
 <norm_group norm_group="ⲉⲓⲉ">
 <orig orig="ⲉⲓⲉ">
@@ -14328,7 +14325,7 @@
 </norm>
 </orig>
 </lb_n>
-<lb_n lb_n="7">
+<lb_n lb_n="5">
 <orig orig="ϣⲱⲡⲉ">
 <norm norm="ϣⲱⲡⲉ">
 <lemma lemma="ϣⲱⲡⲉ">
@@ -14521,7 +14518,7 @@
 </norm_group>
 </orig_group>
 </lb_n>
-<lb_n lb_n="8">
+<lb_n lb_n="6">
 <orig_group orig_group="ⲉⲧⲙⲙⲁⲩ">
 <norm_group norm_group="ⲉⲧⲙⲙⲁⲩ">
 <orig orig="ⲉⲧ">
@@ -14733,7 +14730,7 @@
 </norm>
 </orig>
 </lb_n>
-<lb_n lb_n="9">
+<lb_n lb_n="7">
 <orig orig="ⲡ">
 <norm norm="ⲡ">
 <lemma lemma="ⲡ">
@@ -14935,7 +14932,7 @@
 </norm_group>
 </orig_group>
 </lb_n>
-<lb_n lb_n="10">
+<lb_n lb_n="8">
 <orig_group orig_group="ⲛⲁⲛⲧⲥ">
 <norm_group norm_group="ⲛⲁⲛⲧⲥ">
 <orig orig="ⲛⲁ">
@@ -15166,7 +15163,7 @@
 <pos pos="N">
 ⲣ
 </lb_n>
-<lb_n lb_n="1">
+<lb_n lb_n="9">
 ⲡⲉ
 </pos>
 </lemma>
@@ -15336,7 +15333,7 @@
 <pos pos="PREP">
 ⲛ
 </pb_xml_id>
-<pb_xml_id pb_xml_id="ⲕ︦ⲅ︦">
+<pb_xml_id pb_xml_id="FL23">
 [...]
 </pos>
 </lemma>
@@ -15371,7 +15368,7 @@
 </norm_group>
 </orig_group>
 </lb_n>
-<lb_n lb_n="2">
+<lb_n lb_n="10">
 <orig_group orig_group="ⲉ[..]">
 <norm_group norm_group="ⲉ..">
 <orig orig="ⲉ[..]">
@@ -15582,7 +15579,7 @@
 <pos pos="V">
 ⲁ
 </lb_n>
-<lb_n lb_n="3">
+<lb_n lb_n="11">
 ⲉⲓⲟ
 </pos>
 </lemma>
@@ -15819,7 +15816,7 @@
 </norm_group>
 </orig_group>
 </lb_n>
-<lb_n lb_n="4">
+<lb_n lb_n="12">
 <orig_group orig_group="ϫⲟⲟϥ">
 <norm_group norm_group="ϫⲟⲟϥ">
 <orig orig="ϫⲟⲟ">
@@ -16025,7 +16022,7 @@
 </norm_group>
 </orig_group>
 </lb_n>
-<lb_n lb_n="5">
+<lb_n lb_n="13">
 <orig_group orig_group="ϩⲛⲛⲉϥϩⲓⲟⲟⲩⲉ">
 <norm_group norm_group="ϩⲛⲛⲉϥϩⲓⲟⲟⲩⲉ">
 <orig orig="ϩⲛ">
@@ -16260,7 +16257,7 @@
 </norm_group>
 </orig_group>
 </lb_n>
-<lb_n lb_n="6">
+<lb_n lb_n="14">
 <orig_group orig_group="ⲉϩⲣⲁⲓ">
 <norm_group norm_group="ⲉϩⲣⲁⲓ">
 <orig orig="ⲉϩⲣⲁⲓ">
@@ -16434,7 +16431,7 @@
 </norm>
 </orig>
 </lb_n>
-<lb_n lb_n="7">
+<lb_n lb_n="15">
 <orig orig="ⲟⲉⲓϣ">
 <norm norm="ⲟⲉⲓϣ">
 <lemma lemma="ⲟⲉⲓϣ">
@@ -16653,9 +16650,9 @@
 </norm>
 </orig>
 </lb_n>
-</ed_page>
-<ed_page ed_page="ed_page">
-<lb_n lb_n="8">
+</ed_page_n>
+<ed_page_n ed_page_n="86">
+<lb_n lb_n="1">
 <orig orig="ⲟⲩ">
 <norm norm="ⲟⲩ">
 <lemma lemma="ⲟⲩ">
@@ -16875,7 +16872,7 @@
 </norm>
 </orig>
 </lb_n>
-<lb_n lb_n="9">
+<lb_n lb_n="2">
 <orig orig="ϣⲁ">
 <norm norm="ϣⲁ">
 <lemma lemma="ϣⲁ">
@@ -17092,7 +17089,7 @@
 </norm_group>
 </orig_group>
 </lb_n>
-<lb_n lb_n="10">
+<lb_n lb_n="3">
 <orig_group orig_group="ⲉⲃⲟⲗ">
 <norm_group norm_group="ⲉⲃⲟⲗ">
 <orig orig="ⲉⲃⲟⲗ">
@@ -17284,7 +17281,7 @@
 </norm>
 </orig>
 </lb_n>
-<lb_n lb_n="1">
+<lb_n lb_n="4">
 <orig orig="ϯ">
 <norm norm="ϯ">
 <lemma lemma="ⲁⲛⲟⲕ">
@@ -17432,7 +17429,7 @@
 </norm_group>
 </orig_group>
 </pb_xml_id>
-<pb_xml_id pb_xml_id="ⲕ︦ⲇ︦">
+<pb_xml_id pb_xml_id="FL24">
 <orig_group orig_group="ⲡⲁⲣⲁⲧⲁⲥⲱⲧⲙ">
 <norm_group norm_group="ⲡⲁⲣⲁⲧⲁⲥⲱⲧⲙ">
 <orig orig="ⲡⲁⲣⲁ">
@@ -17467,7 +17464,7 @@
 </norm_group>
 </orig_group>
 </lb_n>
-<lb_n lb_n="2">
+<lb_n lb_n="5">
 <orig_group orig_group="ϫⲉⲟⲩⲁ">
 <norm_group norm_group="ϫⲉⲟⲩⲁ">
 <orig orig="ϫⲉ">
@@ -17645,7 +17642,7 @@
 </norm>
 </orig>
 </lb_n>
-<lb_n lb_n="3">
+<lb_n lb_n="6">
 <orig orig="ϥ">
 <norm norm="ϥ">
 <lemma lemma="ⲛⲧⲟϥ">
@@ -17835,7 +17832,7 @@
 </norm>
 </orig>
 </lb_n>
-<lb_n lb_n="4">
+<lb_n lb_n="7">
 <orig orig="ϣⲓⲡⲉ">
 <norm norm="ϣⲓⲡⲉ">
 <lemma lemma="ϣⲓⲡⲉ">
@@ -18035,7 +18032,7 @@
 </norm>
 </orig>
 </lb_n>
-<lb_n lb_n="5">
+<lb_n lb_n="8">
 <orig orig="ⲡⲓ">
 <norm norm="ⲡⲓ">
 <lemma lemma="ⲡⲓ">
@@ -18284,7 +18281,7 @@
 </norm_group>
 </orig_group>
 </lb_n>
-<lb_n lb_n="6">
+<lb_n lb_n="9">
 <orig_group orig_group="ⲛⲉⲧⲥⲟⲟⲩⲛ">
 <norm_group norm_group="ⲛⲉⲧⲥⲟⲟⲩⲛ">
 <orig orig="ⲛ">
@@ -18544,7 +18541,7 @@
 </norm_group>
 </orig_group>
 </lb_n>
-<lb_n lb_n="7">
+<lb_n lb_n="10">
 <orig_group orig_group="ⲥ[..]">
 <norm_group norm_group="ⲥ..">
 <orig orig="ⲥ[..]">
@@ -18789,7 +18786,7 @@
 </norm>
 </orig>
 </lb_n>
-<lb_n lb_n="8">
+<lb_n lb_n="11">
 <orig orig="ⲁ">
 <norm norm="ⲁ">
 <lemma lemma="ⲁ">
@@ -19029,7 +19026,7 @@
 </norm_group>
 </orig_group>
 </lb_n>
-<lb_n lb_n="9">
+<lb_n lb_n="12">
 <orig_group orig_group="ⲉⲁⲩⲥⲱϩⲡ">
 <norm_group norm_group="ⲉⲁⲩⲥⲱϩⲡ">
 <orig orig="ⲉ">
@@ -19261,7 +19258,7 @@
 </norm_group>
 </orig_group>
 </lb_n>
-<lb_n lb_n="10">
+<lb_n lb_n="13">
 <orig_group orig_group="ϩⲛⲧⲉϥⲙⲛⲧⲛⲁⲏⲧ">
 <norm_group norm_group="ϩⲛⲧⲉϥⲙⲛⲧⲛⲁⲏⲧ">
 <orig orig="ϩⲛ">
@@ -19454,7 +19451,7 @@
 </norm_group>
 </orig_group>
 </lb_n>
-<lb_n lb_n="1">
+<lb_n lb_n="14">
 <orig_group orig_group="ⲏ">
 <norm_group norm_group="ⲏ">
 <orig orig="ⲏ">
@@ -19670,7 +19667,7 @@
 </norm>
 </orig>
 </pb_xml_id>
-<pb_xml_id pb_xml_id="ⲕ︦ⲉ︦">
+<pb_xml_id pb_xml_id="FL25">
 <orig orig="ⲡⲱϩ">
 <norm norm="ⲡⲱϩ">
 <lemma lemma="ⲡⲱϩ">
@@ -19690,7 +19687,7 @@
 <pos pos="NPROP">
 ϣⲁ
 </lb_n>
-<lb_n lb_n="2">
+<lb_n lb_n="15">
 ⲛⲕⲗ
 </pos>
 </lemma>
@@ -19931,24 +19928,24 @@
 </norm_group>
 </orig_group>
 </lb_n>
-</ed_page>
-<ed_page ed_page="ed_page">
-<lb_n lb_n="3">
+</ed_page_n>
+<ed_page_n ed_page_n="87">
+<lb_n lb_n="1">
 <orig_group orig_group="ⲉⲣⲟϥ">
-<norm_group norm_group="ⲉⲣⲟϥ">
+<norm_group norm_group="_warn:empty_norm_ⲉⲣⲟ">
 <orig orig="ⲉⲣⲟ">
-<norm norm="ⲉⲣⲟ">
-<lemma lemma="ⲉ">
-<pos pos="PREP">
+<norm norm="_warn:empty_norm_">
+<lemma lemma="_warn:empty_norm_">
+<pos pos="PUNCT">
 ⲉⲣⲟ
 </pos>
 </lemma>
 </norm>
 </orig>
 <orig orig="ϥ">
-<norm norm="ϥ">
-<lemma lemma="ⲛⲧⲟϥ">
-<pos pos="PPERO">
+<norm norm="ⲉⲣⲟ">
+<lemma lemma="ⲉ_ⲛⲧⲟ">
+<pos pos="PREP_PPERO">
 ϥ
 </pos>
 </lemma>
@@ -20159,7 +20156,7 @@
 </norm_group>
 </orig_group>
 </lb_n>
-<lb_n lb_n="4">
+<lb_n lb_n="2">
 <orig_group orig_group="ⲛϩⲏⲧⲉ">
 <norm_group norm_group="ⲛϩⲏⲧⲉ">
 <orig orig="ⲛϩⲏⲧ">
@@ -20290,7 +20287,7 @@
 <orig orig="ⲟϣ">
 <norm norm="ⲟϣ">
 <lemma lemma="ⲱϣ">
-<pos pos="V">
+<pos pos="VSTAT">
 ⲟϣ
 </pos>
 </lemma>
@@ -20407,7 +20404,7 @@
 </norm_group>
 </orig_group>
 </lb_n>
-<lb_n lb_n="5">
+<lb_n lb_n="3">
 <orig_group orig_group="ⲉⲣⲟϥ">
 <norm_group norm_group="ⲉⲣⲟϥ">
 <orig orig="ⲉⲣⲟ">
@@ -20620,7 +20617,7 @@
 </norm_group>
 </orig_group>
 </lb_n>
-<lb_n lb_n="6">
+<lb_n lb_n="4">
 <orig_group orig_group="ϣⲁⲛⲧⲟⲩⲥⲱϩⲡ">
 <norm_group norm_group="ϣⲁⲛⲧⲟⲩⲥⲱϩⲡ">
 <orig orig="ϣⲁⲛⲧ">
@@ -20789,7 +20786,7 @@
 </norm_group>
 </orig_group>
 </lb_n>
-<lb_n lb_n="7">
+<lb_n lb_n="5">
 <orig_group orig_group="ⲁⲩⲱ">
 <norm_group norm_group="ⲁⲩⲱ">
 <orig orig="ⲁⲩⲱ">
@@ -21032,7 +21029,7 @@
 </norm_group>
 </orig_group>
 </lb_n>
-<lb_n lb_n="8">
+<lb_n lb_n="6">
 <orig_group orig_group="ⲣⲱ">
 <norm_group norm_group="ⲣⲱ">
 <orig orig="ⲣⲱ">
@@ -21227,7 +21224,7 @@
 </norm>
 </orig>
 </lb_n>
-<lb_n lb_n="9">
+<lb_n lb_n="7">
 <orig orig="ⲙ">
 <norm norm="ⲙ">
 <lemma lemma="ⲡ">
@@ -21457,7 +21454,7 @@
 </norm_group>
 </orig_group>
 </lb_n>
-<lb_n lb_n="10">
+<lb_n lb_n="8">
 <orig_group orig_group="ⲛϩⲏⲧϥ">
 <norm_group norm_group="ⲛϩⲏⲧϥ">
 <orig orig="ⲛϩⲏⲧ">
@@ -21665,7 +21662,7 @@
 </norm>
 </orig>
 </lb_n>
-<lb_n lb_n="11">
+<lb_n lb_n="9">
 <orig orig="ϥ">
 <norm norm="ϥ">
 <lemma lemma="ⲛⲧⲟϥ">
@@ -21925,8 +21922,8 @@
 ⲡⲱϩⲧ
 </lb_n>
 </pb_xml_id>
-<pb_xml_id pb_xml_id="ⲕ︦︦ϝ︦">
-<lb_n lb_n="1">
+<pb_xml_id pb_xml_id="FL26">
+<lb_n lb_n="10">
 ⲥⲛⲟϥ
 </pos>
 </lemma>
@@ -22144,7 +22141,7 @@
 </norm_group>
 </orig_group>
 </lb_n>
-<lb_n lb_n="2">
+<lb_n lb_n="11">
 <orig_group orig_group="ⲛⲙⲙⲁⲛ">
 <norm_group norm_group="ⲛⲙⲙⲁⲛ">
 <orig orig="ⲛⲙⲙⲁ">
@@ -22397,7 +22394,7 @@
 </norm_group>
 </orig_group>
 </lb_n>
-<lb_n lb_n="3">
+<lb_n lb_n="12">
 <orig_group orig_group="ⲉⲧⲙⲙⲁⲩ">
 <norm_group norm_group="ⲉⲧⲙⲙⲁⲩ">
 <orig orig="ⲉⲧ">
@@ -22570,7 +22567,7 @@
 </norm>
 </orig>
 </lb_n>
-<lb_n lb_n="4">
+<lb_n lb_n="13">
 <orig orig="ⲙ">
 <norm norm="ⲙ">
 <lemma lemma="ⲡ">
@@ -22759,7 +22756,7 @@
 </norm_group>
 </orig_group>
 </lb_n>
-<lb_n lb_n="5">
+<lb_n lb_n="14">
 <orig_group orig_group="ⲉⲓⲧⲉ">
 <norm_group norm_group="ⲉⲓⲧⲉ">
 <orig orig="ⲉⲓⲧⲉ">
@@ -22984,7 +22981,7 @@
 </norm_group>
 </orig_group>
 <orig_group orig_group="ϩⲛⲧⲁⲣⲭⲏ">
-<norm_group norm_group="ϩⲛⲧⲁⲣⲭⲏ">
+<norm_group norm_group="ϩⲛ_warn:empty_norm_ⲧⲁⲣⲭⲏ">
 <orig orig="ϩⲛ">
 <norm norm="ϩⲛ">
 <lemma lemma="ϩⲛ">
@@ -22995,13 +22992,12 @@
 </norm>
 </orig>
 </lb_n>
-</ed_page>
-<ed_page ed_page="ed_page">
-<lb_n lb_n="6">
+</ed_page_n>
+<lb_n lb_n="1">
 <orig orig="ⲧ">
-<norm norm="ⲧ">
-<lemma lemma="ⲡ">
-<pos pos="ART">
+<norm norm="_warn:empty_norm_">
+<lemma lemma="_warn:empty_norm_">
+<pos pos="NPROP">
 ⲧ
 </pos>
 </lemma>
@@ -23233,7 +23229,7 @@
 </norm_group>
 </orig_group>
 </lb_n>
-<lb_n lb_n="7">
+<lb_n lb_n="2">
 <orig_group orig_group="ⲙⲡⲉⲧϣⲟⲟⲡ">
 <norm_group norm_group="ⲙⲡⲉⲧϣⲟⲟⲡ">
 <orig orig="ⲙ">
@@ -23450,7 +23446,7 @@
 </norm_group>
 </orig_group>
 </lb_n>
-<lb_n lb_n="8">
+<lb_n lb_n="3">
 <orig_group orig_group="ⲉϥⲙⲙⲁⲩ">
 <norm_group norm_group="ⲉϥⲙⲙⲁⲩ">
 <orig orig="ⲉ">
@@ -23700,7 +23696,7 @@
 </norm_group>
 </orig_group>
 </lb_n>
-<lb_n lb_n="9">
+<lb_n lb_n="4">
 <orig_group orig_group="ⲛⲧⲏⲡⲉ">
 <norm_group norm_group="ⲛⲧⲏⲡⲉ">
 <orig orig="ⲛ">
@@ -23966,7 +23962,7 @@
 </norm_group>
 </orig_group>
 </lb_n>
-<lb_n lb_n="1">
+<lb_n lb_n="5">
 <orig_group orig_group="ⲙⲙⲟ">
 <norm_group norm_group="ⲙⲙⲟ">
 <orig orig="ⲙⲙⲟ">
@@ -24037,8 +24033,8 @@
 </orig>
 <orig orig="ϣⲟⲕϩ">
 <norm norm="ϣⲟⲕϩ">
-<lemma lemma="ϣⲟⲕϩ">
-<pos pos="VSTAT">
+<lemma lemma="ϣⲱⲕϩ">
+<pos pos="V">
 ϣⲟⲕϩ
 </pos>
 </lemma>
@@ -24120,7 +24116,7 @@
 <pos pos="N">
 ⲕⲁ
 </pb_xml_id>
-<pb_xml_id pb_xml_id="ⲕ︦ⲍ︦">
+<pb_xml_id pb_xml_id="FL27">
 ⲕⲉ
 </pos>
 </lemma>
@@ -24166,7 +24162,7 @@
 </norm_group>
 </orig_group>
 </lb_n>
-<lb_n lb_n="2">
+<lb_n lb_n="6">
 <orig_group orig_group="ⲛⲕⲁⲕⲉ">
 <norm_group norm_group="ⲛⲕⲁⲕⲉ">
 <orig orig="ⲛ">
@@ -24237,8 +24233,8 @@
 </orig>
 </norm_group>
 </orig_group>
-<orig_group orig_group="ⲉϣϫⲉ">
-<norm_group norm_group="ⲉϣϫⲉ">
+<orig_group orig_group="ⲉϣϫⲉⲟⲩⲛⲟⲩⲁ">
+<norm_group norm_group="ⲉϣϫⲉⲟⲩⲛⲟⲩⲁ">
 <orig orig="ⲉϣϫⲉ">
 <norm norm="ⲉϣϫⲉ">
 <lemma lemma="ⲉϣϫⲉ">
@@ -24248,10 +24244,6 @@
 </lemma>
 </norm>
 </orig>
-</norm_group>
-</orig_group>
-<orig_group orig_group="ⲟⲩⲛⲟⲩⲁ">
-<norm_group norm_group="ⲟⲩⲛⲟⲩⲁ">
 <orig orig="ⲟⲩⲛ">
 <norm norm="ⲟⲩⲛ">
 <lemma lemma="ⲟⲩⲛ">
@@ -24386,10 +24378,10 @@
 <orig orig="ϫⲓϣⲓ">
 <norm norm="ϫⲓϣⲓ">
 <lemma lemma="ϫⲓϣⲓ">
-<pos pos="NPROP">
+<pos pos="V">
 ϫⲓ
 </lb_n>
-<lb_n lb_n="3">
+<lb_n lb_n="7">
 ϣⲓ
 </pos>
 </lemma>
@@ -24542,8 +24534,8 @@
 </orig>
 <orig orig="ⲩ">
 <norm norm="ⲩ">
-<lemma lemma="ⲛⲧⲟⲟⲩ">
-<pos pos="PPERS">
+<lemma lemma="ⲟⲩ">
+<pos pos="ART">
 ⲩ
 </pos>
 </lemma>
@@ -24552,7 +24544,7 @@
 <orig orig="ϣⲓ">
 <norm norm="ϣⲓ">
 <lemma lemma="ϣⲓ">
-<pos pos="V">
+<pos pos="N">
 ϣⲓ
 </pos>
 </lemma>
@@ -24649,7 +24641,7 @@
 </norm>
 </orig>
 </lb_n>
-<lb_n lb_n="4">
+<lb_n lb_n="8">
 <orig orig="ϫⲟⲟ">
 <norm norm="ϫⲟⲟ">
 <lemma lemma="ϫⲱ">
@@ -24852,7 +24844,7 @@
 </norm_group>
 </orig_group>
 </lb_n>
-<lb_n lb_n="5">
+<lb_n lb_n="9">
 <orig_group orig_group="ⲁⲩⲱ">
 <norm_group norm_group="ⲁⲩⲱ">
 <orig orig="ⲁⲩⲱ">
@@ -25095,7 +25087,7 @@
 </norm_group>
 </orig_group>
 </lb_n>
-<lb_n lb_n="6">
+<lb_n lb_n="10">
 <orig_group orig_group="ϫⲉϩⲛⲟⲩⲙⲕⲁϩ">
 <norm_group norm_group="ϫⲉϩⲛⲟⲩⲙⲕⲁϩ">
 <orig orig="ϫⲉ">
@@ -25295,7 +25287,7 @@
 </norm_group>
 </orig_group>
 </lb_n>
-<lb_n lb_n="7">
+<lb_n lb_n="11">
 <orig_group orig_group="ϩⲓⲧⲛⲟⲩ">
 <norm_group norm_group="ϩⲓⲧⲛⲟⲩ">
 <orig orig="ϩⲓⲧⲛ">
@@ -25478,7 +25470,7 @@
 </norm_group>
 </orig_group>
 </lb_n>
-<lb_n lb_n="8">
+<lb_n lb_n="12">
 <orig_group orig_group="ⲥⲛⲁⲩ">
 <norm_group norm_group="ⲥⲛⲁⲩ">
 <orig orig="ⲥⲛⲁⲩ">
@@ -25694,7 +25686,7 @@
 </norm>
 </orig>
 </lb_n>
-<lb_n lb_n="9">
+<lb_n lb_n="13">
 <orig orig="ⲡⲉ">
 <norm norm="ⲡⲉ">
 <lemma lemma="ⲡ">
@@ -25852,7 +25844,7 @@
 </norm_group>
 </orig_group>
 </lb_n>
-<lb_n lb_n="10">
+<lb_n lb_n="14">
 <orig_group orig_group="ϩⲛⲟⲩϭⲱⲛⲧ">
 <norm_group norm_group="ϩⲛⲟⲩϭⲱⲛⲧ">
 <orig orig="ϩⲛ">
@@ -26055,7 +26047,7 @@
 </norm_group>
 </orig_group>
 </lb_n>
-<lb_n lb_n="11">
+<lb_n lb_n="15">
 <orig_group orig_group="ⲙⲡⲁϭⲉⲣⲱⲃ">
 <norm_group norm_group="ⲙⲡⲁϭⲉⲣⲱⲃ">
 <orig orig="ⲙ">
@@ -26240,7 +26232,7 @@
 </norm_group>
 </orig_group>
 <orig_group orig_group="ⲧⲉⲛⲧⲁⲓⲥⲙⲛⲧⲥ">
-<norm_group norm_group="ⲧⲉⲛⲧⲁⲓⲥⲙⲛⲧⲥ">
+<norm_group norm_group="ⲧⲛⲧⲁⲓⲥⲙⲛⲧⲥ">
 <orig orig="ⲧ">
 <norm norm="ⲧ">
 <lemma lemma="ⲡ">
@@ -26250,15 +26242,22 @@
 </lemma>
 </norm>
 </orig>
-<orig orig="ⲉⲛⲧ">
-<norm norm="ⲉⲛⲧ">
-<lemma lemma="ⲉⲧⲉⲣⲉ">
-<pos pos="CREL">
+<orig orig="ⲉⲛ">
+<norm norm="ⲛ">
+<lemma lemma="ⲛ">
+<pos pos="PREP">
 ⲉⲛ
+</pos>
+</lemma>
+</norm>
+</orig>
 </lb_n>
-</ed_page>
-<ed_page ed_page="ed_page">
+<ed_page_n ed_page_n="89">
 <lb_n lb_n="1">
+<orig orig="ⲧ">
+<norm norm="ⲧ">
+<lemma lemma="ⲡ">
+<pos pos="ART">
 ⲧ
 </pos>
 </lemma>
@@ -26288,7 +26287,7 @@
 <pos pos="V">
 ⲥⲙⲛ
 </pb_xml_id>
-<pb_xml_id pb_xml_id="ⲕ︦ⲏ︦">
+<pb_xml_id pb_xml_id="FL28">
 ⲧ
 </pos>
 </lemma>
@@ -26901,7 +26900,7 @@
 <orig orig="ϫⲱⲱⲣⲉ">
 <norm norm="ϫⲱⲱⲣⲉ">
 <lemma lemma="ϫⲱⲱⲣⲉ">
-<pos pos="N">
+<pos pos="V">
 ϫⲱⲱⲣⲉ
 </pos>
 </lemma>
@@ -28244,8 +28243,8 @@
 </orig_group>
 </lb_n>
 </pb_xml_id>
-<pb_xml_id pb_xml_id="ⲡ︦ⲅ︦">
-<lb_n lb_n="1">
+<pb_xml_id pb_xml_id="FL83">
+<lb_n lb_n="11">
 <orig_group orig_group="ⲟⲩⲟⲣⲅⲏ">
 <norm_group norm_group="ⲟⲩⲟⲣⲅⲏ">
 <orig orig="ⲟⲩ">
@@ -28399,7 +28398,7 @@
 </norm_group>
 </orig_group>
 </lb_n>
-<lb_n lb_n="2">
+<lb_n lb_n="12">
 <orig_group orig_group="ⲙⲛⲟⲩⲥⲛⲟϥ">
 <norm_group norm_group="ⲙⲛⲟⲩⲥⲛⲟϥ">
 <orig orig="ⲙⲛ">
@@ -28593,7 +28592,7 @@
 </norm_group>
 </orig_group>
 </lb_n>
-<lb_n lb_n="3">
+<lb_n lb_n="13">
 <orig_group orig_group="ⲛⲉⲧⲛⲁⲉⲓⲣⲉ">
 <norm_group norm_group="ⲛⲉⲧⲛⲁⲉⲓⲣⲉ">
 <orig orig="ⲛ">
@@ -28813,7 +28812,7 @@
 </norm_group>
 </orig_group>
 </lb_n>
-<lb_n lb_n="4">
+<lb_n lb_n="14">
 <orig_group orig_group="ⲉⲧⲉⲟⲩⲛⲁ">
 <norm_group norm_group="ⲉⲧⲉⲟⲩⲛⲁ">
 <orig orig="ⲉⲧⲉ">
@@ -28987,9 +28986,9 @@
 </norm_group>
 </orig_group>
 </lb_n>
-</ed_page>
-<ed_page ed_page="ed_page">
-<lb_n lb_n="5">
+</ed_page_n>
+<ed_page_n ed_page_n="90">
+<lb_n lb_n="1">
 <orig_group orig_group="ⲟⲩϭⲟⲙ">
 <norm_group norm_group="ⲟⲩϭⲟⲙ">
 <orig orig="ⲟⲩ">
@@ -29195,21 +29194,17 @@
 </norm>
 </orig>
 </lb_n>
-<lb_n lb_n="6">
-<orig orig="ⲙⲛⲧ">
-<norm norm="ⲙⲛⲧ">
-<lemma lemma="ⲙⲛⲧ">
+<lb_n lb_n="2">
+<orig orig="ⲙⲛⲧⲙⲉ">
+<norm norm="ⲙⲛⲧⲙⲉ">
+<lemma lemma="ⲙⲛⲧⲙⲉ">
 <pos pos="N">
+<morph morph="ⲙⲛⲧ">
 ⲙⲛⲧ
-</pos>
-</lemma>
-</norm>
-</orig>
-<orig orig="ⲙⲉ">
-<norm norm="ⲙⲉ">
-<lemma lemma="ⲙⲉ">
-<pos pos="V">
+</morph>
+<morph morph="ⲙⲉ">
 ⲙⲉ
+</morph>
 </pos>
 </lemma>
 </norm>
@@ -29429,7 +29424,7 @@
 </norm>
 </orig>
 </lb_n>
-<lb_n lb_n="7">
+<lb_n lb_n="3">
 <orig orig="ϣⲁϫⲉ">
 <norm norm="ϣⲁϫⲉ">
 <lemma lemma="ϣⲁϫⲉ">
@@ -29492,7 +29487,7 @@
 <orig orig="ϫⲓⲕⲃⲁ">
 <norm norm="ϫⲓⲕⲃⲁ">
 <lemma lemma="ϫⲓⲕⲃⲁ">
-<pos pos="N">
+<pos pos="V">
 <morph morph="ϫⲓ">
 ϫⲓ
 </morph>
@@ -29645,7 +29640,7 @@
 </norm>
 </orig>
 </lb_n>
-<lb_n lb_n="8">
+<lb_n lb_n="4">
 <orig orig="ⲡⲁ">
 <norm norm="ⲡⲁ">
 <lemma lemma="ⲡⲁ">
@@ -29862,7 +29857,7 @@
 </norm_group>
 </orig_group>
 </lb_n>
-<lb_n lb_n="9">
+<lb_n lb_n="5">
 <orig_group orig_group="ⲙⲙⲁⲩ">
 <norm_group norm_group="ⲙⲙⲁⲩ">
 <orig orig="ⲙⲙⲁⲩ">
@@ -30077,7 +30072,7 @@
 </norm_group>
 </orig_group>
 </lb_n>
-<lb_n lb_n="1">
+<lb_n lb_n="6">
 <orig_group orig_group="ϫⲉⲛⲧⲁⲓⲧⲛⲛⲟⲟⲩ">
 <norm_group norm_group="ϫⲉⲛⲧⲁⲓⲧⲛⲛⲟⲟⲩ">
 <orig orig="ϫⲉ">
@@ -30122,7 +30117,7 @@
 <pos pos="V">
 ⲧⲛⲛⲟ
 </pb_xml_id>
-<pb_xml_id pb_xml_id="ⲡ︦ⲇ︦">
+<pb_xml_id pb_xml_id="FL84">
 ⲟⲩ
 </pos>
 </lemma>
@@ -30268,7 +30263,7 @@
 </norm_group>
 </orig_group>
 </lb_n>
-<lb_n lb_n="2">
+<lb_n lb_n="7">
 <orig_group orig_group="ⲛϩⲏⲧ">
 <norm_group norm_group="ⲛϩⲏⲧ">
 <orig orig="ⲛ">
@@ -30505,7 +30500,7 @@
 </norm_group>
 </orig_group>
 </lb_n>
-<lb_n lb_n="3">
+<lb_n lb_n="8">
 <orig_group orig_group="ⲛⲧⲁⲓϫⲟⲟⲥ">
 <norm_group norm_group="ⲛⲧⲁⲓϫⲟⲟⲥ">
 <orig orig="ⲛⲧ">
@@ -30612,8 +30607,8 @@
 </orig>
 <orig orig="ⲉⲛⲧ">
 <norm norm="ⲉⲛⲧ">
-<lemma lemma="ⲉⲛⲧ">
-<pos pos="CFOC">
+<lemma lemma="ⲉⲧⲉⲣⲉ">
+<pos pos="CREL">
 ⲉⲛⲧ
 </pos>
 </lemma>
@@ -30717,7 +30712,7 @@
 </norm>
 </orig>
 </lb_n>
-<lb_n lb_n="4">
+<lb_n lb_n="9">
 <orig orig="ⲟⲩⲁ">
 <norm norm="ⲟⲩⲁ">
 <lemma lemma="ⲟⲩⲁ">
@@ -30943,7 +30938,7 @@
 </norm_group>
 </orig_group>
 </lb_n>
-<lb_n lb_n="5">
+<lb_n lb_n="10">
 <orig_group orig_group="ⲡⲁⲓ">
 <norm_group norm_group="ⲡⲁⲓ">
 <orig orig="ⲡⲁⲓ">
@@ -31045,8 +31040,8 @@
 <norm_group norm_group="ⲉⲧⲙⲕⲁⲁⲧ">
 <orig orig="ⲉ">
 <norm norm="ⲉ">
-<lemma lemma="ⲉ">
-<pos pos="PREP">
+<lemma lemma="ⲉⲣⲉ">
+<pos pos="CCIRC">
 ⲉ
 </pos>
 </lemma>
@@ -31170,7 +31165,7 @@
 </norm_group>
 </orig_group>
 </lb_n>
-<lb_n lb_n="6">
+<lb_n lb_n="11">
 <orig_group orig_group="ⲉⲛⲧⲁⲓϫⲟⲟⲥ">
 <norm_group norm_group="ⲉⲛⲧⲁⲓϫⲟⲟⲥ">
 <orig orig="ⲉⲛⲧ">
@@ -31399,7 +31394,7 @@
 </norm>
 </orig>
 </lb_n>
-<lb_n lb_n="7">
+<lb_n lb_n="12">
 <orig orig="ⲧⲉ">
 <norm norm="ⲧⲉ">
 <lemma lemma="ⲡ">
@@ -31620,7 +31615,7 @@
 </norm_group>
 </orig_group>
 </lb_n>
-<lb_n lb_n="8">
+<lb_n lb_n="13">
 <orig_group orig_group="ϩⲛⲟⲩⲥⲟⲟⲩⲧⲛ">
 <norm_group norm_group="ϩⲛⲟⲩⲥⲟⲟⲩⲧⲛ">
 <orig orig="ϩⲛ">
@@ -31813,7 +31808,7 @@
 </norm>
 </orig>
 </lb_n>
-<lb_n lb_n="9">
+<lb_n lb_n="14">
 <orig orig="ⲡ">
 <norm norm="ⲡ">
 <lemma lemma="ⲡ">
@@ -32015,8 +32010,8 @@
 </norm_group>
 </orig_group>
 </lb_n>
-</ed_page>
-<ed_page ed_page="ed_page">
+</ed_page_n>
+<ed_page_n ed_page_n="91">
 <lb_n lb_n="1">
 <orig_group orig_group="ϩⲱⲱϥ">
 <norm_group norm_group="ϩⲱⲱϥ">
@@ -32107,8 +32102,8 @@
 </orig>
 <orig orig="ϯ">
 <norm norm="ϯ">
-<lemma lemma="ⲡⲓ">
-<pos pos="PDEM">
+<lemma lemma="ϯ">
+<pos pos="V">
 ϯ
 </pos>
 </lemma>
@@ -32188,7 +32183,7 @@
 </norm_group>
 </orig_group>
 </pb_xml_id>
-<pb_xml_id pb_xml_id="ⲡ︦ⲉ︦">
+<pb_xml_id pb_xml_id="FL85">
 <orig_group orig_group="ⲁⲁⲩ">
 <norm_group norm_group="ⲁⲁⲩ">
 <orig orig="ⲁⲁ">
@@ -33353,7 +33348,7 @@
 <orig orig="ⲛⲁⲛⲥⲱⲛⲏ">
 <norm norm="ⲛⲁⲛⲥⲱⲛⲏ">
 <lemma lemma="ⲛⲁⲛⲥⲱⲛⲏ">
-<pos pos="N">
+<pos pos="NPROP">
 ⲛⲁⲛⲥⲱⲛⲏ
 </pos>
 </lemma>
@@ -34154,8 +34149,8 @@
 </orig>
 </norm_group>
 </orig_group>
-<orig_group orig_group="ϫⲉ">
-<norm_group norm_group="ϫⲉ">
+<orig_group orig_group="ϫⲉⲉϣϫⲉⲟⲩⲙⲕⲁϩ">
+<norm_group norm_group="ϫⲉⲉϣϫⲉⲟⲩⲙⲕⲁϩ">
 <orig orig="ϫⲉ">
 <norm norm="ϫⲉ">
 <lemma lemma="ϫⲉ">
@@ -34165,10 +34160,6 @@
 </lemma>
 </norm>
 </orig>
-</norm_group>
-</orig_group>
-<orig_group orig_group="ⲉϣϫⲉ">
-<norm_group norm_group="ⲉϣϫⲉ">
 <orig orig="ⲉϣϫⲉ">
 <norm norm="ⲉϣϫⲉ">
 <lemma lemma="ⲉϣϫⲉ">
@@ -34178,12 +34169,8 @@
 </lemma>
 </norm>
 </orig>
-</norm_group>
-</orig_group>
 </lb_n>
-<lb_n lb_n="1">
-<orig_group orig_group="ⲟⲩⲙⲕⲁϩ">
-<norm_group norm_group="ⲟⲩⲙⲕⲁϩ">
+<lb_n lb_n="11">
 <orig orig="ⲟⲩ">
 <norm norm="ⲟⲩ">
 <lemma lemma="ⲟⲩ">
@@ -34240,7 +34227,7 @@
 </norm_group>
 </orig_group>
 </pb_xml_id>
-<pb_xml_id pb_xml_id="ⲡ︦︦ϝ︦">
+<pb_xml_id pb_xml_id="FL86">
 <orig_group orig_group="ϫⲉⲁⲡⲛⲟⲩⲧⲉ">
 <norm_group norm_group="ϫⲉⲁⲡⲛⲟⲩⲧⲉ">
 <orig orig="ϫⲉ">
@@ -34341,7 +34328,7 @@
 </norm_group>
 </orig_group>
 </lb_n>
-<lb_n lb_n="2">
+<lb_n lb_n="12">
 <orig_group orig_group="ⲛⲛⲉⲛⲧⲁⲩⲧⲁϩⲟⲟⲩ">
 <norm_group norm_group="ⲛⲛⲉⲛⲧⲁⲩⲧⲁϩⲟⲟⲩ">
 <orig orig="ⲛ">
@@ -34551,7 +34538,7 @@
 <orig orig="ⲣⲱ">
 <norm norm="ⲣⲱ">
 <lemma lemma="ⲣⲱ">
-<pos pos="ADV">
+<pos pos="PTC">
 ⲣⲱ
 </pos>
 </lemma>
@@ -34573,7 +34560,7 @@
 </norm_group>
 </orig_group>
 </lb_n>
-<lb_n lb_n="3">
+<lb_n lb_n="13">
 <orig_group orig_group="ⲙⲡⲟⲉⲓⲕ">
 <norm_group norm_group="ⲙⲡⲟⲉⲓⲕ">
 <orig orig="ⲙ">
@@ -34777,8 +34764,8 @@
 </orig>
 </norm_group>
 </orig_group>
-<orig_group orig_group="ⲉⲓⲉ">
-<norm_group norm_group="ⲉⲓⲉ">
+<orig_group orig_group="ⲉⲓⲉⲟⲩⲙⲕⲁϩ">
+<norm_group norm_group="ⲉⲓⲉⲟⲩⲙⲕⲁϩ">
 <orig orig="ⲉⲓⲉ">
 <norm norm="ⲉⲓⲉ">
 <lemma lemma="ⲉⲓⲉ">
@@ -34788,12 +34775,8 @@
 </lemma>
 </norm>
 </orig>
-</norm_group>
-</orig_group>
 </lb_n>
-<lb_n lb_n="4">
-<orig_group orig_group="ⲟⲩⲙⲕⲁϩ">
-<norm_group norm_group="ⲟⲩⲙⲕⲁϩ">
+<lb_n lb_n="14">
 <orig orig="ⲟⲩ">
 <norm norm="ⲟⲩ">
 <lemma lemma="ⲟⲩ">
@@ -35025,9 +35008,9 @@
 </norm>
 </orig>
 </lb_n>
-</ed_page>
-<ed_page ed_page="ed_page">
-<lb_n lb_n="5">
+</ed_page_n>
+<ed_page_n ed_page_n="92">
+<lb_n lb_n="1">
 <orig orig="ⲙⲟⲩ">
 <norm norm="ⲙⲟⲩ">
 <lemma lemma="ⲙⲟⲩ">
@@ -35207,7 +35190,7 @@
 <lang lang="Greek">
 ⲥⲩⲛⲁ
 </lb_n>
-<lb_n lb_n="6">
+<lb_n lb_n="2">
 ⲅⲱⲅⲏ
 </lang>
 </pos>
@@ -35412,7 +35395,7 @@
 </norm_group>
 </orig_group>
 </lb_n>
-<lb_n lb_n="7">
+<lb_n lb_n="3">
 <orig_group orig_group="ⲉϩⲣⲁⲓ">
 <norm_group norm_group="ⲉϩⲣⲁⲓ">
 <orig orig="ⲉϩⲣⲁⲓ">
@@ -35624,7 +35607,7 @@
 </norm>
 </orig>
 </lb_n>
-<lb_n lb_n="8">
+<lb_n lb_n="4">
 <orig orig="ⲗⲁⲁⲩ">
 <norm norm="ⲗⲁⲁⲩ">
 <lemma lemma="ⲗⲁⲁⲩ">
@@ -35840,7 +35823,7 @@
 </norm_group>
 </orig_group>
 </lb_n>
-<lb_n lb_n="9">
+<lb_n lb_n="5">
 <orig_group orig_group="ⲟⲛ">
 <norm_group norm_group="ⲟⲛ">
 <orig orig="ⲟⲛ">
@@ -36062,7 +36045,7 @@
 </norm>
 </orig>
 </lb_n>
-<lb_n lb_n="10">
+<lb_n lb_n="6">
 <orig orig="ⲇⲓⲕⲁⲓⲟⲥ">
 <norm norm="ⲇⲓⲕⲁⲓⲟⲥ">
 <lemma lemma="ⲇⲓⲕⲁⲓⲟⲥ">
@@ -36276,7 +36259,7 @@
 </norm>
 </orig>
 </lb_n>
-<lb_n lb_n="11">
+<lb_n lb_n="7">
 <orig orig="ⲁ">
 <norm norm="ⲁ">
 <lemma lemma="ⲁ">
@@ -36353,6 +36336,6 @@
 </norm_group>
 </orig_group>
 </lb_n>
-</ed_page>
+</ed_page_n>
 </pb_xml_id>
 </meta>
