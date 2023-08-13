@@ -91,8 +91,8 @@
 <norm_group norm_group="ⲉⲟⲩϩⲁⲡ">
 <orig orig="ⲉ">
 <norm norm="ⲉ">
-<lemma lemma="ⲉ">
-<pos pos="PREP">
+<lemma lemma="ⲉⲣⲉ">
+<pos pos="CCIRC">
 ⲉ
 </pos>
 </lemma>
@@ -850,7 +850,7 @@
 <orig orig="ⲉ">
 <norm norm="ⲉ">
 <lemma lemma="ⲉⲣⲉ">
-<pos pos="CFOC">
+<pos pos="ACOND">
 ⲉ
 </pos>
 </lemma>
@@ -918,20 +918,11 @@
 </lemma>
 </norm>
 </orig>
-<orig orig="ⲛ">
-<norm norm="ⲛ">
-<lemma lemma="ⲛ">
-<pos pos="PREP">
-ⲛ
-</pos>
-</lemma>
-</norm>
-</orig>
-<orig orig="ⲛⲉ">
-<norm norm="ⲛⲉ">
-<lemma lemma="ⲡ">
-<pos pos="ART">
-ⲛⲉ
+<orig orig="ⲛⲛⲉ">
+<norm norm="ⲛⲛⲉ">
+<lemma lemma="ⲛⲛⲉ">
+<pos pos="ANEGOPT">
+ⲛⲛⲉ
 </pos>
 </lemma>
 </norm>
@@ -1949,7 +1940,9 @@
 <orig orig="ⲉ">
 <norm norm="ⲉ">
 <lemma lemma="ⲉ">
+<pos pos="PREP">
 ⲉ
+</pos>
 </lemma>
 </norm>
 </orig>
@@ -1965,7 +1958,9 @@
 <orig orig="ⲧⲣⲉ">
 <norm norm="ⲧⲣⲉ">
 <lemma lemma="ⲧⲣⲉ">
+<pos pos="ACAUS">
 ⲧⲣⲉ
+</pos>
 </lemma>
 </norm>
 </orig>
@@ -2114,7 +2109,7 @@
 <orig orig="ⲉ">
 <norm norm="ⲉ">
 <lemma lemma="ⲉⲣⲉ">
-<pos pos="Opt">
+<pos pos="AOPT">
 ⲉ
 </pos>
 </lemma>
@@ -2178,7 +2173,7 @@
 <orig orig="ⲉ">
 <norm norm="ⲉ">
 <lemma lemma="ⲉⲣⲉ">
-<pos pos="Opt">
+<pos pos="AOPT">
 ⲉ
 </pos>
 </lemma>
@@ -2863,24 +2858,25 @@
 </lemma>
 </norm>
 </orig>
-<orig orig="ϣⲛϩⲧ">
-<norm norm="ϣⲛϩⲧ">
+<orig orig="ϣⲛϩⲧⲏ">
+<norm norm="ϣⲛϩⲧⲏ">
 <lemma lemma="ϣⲛϩⲏⲧ">
 <pos pos="V">
 ϣⲛ
+</lb_n>
+</ed_page_n>
+ϩⲧⲏ
 </pos>
 </lemma>
 </norm>
 </orig>
-</lb_n>
-</ed_page_n>
 <ed_page_n ed_page_n="102">
 <lb_n lb_n="1">
-<orig orig="ⲏⲩ">
-<norm norm="ⲏⲩ">
-<lemma lemma="">
+<orig orig="ⲩ">
+<norm norm="ⲩ">
+<lemma lemma="ⲛⲧⲟⲟⲩ">
 <pos pos="PPERO">
-ϩⲧⲏⲩ
+ⲩ
 </pos>
 </lemma>
 </norm>
@@ -3216,7 +3212,7 @@
 <orig orig="ⲟⲩ">
 <norm norm="ⲟⲩ">
 <lemma lemma="ⲛⲧⲟⲟⲩ">
-<pos pos="PPER?">
+<pos pos="PPERO">
 ⲟⲩ
 </pos>
 </lemma>
@@ -4058,7 +4054,9 @@
 <orig orig="ⲛⲁ">
 <norm norm="ⲛⲁ">
 <lemma lemma="ⲛⲁ">
+<pos pos="FUT">
 ⲛⲁ
+</pos>
 </lemma>
 </norm>
 </orig>
@@ -12787,7 +12785,9 @@
 <orig orig="ⲁ">
 <norm norm="ⲛⲁ">
 <lemma lemma="ⲛⲁ">
+<pos pos="FUT">
 ⲛⲁ
+</pos>
 </lemma>
 </norm>
 </orig>
