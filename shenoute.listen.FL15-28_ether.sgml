@@ -11113,20 +11113,20 @@
 </orig_group>
 <orig_group orig_group="ⲉⲧⲉⲧⲛⲁⲛⲁⲩ">
 <norm_group norm_group="ⲉⲧⲉⲧⲛⲁⲛⲁⲩ">
-<orig orig="ⲉ">
-<norm norm="ⲉ">
-<lemma lemma="ⲉⲣⲉ">
-<pos pos="CCIRC">
-ⲉ
+<orig orig="ⲉⲧⲉ">
+<norm norm="ⲉⲧⲉ">
+<lemma lemma="ⲉⲧⲉⲣⲉ">
+<pos pos="CREL?">
+ⲉⲧⲉ
 </pos>
 </lemma>
 </norm>
 </orig>
-<orig orig="ⲧⲉⲧⲛ">
-<norm norm="ⲧⲉⲧⲛ">
+<orig orig="ⲧⲛ">
+<norm norm="ⲧⲛ">
 <lemma lemma="ⲛⲧⲱⲧⲛ">
 <pos pos="PPERS">
-ⲧⲉⲧⲛ
+ⲧⲛ
 </pos>
 </lemma>
 </norm>
