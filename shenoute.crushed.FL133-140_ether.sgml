@@ -1,5 +1,5 @@
 <meta annotation="Adeline Harrington, Lydia Bremer-McCollum" author="Shenoute" collection="Borgia Collection" Coptic_edition="&lt;a href=&amp;quot;https://archive.org/details/oeuvresdeschenou02shen/page/100/mode/2up&amp;quot;&gt;Amélineau Oeuvres de Schenoudi 2:100-106&lt;/a&gt;" corpus="shenoute.crushed" country="Egypt" document_cts_urn="-" entities="-" identities="-" idno="-" language="Sahidic Coptic" license="&lt;a href='https://creativecommons.org/licenses/by/4.0/'&gt;CC-BY 4.0&lt;/a&gt;" msContents_title_n="8" msContents_title_type="canons" msItem_title="My Heart Is Crushed" msName="MONB.FL" note="Digital text provided by Stephen Emmel. Typed transcription of Amélineau's Oeuvres de Schenoudi. Converted to unicode by Coptic Scriptorium" objectType="codex" order="-" origDate="-" origDate_notAfter="-" origDate_notBefore="-" origDate_precision="medium" origPlace="White Monastery" pages_from="133" pages_to="140" parsing="automatic" paths_authors="&lt;a href='http://paths.uniroma1.it/atlas/authors/95'&gt;95&lt;/a&gt;" paths_manuscripts="-" paths_works="-" people="none" placeName="Atripe" places="none" previous="-" project="Coptic SCRIPTORIUM" redundant="yes" repository="Biblioteca Nazionale di Napoli" segmentation="automatic" source="Stephen Emmel" source_info="Digital text provided by Stephen Emmel. Reproduced with permission from Emmel" tagging="automatic" title="My Heart Is Crushed MONB.FL 133-140" Trismegistos="-" version_date="-" version_n="-" witness="-">
-<pb_xml_id pb_xml_id="133">
+<pb_xml_id pb_xml_id="FL133">
 <ed_page_n ed_page_n="100">
 <ed_line_n ed_line_n="1">
 <orig_group orig_group="ⲙⲙⲉⲣⲁⲧⲉ">
@@ -2007,7 +2007,7 @@
 </norm_group>
 </orig_group>
 </pb_xml_id>
-<pb_xml_id pb_xml_id="134">
+<pb_xml_id pb_xml_id="FL134">
 <orig_group orig_group="ⲉⲧⲙⲙⲁⲩ">
 <norm_group norm_group="ⲉⲧⲙⲙⲁⲩ">
 <note note="Coptic page ⲣ︦ⲗ︦ⲇ︦ begins">
@@ -2862,10 +2862,14 @@
 <norm norm="ϣⲛϩⲧⲏ">
 <lemma lemma="ϣⲛϩⲏⲧ">
 <pos pos="V">
+<morph morph="ϣⲛ">
 ϣⲛ
+</morph>
 </ed_line_n>
 </ed_page_n>
+<morph morph="ϩⲧⲏ">
 ϩⲧⲏ
+</morph>
 </pos>
 </lemma>
 </norm>
@@ -4085,7 +4089,7 @@
 <lang lang="Greek">
 ⲧⲟ
 </pb_xml_id>
-<pb_xml_id pb_xml_id="135">
+<pb_xml_id pb_xml_id="FL135">
 <note note="Coptic page ⲣ︦ⲗ︦ⲉ︦ begins">
 ⲡⲟⲥ
 </note>
@@ -5170,10 +5174,12 @@
 <morph morph="ⲙⲛⲧ">
 ⲙⲛⲧ
 </morph>
-<morph morph="ϣⲛϩⲏⲧ">
+<morph morph="ϣⲛ">
 ϣⲁⲛ
 </morph>
+<morph morph="ϩⲧⲏ">
 ϩⲧⲏ
+</morph>
 </pos>
 </lemma>
 </norm>
@@ -5896,7 +5902,7 @@
 </norm>
 </orig>
 </pb_xml_id>
-<pb_xml_id pb_xml_id="136">
+<pb_xml_id pb_xml_id="FL136">
 <orig orig="ⲥⲟⲟⲩⲛ">
 <norm norm="ⲥⲟⲟⲩⲛ">
 <lemma lemma="ⲥⲟⲟⲩⲛ">
@@ -7934,7 +7940,7 @@
 </orig_group>
 </ed_line_n>
 </pb_xml_id>
-<pb_xml_id pb_xml_id="137">
+<pb_xml_id pb_xml_id="FL137">
 <ed_line_n ed_line_n="12">
 <orig_group orig_group="ⲉϯⲣⲏⲛⲏ">
 <norm_group norm_group="ⲉϯⲣⲏⲛⲏ">
@@ -9892,7 +9898,7 @@
 </norm_group>
 </orig_group>
 </pb_xml_id>
-<pb_xml_id pb_xml_id="138">
+<pb_xml_id pb_xml_id="FL138">
 <orig_group orig_group="ⲛⲙⲙⲁⲩ">
 <norm_group norm_group="ⲛⲙⲙⲁⲩ">
 <note note="Coptic page ⲣ︦ⲗ︦ⲏ︦ begins">
@@ -11800,7 +11806,7 @@
 ϩⲟ
 </ed_line_n>
 </pb_xml_id>
-<pb_xml_id pb_xml_id="139">
+<pb_xml_id pb_xml_id="FL139">
 <ed_line_n ed_line_n="3">
 <note note="Coptic page ⲣ︦ⲗ︦ⲑ︦ begins">
 ⲗⲱⲥ
@@ -12029,8 +12035,8 @@
 <norm_group norm_group="ⲉ">
 <orig orig="ⲉ">
 <norm norm="ⲉ">
-<lemma lemma="ⲉⲣⲉ">
-<pos pos="CCIRC">
+<lemma lemma="ⲉ">
+<pos pos="UNKNOWN">
 ⲉ
 </pos>
 </lemma>
@@ -13651,7 +13657,7 @@
 </norm_group>
 </orig_group>
 </pb_xml_id>
-<pb_xml_id pb_xml_id="140">
+<pb_xml_id pb_xml_id="FL140">
 <orig_group orig_group="ⲏ">
 <norm_group norm_group="ⲏ">
 <orig orig="ⲏ">
