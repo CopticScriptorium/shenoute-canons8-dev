@@ -55,13 +55,28 @@
 </orig>
 </norm_group>
 </orig_group>
-<orig_group orig_group="[..]ⲁⲓ">
-<norm_group norm_group="..ⲁⲓ">
-<orig orig="[..]ⲁⲓ">
-<norm norm="..ⲁⲓ">
-<lemma lemma="..ⲁⲓ">
-<pos pos="PUNCT">
-[..]ⲁⲓ
+<orig_group orig_group="'[..]">
+<norm_group norm_group="..">
+<orig orig="'[..]">
+<norm norm="..">
+<lemma lemma="..">
+<pos pos="UNKNOWN">
+<supplied_reason supplied_reason="lost">
+[..]
+</supplied_reason>
+</pos>
+</lemma>
+</norm>
+</orig>
+</norm_group>
+</orig_group>
+<orig_group orig_group="ⲁⲓ">
+<norm_group norm_group="ⲁⲓ">
+<orig orig="ⲁⲓ">
+<norm norm="ⲁⲓ">
+<lemma lemma="ⲁⲓ">
+<pos pos="UNKNOWN">
+ ⲁⲓ
 </pos>
 </lemma>
 </norm>
@@ -22993,6 +23008,7 @@
 </orig>
 </ed_line_n>
 </ed_page_n>
+<ed_page_n ed_page_n="88">
 <ed_line_n ed_line_n="1">
 <orig orig="ⲧ">
 <norm norm="_warn:empty_norm_">
@@ -26252,6 +26268,7 @@
 </norm>
 </orig>
 </ed_line_n>
+</ed_page_n>
 <ed_page_n ed_page_n="89">
 <ed_line_n ed_line_n="1">
 <orig orig="ⲧ">
