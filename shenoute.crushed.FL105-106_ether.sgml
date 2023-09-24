@@ -1,4 +1,4 @@
-<meta annotation="Adeline Harrington, Lydia Bremer-McCollum" author="Shenoute" collection="Borgia Collection" Coptic_edition="&lt;a href=&amp;quot;https://archive.org/details/oeuvresdeschenou02shen/page/92/mode/2up&amp;quot;&gt;Amélineau Oeuvres de Schenoudi 2:93-95&lt;/a&gt;" corpus="shenoute.crushed" country="Egypt" document_cts_urn="-" entities="auto" identities="-" idno="-" language="Sahidic Coptic" license="&lt;a href='https://creativecommons.org/licenses/by/4.0/'&gt;CC-BY 4.0&lt;/a&gt;" msContents_title_n="8" msContents_title_type="canons" msItem_title="My Heart Is Crushed" msName="MONB.FL" note="Digital text provided by Stephen Emmel. Typed transcription of Amélineau's Oeuvres de Schenoudi. Converted to unicode by Coptic Scriptorium" objectType="codex" order="-" origDate="-" origDate_notAfter="-" origDate_notBefore="-" origDate_precision="medium" origPlace="White Monastery" pages_from="105" pages_to="106" parsing="automatic" paths_authors="&lt;a href='http://paths.uniroma1.it/atlas/authors/95'&gt;95&lt;/a&gt;" paths_manuscripts="-" paths_works="-" people="none" placeName="Atripe" places="none" previous="-" project="Coptic SCRIPTORIUM" redundant="yes" repository="Biblioteca Nazionale di Napoli" segmentation="automatic" source="Stephen Emmel" source_info="Digital text provided by Stephen Emmel. Reproduced with permission from Emmel" tagging="automatic" title="My Heart Is Crushed MONB.FL 105-106" Trismegistos="-" version_date="-" version_n="-" witness="-">
+<meta annotation="Adeline Harrington, Lydia Bremer-McCollum" author="Shenoute" collection="Borgia Collection" Coptic_edition="&lt;a href=&amp;quot;https://archive.org/details/oeuvresdeschenou02shen/page/92/mode/2up&amp;quot;&gt;Amélineau Oeuvres de Schenoudi 2:93-95&lt;/a&gt;" corpus="shenoute.crushed" country="Egypt" document_cts_urn="-" entities="checked" identities="checked" idno="-" language="Sahidic Coptic" license="&lt;a href='https://creativecommons.org/licenses/by/4.0/'&gt;CC-BY 4.0&lt;/a&gt;" msContents_title_n="8" msContents_title_type="canons" msItem_title="My Heart Is Crushed" msName="MONB.FL" note="Digital text provided by Stephen Emmel. Typed transcription of Amélineau's Oeuvres de Schenoudi. Converted to unicode by Coptic Scriptorium" objectType="codex" order="-" origDate="-" origDate_notAfter="-" origDate_notBefore="-" origDate_precision="medium" origPlace="White Monastery" pages_from="105" pages_to="106" parsing="automatic" paths_authors="&lt;a href='http://paths.uniroma1.it/atlas/authors/95'&gt;95&lt;/a&gt;" paths_manuscripts="-" paths_works="-" people="none" placeName="Atripe" places="Hades; Sodom and Gomorrah" previous="-" project="Coptic SCRIPTORIUM" redundant="yes" repository="Biblioteca Nazionale di Napoli" segmentation="automatic" source="Stephen Emmel" source_info="Digital text provided by Stephen Emmel. Reproduced with permission from Emmel" tagging="automatic" title="My Heart Is Crushed MONB.FL 105-106" Trismegistos="-" version_date="-" version_n="-" witness="-">
 <chapter_n chapter_n="1">
 <pb_xml_id pb_xml_id="FL105">
 <ed_page_n ed_page_n="93">
@@ -669,6 +669,7 @@
 </norm_group>
 </orig_group>
 </lb_n>
+</entity>
 </ed_page_n>
 <ed_page_n ed_page_n="94">
 <lb_n lb_n="4">
@@ -707,7 +708,6 @@
 </entity>
 </norm_group>
 </orig_group>
-</entity>
 </entity>
 <orig_group orig_group="ⲁϥⲛⲟϫⲟⲩ">
 <norm_group norm_group="ⲁϥⲛⲟϫⲟⲩ">
@@ -773,7 +773,7 @@
 </lemma>
 </norm>
 </orig>
-<entity entity="place">
+<entity identity="Hades" entity="place">
 <orig orig="ⲁⲙⲛⲧⲉ">
 <norm norm="ⲁⲙⲛⲧⲉ">
 <lemma lemma="ⲁⲙⲛⲧⲉ">
@@ -957,8 +957,6 @@
 </lemma>
 </norm>
 </orig>
-<entity entity="abstract">
-<entity entity="abstract">
 <orig orig="ϥ">
 <norm norm="ϥ">
 <lemma lemma="ⲛⲧⲟϥ">
@@ -1084,6 +1082,7 @@
 </entity>
 </norm_group>
 </orig_group>
+</entity>
 </lb_n>
 <lb_n lb_n="6">
 <orig_group orig_group="ⲙⲛⲟⲩϩⲧⲟⲙⲧⲙ">
@@ -1161,6 +1160,7 @@
 </lemma>
 </norm>
 </orig>
+<entity entity="person">
 <orig orig="ⲛ">
 <norm norm="ⲛ">
 <lemma lemma="ⲡ">
@@ -1228,7 +1228,7 @@
 </lemma>
 </norm>
 </orig>
-<entity entity="place">
+<entity identity="Sodom and Gomorrah" entity="place">
 <orig orig="ⲥⲟⲇⲟⲙⲁ">
 <norm norm="ⲥⲟⲇⲟⲙⲁ">
 <lemma lemma="ⲥⲟⲇⲟⲙⲁ">
@@ -1252,7 +1252,7 @@
 </lemma>
 </norm>
 </orig>
-<entity entity="place">
+<entity identity="Sodom and Gomorrah" entity="place">
 <orig orig="ⲅⲟⲙⲟⲣⲣⲁ">
 <norm norm="ⲅⲟⲙⲟⲣⲣⲁ">
 <lemma lemma="ⲅⲟⲙⲟⲣⲣⲁ">
@@ -1265,6 +1265,7 @@
 </entity>
 </norm_group>
 </orig_group>
+</entity>
 <orig_group orig_group="ⲁⲩⲱ">
 <norm_group norm_group="ⲁⲩⲱ">
 <orig orig="ⲁⲩⲱ">
@@ -1703,7 +1704,6 @@
 </orig>
 </norm_group>
 </orig_group>
-</entity>
 <orig_group orig_group="ⲉϫⲱⲟⲩ">
 <norm_group norm_group="ⲉϫⲱⲟⲩ">
 <orig orig="ⲉϫⲱ">
@@ -2013,7 +2013,6 @@
 </lemma>
 </norm>
 </orig>
-</entity>
 </norm_group>
 </orig_group>
 <orig_group orig_group="ⲉⲛⲧⲁⲛⲉⲓⲣⲉ">
@@ -2078,6 +2077,7 @@
 </orig>
 </norm_group>
 </orig_group>
+</entity>
 <orig_group orig_group="ⲛϩⲉⲛϩⲃⲏⲩⲉ">
 <norm_group norm_group="ⲛϩⲉⲛϩⲃⲏⲩⲉ">
 <orig orig="ⲛ">
@@ -2136,8 +2136,6 @@
 </entity>
 </norm_group>
 </orig_group>
-</entity>
-</entity>
 </entity>
 </pb_xml_id>
 <pb_xml_id pb_xml_id="FL106">
@@ -3517,9 +3515,9 @@
 </orig>
 </norm_group>
 </orig_group>
+<entity entity="person">
 <orig_group orig_group="ⲡⲉⲛⲧⲁϥⲣϣⲣⲡ">
 <norm_group norm_group="ⲡⲉⲛⲧⲁϥⲣϣⲣⲡ">
-<entity entity="person">
 <orig orig="ⲡ">
 <norm norm="ⲡ">
 <lemma lemma="ⲡ">
@@ -3529,7 +3527,6 @@
 </lemma>
 </norm>
 </orig>
-</entity>
 <orig orig="ⲉⲛⲧ">
 <norm norm="ⲉⲛⲧ">
 <lemma lemma="ⲉⲧⲉⲣⲉ">
@@ -3595,6 +3592,7 @@
 </orig>
 </norm_group>
 </orig_group>
+</entity>
 <orig_group orig_group="ϫⲉⲙⲡⲣⲧⲣⲉ">
 <norm_group norm_group="ϫⲉⲙⲡⲣⲧⲣⲉ">
 <orig orig="ϫⲉ">
@@ -4192,6 +4190,7 @@
 </orig>
 </norm_group>
 </orig_group>
+</entity>
 <orig_group orig_group="ⲙⲏ">
 <norm_group norm_group="ⲙⲏ">
 <orig orig="ⲙⲏ">
@@ -4249,7 +4248,6 @@
 </entity>
 </norm_group>
 </orig_group>
-</entity>
 </entity>
 <orig_group orig_group=".">
 <norm_group norm_group=".">
