@@ -1,4 +1,4 @@
-<meta annotation="Adeline Harrington, Caroline T. Schroeder, Lydia Bremer-McCollum" author="Shenoute" collection="Borgia Collection" Coptic_edition="&lt;a href=&amp;quot;https://archive.org/details/oeuvresdeschenou02shen/page/92/mode/2up&amp;quot;&gt;Amélineau Oeuvres de Schenoudi 2:92-93&lt;/a&gt;" corpus="shenoute.crushed" country="Egypt" document_cts_urn="-" entities=" " identities="auto" idno="-" language="Sahidic Coptic" license="&lt;a href='https://creativecommons.org/licenses/by/4.0/'&gt;CC-BY 4.0&lt;/a&gt;" msContents_title_n="8" msContents_title_type="canons" msItem_title="My Heart Is Crushed" msName="MONB.FL" note="Digital text provided by Stephen Emmel. Typed transcription of Amélineau's Oeuvres de Schenoudi. Converted to unicode by Coptic Scriptorium" objectType="codex" order="-" origDate="-" origDate_notAfter="-" origDate_notBefore="-" origDate_precision="medium" origPlace="White Monastery" pages_from="95" pages_to="96" parsing="automatic" paths_authors="&lt;a href='http://paths.uniroma1.it/atlas/authors/95'&gt;95&lt;/a&gt;" paths_manuscripts="-" paths_works="-" people="none" placeName="Atripe" places="none" previous="-" project="Coptic SCRIPTORIUM" redundant="yes" repository="Biblioteca Nazionale di Napoli" segmentation="checked" source="Stephen Emmel" source_info="Digital text provided by Stephen Emmel. Reproduced with permission from Emmel" tagging="checked" title="My Heart Is Crushed MONB.FL 95-96" Trismegistos="-" version_date="2023-09-29" version_n="4.5.0" witness="-">
+<meta annotation="Adeline Harrington, Caroline T. Schroeder, Lydia Bremer-McCollum" author="Shenoute" collection="Borgia Collection" Coptic_edition="&lt;a href=&amp;quot;https://archive.org/details/oeuvresdeschenou02shen/page/92/mode/2up&amp;quot;&gt;Amélineau Oeuvres de Schenoudi 2:92-93&lt;/a&gt;" corpus="shenoute.crushed" country="Egypt" document_cts_urn="-" entities=" " identities="-" idno="-" language="Sahidic Coptic" license="&lt;a href='https://creativecommons.org/licenses/by/4.0/'&gt;CC-BY 4.0&lt;/a&gt;" msContents_title_n="8" msContents_title_type="canons" msItem_title="My Heart Is Crushed" msName="MONB.FL" note="Digital text provided by Stephen Emmel. Typed transcription of Amélineau's Oeuvres de Schenoudi. Converted to unicode by Coptic Scriptorium" objectType="codex" order="-" origDate="-" origDate_notAfter="-" origDate_notBefore="-" origDate_precision="medium" origPlace="White Monastery" pages_from="95" pages_to="96" parsing="automatic" paths_authors="&lt;a href='http://paths.uniroma1.it/atlas/authors/95'&gt;95&lt;/a&gt;" paths_manuscripts="-" paths_works="-" people="none" placeName="Atripe" places="none" previous="-" project="Coptic SCRIPTORIUM" redundant="yes" repository="Biblioteca Nazionale di Napoli" segmentation="checked" source="Stephen Emmel" source_info="Digital text provided by Stephen Emmel. Reproduced with permission from Emmel" tagging="checked" title="My Heart Is Crushed MONB.FL 95-96" Trismegistos="-" version_date="2023-09-29" version_n="4.5.0" witness="-">
 <pb_xml_id pb_xml_id="FL95">
 <ed_page_n ed_page_n="92">
 <lb_n lb_n="1">
@@ -2470,8 +2470,8 @@
 </orig>
 </norm_group>
 </orig_group>
-<orig_group orig_group="ϫⲉⲉⲣⲉⲛⲁⲣ">
-<norm_group norm_group="ϫⲉⲉⲣⲉⲛⲁⲣ">
+<orig_group orig_group="ϫⲉⲉⲣⲉⲛⲁⲣⲟⲩ">
+<norm_group norm_group="ϫⲉⲉⲣⲉⲛⲁⲣⲟⲩ">
 <orig orig="ϫⲉ">
 <norm norm="ϫⲉ">
 <lemma lemma="ϫⲉ">
@@ -2508,10 +2508,6 @@
 </lemma>
 </norm>
 </orig>
-</norm_group>
-</orig_group>
-<orig_group orig_group="ⲟⲩ">
-<norm_group norm_group="ⲟⲩ">
 <orig orig="ⲟⲩ">
 <norm norm="ⲟⲩ">
 <lemma lemma="ⲟⲩ">
