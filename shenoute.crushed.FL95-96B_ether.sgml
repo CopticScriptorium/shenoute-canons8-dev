@@ -1,16 +1,16 @@
-<meta annotation="Adeline Harrington, Caroline T. Schroeder, Lydia Bremer-McCollum" author="Shenoute" collection="Borgia Collection" Coptic_edition="&lt;a href=&amp;quot;https://archive.org/details/oeuvresdeschenou02shen/page/92/mode/2up&amp;quot;&gt;Amélineau Oeuvres de Schenoudi 2:92-93&lt;/a&gt;" corpus="shenoute.crushed" country="Egypt" document_cts_urn="-" entities=" " identities="auto" idno="-" language="Sahidic Coptic" license="&lt;a href='https://creativecommons.org/licenses/by/4.0/'&gt;CC-BY 4.0&lt;/a&gt;" msContents_title_n="8" msContents_title_type="canons" msItem_title="My Heart Is Crushed" msName="MONB.FL" note="Digital text provided by Stephen Emmel. Typed transcription of Amélineau's Oeuvres de Schenoudi. Converted to unicode by Coptic Scriptorium" objectType="codex" order="-" origDate="-" origDate_notAfter="-" origDate_notBefore="-" origDate_precision="medium" origPlace="White Monastery" pages_from="95" pages_to="96" parsing="automatic" paths_authors="&lt;a href='http://paths.uniroma1.it/atlas/authors/95'&gt;95&lt;/a&gt;" paths_manuscripts="-" paths_works="-" people="none" placeName="Atripe" places="none" previous="-" project="Coptic SCRIPTORIUM" redundant="yes" repository="Biblioteca Nazionale di Napoli" segmentation="checked" source="Stephen Emmel" source_info="Digital text provided by Stephen Emmel. Reproduced with permission from Emmel" tagging="checked" title="My Heart Is Crushed MONB.FL 95-96" Trismegistos="-" version_date="2023-09-01" version_n="4.5.0" witness="-">
+<meta annotation="Adeline Harrington, Caroline T. Schroeder, Lydia Bremer-McCollum" author="Shenoute" collection="Borgia Collection" Coptic_edition="&lt;a href=&amp;quot;https://archive.org/details/oeuvresdeschenou02shen/page/92/mode/2up&amp;quot;&gt;Amélineau Oeuvres de Schenoudi 2:92-93&lt;/a&gt;" corpus="shenoute.crushed" country="Egypt" document_cts_urn="-" entities=" " identities="auto" idno="-" language="Sahidic Coptic" license="&lt;a href='https://creativecommons.org/licenses/by/4.0/'&gt;CC-BY 4.0&lt;/a&gt;" msContents_title_n="8" msContents_title_type="canons" msItem_title="My Heart Is Crushed" msName="MONB.FL" note="Digital text provided by Stephen Emmel. Typed transcription of Amélineau's Oeuvres de Schenoudi. Converted to unicode by Coptic Scriptorium" objectType="codex" order="-" origDate="-" origDate_notAfter="-" origDate_notBefore="-" origDate_precision="medium" origPlace="White Monastery" pages_from="95" pages_to="96" parsing="automatic" paths_authors="&lt;a href='http://paths.uniroma1.it/atlas/authors/95'&gt;95&lt;/a&gt;" paths_manuscripts="-" paths_works="-" people="none" placeName="Atripe" places="none" previous="-" project="Coptic SCRIPTORIUM" redundant="yes" repository="Biblioteca Nazionale di Napoli" segmentation="checked" source="Stephen Emmel" source_info="Digital text provided by Stephen Emmel. Reproduced with permission from Emmel" tagging="checked" title="My Heart Is Crushed MONB.FL 95-96" Trismegistos="-" version_date="2023-09-29" version_n="4.5.0" witness="-">
 <pb_xml_id pb_xml_id="FL95">
 <ed_page_n ed_page_n="92">
 <lb_n lb_n="1">
-<orig_group orig_group="ⲫⲏⲧⲏⲥ">
-<norm_group norm_group="ⲫⲏⲧⲏⲥ">
-<orig orig="ⲫⲏⲧⲏⲥ">
-<norm norm="ⲫⲏⲧⲏⲥ">
-<lemma lemma="ⲫⲏⲧⲏⲥ">
-<pos pos="NPROP">
+<orig_group orig_group="[ⲡⲣⲟ]ⲫⲏⲧⲏⲥ">
+<norm_group norm_group="ⲡⲣⲟⲫⲏⲧⲏⲥ">
+<orig orig="[ⲡⲣⲟ]ⲫⲏⲧⲏⲥ">
+<norm norm="ⲡⲣⲟⲫⲏⲧⲏⲥ">
+<lemma lemma="ⲡⲣⲟⲫⲏⲧⲏⲥ">
+<pos pos="N">
 <lang lang="Greek">
 <note note="Coptic page ϥ︦ⲉ︦ begins">
-ⲫⲏⲧⲏⲥ
+[ⲡⲣⲟ]ⲫⲏⲧⲏⲥ
 </note>
 </lang>
 </pos>
@@ -522,8 +522,8 @@
 </orig>
 </norm_group>
 </orig_group>
-<orig_group orig_group="ⲡⲉⲛⲧⲁϥⲥⲉⲕ">
-<norm_group norm_group="ⲡⲉⲛⲧⲁϥⲥⲉⲕ">
+<orig_group orig_group="ⲡⲉⲛⲧⲁϥⲥⲉⲕⲏⲥⲁⲩ">
+<norm_group norm_group="ⲡⲉⲛⲧⲁϥⲥⲉⲕⲏⲥⲁⲩ">
 <orig orig="ⲡ">
 <norm norm="ⲡ">
 <lemma lemma="ⲡ">
@@ -569,10 +569,6 @@
 </lemma>
 </norm>
 </orig>
-</norm_group>
-</orig_group>
-<orig_group orig_group="ⲏⲥⲁⲩ">
-<norm_group norm_group="ⲏⲥⲁⲩ">
 <orig orig="ⲏⲥⲁⲩ">
 <norm norm="ⲏⲥⲁⲩ">
 <lemma lemma="ⲏⲥⲁⲩ">
@@ -773,8 +769,8 @@
 </orig>
 </norm_group>
 </orig_group>
-<orig_group orig_group="ⲁⲓⲥⲉⲕ">
-<norm_group norm_group="ⲁⲓⲥⲉⲕ">
+<orig_group orig_group="ⲁⲓⲥⲉⲕⲏⲥⲁⲩ">
+<norm_group norm_group="ⲁⲓⲥⲉⲕⲏⲥⲁⲩ">
 <orig orig="ⲁ">
 <norm norm="ⲁ">
 <lemma lemma="ⲁ">
@@ -802,12 +798,8 @@
 </lemma>
 </norm>
 </orig>
-</norm_group>
-</orig_group>
 </lb_n>
 <lb_n lb_n="5">
-<orig_group orig_group="ⲏⲥⲁⲩ">
-<norm_group norm_group="ⲏⲥⲁⲩ">
 <orig orig="ⲏⲥⲁⲩ">
 <norm norm="ⲏⲥⲁⲩ">
 <lemma lemma="ⲏⲥⲁⲩ">
@@ -938,28 +930,19 @@
 </orig_group>
 <orig_group orig_group="ⲛⲧⲁⲩ">
 <norm_group norm_group="ⲛⲧⲁⲩ">
-<orig orig="ⲛ">
-<norm norm="ⲛ">
-<lemma lemma="ⲛ">
+<orig orig="ⲛⲧⲁ">
+<norm norm="ⲛⲧⲁ">
+<lemma lemma="ⲛⲧⲉ">
 <pos pos="PREP">
-ⲛ
-</pos>
-</lemma>
-</norm>
-</orig>
-<orig orig="ⲧⲁ">
-<norm norm="ⲧⲁ">
-<lemma lemma="ⲡⲁ">
-<pos pos="PPOS">
-ⲧⲁ
+ⲛⲧⲁ
 </pos>
 </lemma>
 </norm>
 </orig>
 <orig orig="ⲩ">
 <norm norm="ⲩ">
-<lemma lemma="ⲩ">
-<pos pos="N">
+<lemma lemma="ⲛⲧⲟⲟⲩ">
+<pos pos="PPERO">
 ⲩ
 </pos>
 </lemma>
@@ -989,7 +972,7 @@
 </orig>
 <orig orig="ϣϭⲟⲙ">
 <norm norm="ϣϭⲟⲙ">
-<lemma lemma="ϭⲟⲙ">
+<lemma lemma="ϣϭⲟⲙ">
 <pos pos="N">
 <morph morph="ϣ">
 ϣ
@@ -1557,7 +1540,7 @@
 <norm_group norm_group="ⲛⲧⲁⲩ">
 <orig orig="ⲛⲧⲁ">
 <norm norm="ⲛⲧⲁ">
-<lemma lemma="ⲛⲧⲁ">
+<lemma lemma="ⲛⲧⲉ">
 <pos pos="PREP">
 ⲛⲧⲁ
 </pos>
@@ -1588,7 +1571,7 @@
 </orig>
 <orig orig="ϣϭⲟⲙ">
 <norm norm="ϣϭⲟⲙ">
-<lemma lemma="ϭⲟⲙ">
+<lemma lemma="ϣϭⲟⲙ">
 <pos pos="N">
 <morph morph="ϣ">
 ϣ
@@ -2301,8 +2284,8 @@
 </orig>
 </norm_group>
 </orig_group>
-<orig_group orig_group="ⲙⲁⲣⲉ">
-<norm_group norm_group="ⲙⲁⲣⲉ">
+<orig_group orig_group="ⲙⲁⲣⲉⲡⲟⲩⲁ">
+<norm_group norm_group="ⲙⲁⲣⲉⲡⲟⲩⲁ">
 <orig orig="ⲙⲁⲣⲉ">
 <norm norm="ⲙⲁⲣⲉ">
 <lemma lemma="ⲙⲁⲣⲉ">
@@ -2312,10 +2295,6 @@
 </lemma>
 </norm>
 </orig>
-</norm_group>
-</orig_group>
-<orig_group orig_group="ⲡⲟⲩⲁ">
-<norm_group norm_group="ⲡⲟⲩⲁ">
 <orig orig="ⲡ">
 <norm norm="ⲡ">
 <lemma lemma="ⲡ">
@@ -2618,8 +2597,8 @@
 </orig_group>
 </lb_n>
 <lb_n lb_n="14">
-<orig_group orig_group="ⲉⲩϣⲁⲛⲥⲟⲩⲛ">
-<norm_group norm_group="ⲉⲩϣⲁⲛⲥⲟⲩⲛ">
+<orig_group orig_group="ⲉⲩϣⲁⲛⲥⲟⲩⲛⲛⲉⲛⲡⲉⲑⲟⲟⲩ">
+<norm_group norm_group="ⲉⲩϣⲁⲛⲥⲟⲩⲛⲛⲉⲛⲡⲉⲧϩⲟⲟⲩ">
 <orig orig="ⲉⲩϣⲁⲛ">
 <norm norm="ⲉⲩϣⲁⲛ">
 <lemma lemma="ⲉⲣϣⲁⲛ_ⲛⲧⲟⲟⲩ">
@@ -2638,10 +2617,6 @@
 </lemma>
 </norm>
 </orig>
-</norm_group>
-</orig_group>
-<orig_group orig_group="ⲛⲉⲛⲡⲉⲑⲟⲟⲩ">
-<norm_group norm_group="ⲛⲉⲛⲡⲉⲧϩⲟⲟⲩ">
 <orig orig="ⲛⲉⲛ">
 <norm norm="ⲛⲉⲛ">
 <lemma lemma="ⲡⲉⲛ">
@@ -3164,20 +3139,20 @@
 </orig_group>
 <orig_group orig_group="ⲉⲧⲛⲉⲓⲣⲉ">
 <norm_group norm_group="ⲉⲧⲛⲉⲓⲣⲉ">
-<orig orig="ⲉ">
-<norm norm="ⲉ">
+<orig orig="ⲉⲧ">
+<norm norm="ⲉⲧ">
 <lemma lemma="ⲉⲣⲉ">
-<pos pos="CCIRC">
-ⲉ
+<pos pos="CREL">
+ⲉⲧ
 </pos>
 </lemma>
 </norm>
 </orig>
-<orig orig="ⲧⲛ">
-<norm norm="ⲧⲛ">
+<orig orig="ⲛ">
+<norm norm="ⲛ">
 <lemma lemma="ⲁⲛⲟⲛ">
 <pos pos="PPERS">
-ⲧⲛ
+ⲛ
 </pos>
 </lemma>
 </norm>
@@ -3234,20 +3209,20 @@
 </orig_group>
 <orig_group orig_group="ⲉⲧⲛⲛⲁⲁⲩ">
 <norm_group norm_group="ⲉⲧⲛⲛⲁⲁⲁⲩ">
-<orig orig="ⲉ">
-<norm norm="ⲉ">
+<orig orig="ⲉⲧ">
+<norm norm="ⲉⲧ">
 <lemma lemma="ⲉⲣⲉ">
-<pos pos="CCIRC">
-ⲉ
+<pos pos="CREL">
+ⲉⲧ
 </pos>
 </lemma>
 </norm>
 </orig>
-<orig orig="ⲧⲛ">
-<norm norm="ⲧⲛ">
+<orig orig="ⲛ">
+<norm norm="ⲛ">
 <lemma lemma="ⲁⲛⲟⲛ">
 <pos pos="PPERS">
-ⲧⲛ
+ⲛ
 </pos>
 </lemma>
 </norm>
@@ -3338,20 +3313,11 @@
 </lemma>
 </norm>
 </orig>
-<orig orig="ⲟⲩ">
-<norm norm="ⲟⲩ">
-<lemma lemma="ⲟⲩ">
-<pos pos="ART">
-ⲟⲩ
-</pos>
-</lemma>
-</norm>
-</orig>
-<orig orig="ⲟⲉⲓϣ">
-<norm norm="ⲟⲉⲓϣ">
-<lemma lemma="ⲟⲉⲓϣ">
+<orig orig="ⲟⲩⲟⲉⲓϣ">
+<norm norm="ⲟⲩⲟⲉⲓϣ">
+<lemma lemma="ⲟⲩⲟⲉⲓϣ">
 <pos pos="N">
-ⲟⲉⲓϣ
+ⲟⲩⲟⲉⲓϣ
 </pos>
 </lemma>
 </norm>
