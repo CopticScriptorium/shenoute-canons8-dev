@@ -1,7 +1,8 @@
-<meta annotation="Adeline Harrington, Caroline T. Schroeder, Lydia Bremer-McCollum" author="Shenoute" collection="Borgia Collection" Coptic_edition="&lt;a href=&amp;quot;https://archive.org/details/oeuvresdeschenou02shen/page/92/mode/2up&amp;quot;&gt;Amélineau Oeuvres de Schenoudi 2:92-93&lt;/a&gt;" corpus="shenoute.crushed" country="Egypt" document_cts_urn="urn:cts:copticLit:shenoute.crushed.amelineau:8-12" entities="checked" identities="checked" idno="IB 5 f. 74" language="Sahidic Coptic" license="&lt;a href='https://creativecommons.org/licenses/by/4.0/'&gt;CC-BY 4.0&lt;/a&gt;" msContents_title_n="8" msContents_title_type="canons" msItem_title="My Heart Is Crushed" msName="MONB.FL" note="Digital text provided by Stephen Emmel. Typed transcription of Amélineau's Oeuvres de Schenoudi. Converted to unicode by Coptic Scriptorium. Chapter divisions follow the paragraph breaks of Anne Boud'hors edition of MONB.XO (Le canon 8 de Chénouté vol. 2 pp. 391-92 [Cairo: IFAO 2013]). Verse divisions mostly follow Boud'hors sentence divisions." objectType="codex" order="02" origDate="between 601 and 800 C.E." origDate_notAfter="800" origDate_notBefore="601" origDate_precision="medium" origPlace="White Monastery" pages_from="95" pages_to="96" parsing="automatic" paths_authors="&lt;a href='http://paths.uniroma1.it/atlas/authors/95'&gt;95&lt;/a&gt;" paths_manuscripts="&lt;a href=&amp;quot;http://paths.uniroma1.it/atlas/manuscripts/385&amp;quot;&gt;385&lt;/a&gt;" paths_works="&lt;a href=&amp;quot;http://paths.uniroma1.it/atlas/works/794&amp;quot;&gt;794&lt;/a&gt;" people="none" placeName="Atripe" places="none" previous="-" project="Coptic SCRIPTORIUM" redundant="no" repository="Biblioteca Nazionale di Napoli" segmentation="checked" source="Stephen Emmel" source_info="Digital text provided by Stephen Emmel. Reproduced with permission from Emmel" tagging="checked" title="My Heart Is Crushed MONB.FL 95-96" Trismegistos="none" version_date="2023-09-29" version_n="4.5.0" witness="A parallel witness to this fragment appears in MONB.XO 80-82. It has not been published in Coptic Scriptorium but is in Boud'hors edition of MONB.XO in Le canon 8 de Chénouté [Cairo: IFAO 2013]">
+<meta annotation="Adeline Harrington, Caroline T. Schroeder, Lydia Bremer-McCollum" author="Shenoute" collection="Borgia Collection" Coptic_edition="&lt;a href=&amp;quot;https://archive.org/details/oeuvresdeschenou02shen/page/92/mode/2up&amp;quot;&gt;Amélineau Oeuvres de Schenoudi 2:92-93&lt;/a&gt;" corpus="shenoute.crushed" country="Egypt" document_cts_urn="urn:cts:copticLit:shenoute.crushed.amelineau:18-20" entities="checked" identities="checked" idno="IB 5 f. 74" language="Sahidic Coptic" license="&lt;a href='https://creativecommons.org/licenses/by/4.0/'&gt;CC-BY 4.0&lt;/a&gt;" msContents_title_n="8" msContents_title_type="canons" msItem_title="My Heart Is Crushed" msName="MONB.FL" note="Digital text provided by Stephen Emmel. Typed transcription of Amélineau's Oeuvres de Schenoudi. Converted to unicode by Coptic Scriptorium. Chapter divisions follow the paragraph breaks of Anne Boud'hors edition of MONB.XO (Le canon 8 de Chénouté vol. 2 pp. 391-92 [Cairo: IFAO 2013]). Verse divisions mostly follow Boud'hors sentence divisions." objectType="codex" order="02" origDate="between 601 and 800 C.E." origDate_notAfter="800" origDate_notBefore="601" origDate_precision="medium" origPlace="White Monastery" pages_from="95" pages_to="96" parsing="automatic" paths_authors="&lt;a href='http://paths.uniroma1.it/atlas/authors/95'&gt;95&lt;/a&gt;" paths_manuscripts="&lt;a href=&amp;quot;http://paths.uniroma1.it/atlas/manuscripts/385&amp;quot;&gt;385&lt;/a&gt;" paths_works="&lt;a href=&amp;quot;http://paths.uniroma1.it/atlas/works/794&amp;quot;&gt;794&lt;/a&gt;" people="none" placeName="Atripe" places="none" previous="-" project="Coptic SCRIPTORIUM" redundant="no" repository="Biblioteca Nazionale di Napoli" segmentation="checked" source="Stephen Emmel" source_info="Digital text provided by Stephen Emmel. Reproduced with permission from Emmel" tagging="checked" title="My Heart Is Crushed MONB.FL 95-96" Trismegistos="none" version_date="2023-09-29" version_n="4.5.0" witness="A parallel witness to this fragment appears in MONB.XO 80-82. It has not been published in Coptic Scriptorium but is in Boud'hors edition of MONB.XO in Le canon 8 de Chénouté [Cairo: IFAO 2013]">
 <pb_xml_id pb_xml_id="FL95">
 <chapter_n chapter_n="18">
 <ed_page_n ed_page_n="92">
+<translation translation="...">
 <verse_n verse_n="3">
 <ed_line_n	 ed_line_n	="1">
 <orig_group orig_group="[ⲡⲣⲟ]ⲫⲏⲧⲏⲥ">
@@ -232,7 +233,12 @@
 <norm norm="ⲣϣⲱⲛ">
 <lemma lemma="ⲣϣⲱⲛ">
 <pos pos="N">
-ⲣϣⲱⲛ
+<morph morph="ⲣ">
+ⲣ
+</morph>
+<morph morph="ϣⲱⲛ">
+ϣⲱⲛ
+</morph>
 </pos>
 </lemma>
 </norm>
@@ -405,7 +411,9 @@
 </orig_group>
 </ed_line_n>
 </verse_n>
+</translation>
 <ed_line_n	 ed_line_n	="3">
+<translation translation="...">
 <verse_n verse_n="4">
 <orig_group orig_group="ⲁⲩⲱ">
 <norm_group norm_group="ⲁⲩⲱ">
@@ -527,6 +535,8 @@
 </norm_group>
 </orig_group>
 </verse_n>
+</translation>
+<translation translation="...">
 <verse_n verse_n="5">
 <orig_group orig_group="ⲡⲉⲛⲧⲁϥⲥⲉⲕⲏⲥⲁⲩ">
 <norm_group norm_group="ⲡⲉⲛⲧⲁϥⲥⲉⲕⲏⲥⲁⲩ">
@@ -934,13 +944,22 @@
 </orig>
 </norm_group>
 </orig_group>
-<orig_group orig_group="ⲛⲧⲁⲩ">
-<norm_group norm_group="ⲛⲧⲁⲩ">
-<orig orig="ⲛⲧⲁ">
-<norm norm="ⲛⲧⲁ">
-<lemma lemma="ⲛⲧⲉ">
-<pos pos="PREP">
-ⲛⲧⲁ
+<orig_group orig_group="ⲛⲧⲁⲩⲉⲙⲛϣϭⲟⲙ">
+<norm_group norm_group="ⲛⲧⲁⲩⲙⲛϣϭⲟⲙ">
+<orig orig="ⲛⲧ">
+<norm norm="ⲛⲧ">
+<lemma lemma="ⲉⲧⲉⲣⲉ">
+<pos pos="CREL">
+ⲛⲧ
+</pos>
+</lemma>
+</norm>
+</orig>
+<orig orig="ⲁ">
+<norm norm="ⲁ">
+<lemma lemma="ⲁ">
+<pos pos="APST">
+ⲁ
 </pos>
 </lemma>
 </norm>
@@ -948,30 +967,17 @@
 <orig orig="ⲩ">
 <norm norm="ⲩ">
 <lemma lemma="ⲛⲧⲟⲟⲩ">
-<pos pos="PPERO">
+<pos pos="PPERS">
 ⲩ
 </pos>
 </lemma>
 </norm>
 </orig>
-</norm_group>
-</orig_group>
-<orig_group orig_group="ⲉⲙⲛϣϭⲟⲙ">
-<norm_group norm_group="ⲉⲙⲛϣϭⲟⲙ">
-<orig orig="ⲉ">
-<norm norm="ⲉ">
-<lemma lemma="ⲉⲣⲉ">
-<pos pos="CCIRC">
-ⲉ
-</pos>
-</lemma>
-</norm>
-</orig>
-<orig orig="ⲙⲛ">
+<orig orig="ⲉⲙⲛ">
 <norm norm="ⲙⲛ">
 <lemma lemma="ⲙⲛ">
 <pos pos="EXIST">
-ⲙⲛ
+ⲉⲙⲛ
 </pos>
 </lemma>
 </norm>
@@ -1468,6 +1474,8 @@
 </norm_group>
 </orig_group>
 </verse_n>
+</translation>
+<translation translation="...">
 <verse_n verse_n="6">
 <orig_group orig_group="ⲁϥϭⲱⲗⲡ">
 <norm_group norm_group="ⲁϥϭⲱⲗⲡ">
@@ -1731,8 +1739,10 @@
 </norm_group>
 </orig_group>
 </verse_n>
+</translation>
 </chapter_n>
 <chapter_n chapter_n="19">
+<translation translation="...">
 <verse_n verse_n="1">
 <orig_group orig_group="ⲛⲟⲉⲓ">
 <norm_group norm_group="ⲛⲟⲉⲓ">
@@ -2049,6 +2059,8 @@
 </norm_group>
 </orig_group>
 </verse_n>
+</translation>
+<translation translation="...">
 <verse_n verse_n="2">
 <orig_group orig_group="ϫⲉⲉⲛⲉⲟⲩⲟⲛϩ">
 <norm_group norm_group="ϫⲉⲉⲛⲉⲟⲩⲟⲛϩ">
@@ -2486,6 +2498,8 @@
 </norm_group>
 </orig_group>
 </verse_n>
+</translation>
+<translation translation="...">
 <verse_n verse_n="3">
 <orig_group orig_group="ⲉⲃⲟⲗ">
 <norm_group norm_group="ⲉⲃⲟⲗ">
@@ -2744,6 +2758,8 @@
 </norm_group>
 </orig_group>
 </verse_n>
+</translation>
+<translation translation="...">
 <verse_n verse_n="4">
 <orig_group orig_group="ⲉⲣⲉⲛⲉⲛⲛⲟⲃⲉ">
 <norm_group norm_group="ⲉⲣⲉⲛⲉⲛⲛⲟⲃⲉ">
@@ -3379,7 +3395,11 @@
 </norm_group>
 </orig_group>
 </verse_n>
+</translation>
 </chapter_n>
+<chapter_n chapter_n="20">
+<translation translation="...">
+<verse_n verse_n="1">
 <orig_group orig_group="ⲛⲟⲩϣⲓⲡⲉ">
 <norm_group norm_group="ⲛⲟⲩϣⲓⲡⲉ">
 <orig orig="ⲛ">
@@ -3622,6 +3642,10 @@
 </orig>
 </norm_group>
 </orig_group>
+</verse_n>
+</translation>
+<translation translation="...">
+<verse_n verse_n="2">
 <orig_group orig_group="ⲁⲩⲧⲟϭϥ">
 <norm_group norm_group="ⲁⲩⲧⲟϭϥ">
 <orig orig="ⲁ">
@@ -3868,6 +3892,10 @@
 </orig>
 </norm_group>
 </orig_group>
+</verse_n>
+</translation>
+<translation translation="...">
+<verse_n verse_n="3">
 <orig_group orig_group="ϫⲉⲁ">
 <norm_group norm_group="ϫⲉⲁ">
 <orig orig="ϫⲉ">
@@ -3905,7 +3933,10 @@
 </orig>
 </norm_group>
 </orig_group>
+</verse_n>
+</translation>
 </ed_line_n>
+</chapter_n>
 </pb_xml_id>
 </ed_page_n>
 </meta>
