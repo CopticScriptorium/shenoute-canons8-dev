@@ -11381,7 +11381,7 @@
 <morph morph="ⲣ">
 ⲣ
 </morph>
-<morph morph="ⲙⲛⲧ">
+<morph morph="ⲙⲛⲧⲣⲉ">
 ⲙⲛⲧⲣⲉ
 </morph>
 </pos>
@@ -13824,17 +13824,19 @@
 </norm>
 </orig>
 <orig orig="ⲣⲡⲓⲣⲁⲥⲙⲟⲥ">
-<norm norm="ⲣⲡⲓⲣⲁⲥⲙⲟⲥ">
-<lemma lemma="ⲣⲡⲓⲣⲁⲥⲙⲟⲥ">
+<norm norm="ⲣⲡⲉⲓⲣⲁⲥⲙⲟⲥ">
+<lemma lemma="ⲣⲡⲉⲓⲣⲁⲥⲙⲟⲥ">
 <pos pos="V">
 <morph morph="ⲣ">
 ⲣ
 </morph>
-<morph morph="ⲡⲓⲣⲁⲥⲙⲟⲥ">
+<lang lang="Greek">
+<morph morph="ⲡⲉⲓⲣⲁⲥⲙⲟⲥ">
 <note note="Read ⲡⲉⲓⲣⲁⲥⲙⲟⲥ">
 ⲡⲓⲣⲁⲥⲙⲟⲥ
 </note>
 </morph>
+</lang>
 </pos>
 </lemma>
 </norm>
@@ -14887,9 +14889,7 @@
 <norm norm="ⲙ">
 <lemma lemma="ⲛ">
 <pos pos="PREP">
-<lang lang="Greek">
 ⲙ
-</lang>
 </pos>
 </lemma>
 </norm>
@@ -14898,7 +14898,9 @@
 <norm norm="ⲡⲁⲣⲁ">
 <lemma lemma="ⲡⲁⲣⲁ">
 <pos pos="PREP">
+<lang lang="Greek">
 ⲡⲁⲣⲁ
+</lang>
 </pos>
 </lemma>
 </norm>
