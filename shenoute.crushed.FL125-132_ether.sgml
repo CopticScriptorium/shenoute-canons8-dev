@@ -196,7 +196,7 @@
 <lb_n lb_n="2">
 <orig_group orig_group="ⲡⲉⲧⲧⲗⲧⲗ">
 <norm_group norm_group="ⲡⲉⲧⲧⲗⲧⲗ">
-<note note="Read ⲛⲉ ⲉⲧⲧⲗⲧⲗ">
+<note note="Amélineau reads as ⲛⲉ-ⲉⲧ-ⲧⲗⲧⲗ">
 <entity entity="person">
 <orig orig="ⲡ">
 <norm norm="ⲡ">
@@ -3270,7 +3270,7 @@
 </norm_group>
 </orig_group>
 </entity>
-<orig_group orig_group="ⲕⲛⲁⲧⲱ[ⲱⲃⲉ]">
+<orig_group orig_group="ⲕⲛⲁⲧⲱⲱⲃⲉ">
 <norm_group norm_group="ⲕⲛⲁⲧⲱⲱⲃⲉ">
 <orig orig="ⲕ">
 <norm norm="ⲕ">
@@ -3290,11 +3290,11 @@
 </lemma>
 </norm>
 </orig>
-<orig orig="ⲧⲱ[ⲱⲃⲉ]">
+<orig orig="ⲧⲱⲱⲃⲉ">
 <norm norm="ⲧⲱⲱⲃⲉ">
 <lemma lemma="ⲧⲱⲱⲃⲉ">
 <pos pos="V">
-ⲧⲱ[ⲱⲃⲉ]
+ⲧⲱⲱⲃⲉ
 </pos>
 </lemma>
 </norm>
@@ -8079,20 +8079,11 @@
 </orig_group>
 <orig_group orig_group="ⲉⲃⲟⲗ">
 <norm_group norm_group="ⲉⲃⲟⲗ">
-<orig orig="ⲉ">
-<norm norm="ⲉ">
-<lemma lemma="ⲉ">
-<pos pos="PREP">
-ⲉ
-</pos>
-</lemma>
-</norm>
-</orig>
-<orig orig="ⲃⲟⲗ">
-<norm norm="ⲃⲟⲗ">
-<lemma lemma="ⲃⲟⲗ">
-<pos pos="N">
-ⲃⲟⲗ
+<orig orig="ⲉⲃⲟⲗ">
+<norm norm="ⲉⲃⲟⲗ">
+<lemma lemma="ⲉⲃⲟⲗ">
+<pos pos="ADV">
+ⲉⲃⲟⲗ
 </pos>
 </lemma>
 </norm>
