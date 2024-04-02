@@ -197,7 +197,7 @@
 <entity entity="person">
 <orig_group orig_group="ⲡⲉⲧⲧⲗⲧⲗ">
 <norm_group norm_group="ⲡⲉⲧⲧⲗⲧⲗ">
-<note note="Amélineau reads ⲛⲉ-ⲉⲧ-ⲧⲗⲧⲗ instead.">
+<note note="Amélineau reads ⲛⲉ-ⲉⲧ-ⲧⲗⲧⲗ.">
 <orig orig="ⲡ">
 <norm norm="ⲡ">
 <lemma lemma="ⲡ">
@@ -422,7 +422,6 @@
 </orig_group>
 <orig_group orig_group="ⲉⲩⲥⲓϣⲉ">
 <norm_group norm_group="ⲉⲩⲥⲓϣⲉ">
-<note note="Read ⲉⲟⲩⲥⲓϣⲉ">
 <orig orig="ⲉ">
 <norm norm="ⲉ">
 <lemma lemma="ⲉ">
@@ -452,7 +451,6 @@
 </norm>
 </orig>
 </entity>
-</note>
 </norm_group>
 </orig_group>
 <orig_group orig_group="ⲙⲏ">
