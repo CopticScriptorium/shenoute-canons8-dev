@@ -1,4 +1,4 @@
-<meta annotation="Lance Martin, Lydia Bremer-McCollum" author="Shenoute" collection="Borgia Collection" Coptic_edition="&lt;a href=&amp;quot;https://archive.org/details/oeuvresdeschenou02shen/page/80/mode/2up&amp;quot;&gt;Amélineau Oeuvres de Schenoudi 2:80-89&lt;/a&gt;" corpus="shenoute.listen" country="Egypt" document_cts_urn="-" entities="-" identities="-" idno="IB5 ff. 65-71" language="Sahidic Coptic" license="&lt;a href='https://creativecommons.org/licenses/by/4.0/'&gt;CC-BY 4.0&lt;/a&gt;" msContents_title_n="8" msContents_title_type="canons" msItem_title="So Listen" msName="MONB.FL" next="-" note="Digital text provided by Stephen Emmel. Typed transcription of Amélineau's Oeuvres de Schenoudi." objectType="codex" order="1" origDate="between 600 and 800 C.E." origDate_notAfter="0800" origDate_notBefore="0600" origDate_precision="medium" origPlace="White Monastery" pages_from="15" pages_to="28" parsing="automatic" paths_authors="&lt;a href='http://paths.uniroma1.it/atlas/authors/95'&gt;95&lt;/a&gt;" paths_manuscripts="&lt;a href='https://atlas.paths-erc.eu/manuscripts/385'&gt;385&lt;/a&gt;" paths_works="&lt;a href='https://atlas.paths-erc.eu/works/793'&gt;793&lt;/a&gt;" people="none" placeName="Atripe" places="none" previous="-" project="Coptic SCRIPTORIUM" redundant="no" repository="Biblioteca Nazionale di Napoli" segmentation="checked" source="Stephen Emmel, Amélineau Oeuvres de Schenoudi 1907" source_info="Digital text provided by Stephen Emmel. Typed transcription of Amélineau's Oeuvres de Schenoudi. Reproduced with permission from Emmel" tagging="automatic" title="So Listen FL15-28" Trismegistos="none" version_date="-" version_n="-" witness="** enter doc urn here ***">
+<meta annotation="Lance Martin, Lydia Bremer-McCollum" author="Shenoute" collection="Borgia Collection" Coptic_edition="&lt;a href='https://archive.org/details/oeuvresdeschenou02shen/page/80/mode/2up'&gt;Amélineau Oeuvres de Schenoudi 2:80-89&lt;/a&gt;" corpus="shenoute.listen" country="Egypt" document_cts_urn="-" entities="-" identities="-" idno="IB5 ff. 65-71" language="Sahidic Coptic" license="&lt;a href='https://creativecommons.org/licenses/by/4.0/'&gt;CC-BY 4.0&lt;/a&gt;" msContents_title_n="8" msContents_title_type="canons" msItem_title="So Listen" msName="MONB.FL" next="-" note="Digital text provided by Stephen Emmel. Typed transcription of Amélineau's Oeuvres de Schenoudi." objectType="codex" order="1" origDate="between 600 and 800 C.E." origDate_notAfter="0800" origDate_notBefore="0600" origDate_precision="medium" origPlace="White Monastery" pages_from="15" pages_to="28" parsing="automatic" paths_authors="&lt;a href='http://paths.uniroma1.it/atlas/authors/95'&gt;95&lt;/a&gt;" paths_manuscripts="&lt;a href='https://atlas.paths-erc.eu/manuscripts/385'&gt;385&lt;/a&gt;" paths_works="&lt;a href='https://atlas.paths-erc.eu/works/793'&gt;793&lt;/a&gt;" people="none" placeName="Atripe" places="none" previous="-" project="Coptic SCRIPTORIUM" redundant="no" repository="Biblioteca Nazionale di Napoli" segmentation="checked" source="Stephen Emmel, Amélineau Oeuvres de Schenoudi 1907" source_info="Digital text provided by Stephen Emmel. Typed transcription of Amélineau's Oeuvres de Schenoudi. Reproduced with permission from Emmel" tagging="automatic" title="So Listen FL15-28" Trismegistos="none" version_date="-" version_n="-" witness="** enter doc urn here ***">
 <ed_page_n ed_page_n="80">
 <pb_xml_id pb_xml_id="FL15">
 <ed_line_n ed_line_n="1">
@@ -70,13 +70,13 @@
 </orig>
 </norm_group>
 </orig_group>
-<orig_group orig_group="ⲁⲓ">
-<norm_group norm_group="ⲁⲓ">
-<orig orig="ⲁⲓ">
-<norm norm="ⲁⲓ">
-<lemma lemma="ⲁⲓ">
-<pos pos="UNKNOWN">
- ⲁⲓ
+<orig_group orig_group="[ⲧ]ⲁⲓ">
+<norm_group norm_group="ⲧⲁⲓ">
+<orig orig="[ⲧ]ⲁⲓ">
+<norm norm="ⲧⲁⲓ">
+<lemma lemma="ⲧⲁⲓ">
+<pos pos="PDEM">
+ [ⲧ]ⲁⲓ
 </pos>
 </lemma>
 </norm>
@@ -13258,8 +13258,8 @@
 <norm_group norm_group="ⲉⲡⲁⲛⲉⲥⲛⲏⲩ">
 <orig orig="ⲉ">
 <norm norm="ⲉ">
-<lemma lemma="ⲉⲣⲉ">
-<pos pos="CCIRC">
+<lemma lemma="ⲉ">
+<pos pos="PREP">
 ⲉ
 </pos>
 </lemma>
@@ -13324,6 +13324,7 @@
 <ed_line_n ed_line_n="13">
 <orig_group orig_group="ⲛϣⲟⲩⲁϣⲟⲩ">
 <norm_group norm_group="ⲛϣⲟⲩⲁϣⲟⲩ">
+<note note="Amélineau reads this as ⲛ-ϣⲟⲩ-(ⲟⲩ)ⲁϣ-ⲟⲩ paralleling the noun/adjective following the ⲏ. ">
 <orig orig="ⲛ">
 <norm norm="ⲛ">
 <lemma lemma="ⲛ">
@@ -13342,9 +13343,13 @@
 </lemma>
 </norm>
 </orig>
-<orig orig="ⲁϣ">
-<norm norm="ⲁϣ">
-ⲁϣ
+<orig orig="(ⲟⲩ)ⲁϣ">
+<norm norm="ⲟⲩⲁϣ">
+<lemma lemma="ⲟⲩⲱϣ">
+<pos pos="V">
+(ⲟⲩ)ⲁϣ
+</pos>
+</lemma>
 </norm>
 </orig>
 <orig orig="ⲟⲩ">
@@ -13356,6 +13361,7 @@
 </lemma>
 </norm>
 </orig>
+</note>
 </norm_group>
 </orig_group>
 <orig_group orig_group="ⲏ">
@@ -21143,7 +21149,9 @@
 <norm norm="ⲁⲡⲉ">
 <lemma lemma="ⲁⲡⲉ">
 <pos pos="N">
+<lang lang="Egyptian">
 ⲁⲡⲁ
+</lang>
 </pos>
 </lemma>
 </norm>
@@ -27113,7 +27121,7 @@
 <orig orig="ⲡⲉ">
 <norm norm="ⲡⲉ">
 <lemma lemma="ⲡ">
-<pos pos=" ART">
+<pos pos="ART">
 ⲡⲉ
 </pos>
 </lemma>
