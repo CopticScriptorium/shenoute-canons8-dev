@@ -2618,7 +2618,6 @@
 <entity entity="person">
 <orig_group orig_group="ⲡⲉⲧⲟⲩϫⲱ">
 <norm_group norm_group="ⲡⲉⲧⲟⲩϫⲱ">
-<note note="Read ⲡⲉ ⲉⲧⲟⲩϫⲱ">
 <orig orig="ⲡ">
 <norm norm="ⲡ">
 <lemma lemma="ⲡ">
@@ -2655,7 +2654,6 @@
 </lemma>
 </norm>
 </orig>
-</note>
 </norm_group>
 </orig_group>
 <orig_group orig_group="ⲙⲙⲟϥ">
@@ -3765,7 +3763,6 @@
 </orig_group>
 <orig_group orig_group="ⲉⲩⲱⲛⲉ">
 <norm_group norm_group="ⲉⲩⲱⲛⲉ">
-<note note="Read ⲉⲟⲩⲱⲛⲉ">
 <orig orig="ⲉ">
 <norm norm="ⲉ">
 <lemma lemma="ⲉ">
@@ -3795,7 +3792,6 @@
 </norm>
 </orig>
 </entity>
-</note>
 </norm_group>
 </orig_group>
 <orig_group orig_group="ⲛⲁⲙⲉ">
@@ -7935,7 +7931,6 @@
 </orig_group>
 <orig_group orig_group="ⲉⲩⲟⲩⲟⲉⲓϣ">
 <norm_group norm_group="ⲉⲩⲟⲩⲟⲉⲓϣ">
-<note note="Read ⲉⲟⲩⲟⲩⲟⲉⲓϣ">
 <orig orig="ⲉ">
 <norm norm="ⲉ">
 <lemma lemma="ⲉ">
@@ -7965,7 +7960,6 @@
 </norm>
 </orig>
 </entity>
-</note>
 </norm_group>
 </orig_group>
 <orig_group orig_group="ⲉϩⲣⲁⲓ">
@@ -12507,17 +12501,17 @@
 <norm norm="ⲣⲡⲙⲉⲉⲩⲉ">
 <lemma lemma="ⲣⲡⲙⲉⲉⲩⲉ">
 <pos pos="V">
-<note note="ⲣ">
+<morph morph="ⲣ">
 ⲣ
-</note>
+</morph>
 </lb_n>
 <lb_n lb_n="9">
-<note note="ⲡ">
+<morph morph="ⲡ">
 ⲡ
-</note>
-<note note="ⲙⲉⲉⲩⲉ">
+</morph>
+<morph morph="ⲙⲉⲉⲩⲉ">
 ⲙⲉⲉⲩⲉ
-</note>
+</morph>
 </pos>
 </lemma>
 </norm>
@@ -13827,7 +13821,7 @@
 </morph>
 <lang lang="Greek">
 <morph morph="ⲡⲉⲓⲣⲁⲥⲙⲟⲥ">
-<note note="Read ⲡⲉⲓⲣⲁⲥⲙⲟⲥ">
+<note note="Amélineau reads ⲡⲉⲓⲣⲁⲥⲙⲟⲥ">
 ⲡⲓⲣⲁⲥⲙⲟⲥ
 </note>
 </morph>
