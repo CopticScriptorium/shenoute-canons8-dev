@@ -7,6 +7,7 @@
 <ed_line_n ed_line_n="1">
 <orig_group orig_group="ⲙⲙⲉⲣⲁⲧⲉ">
 <norm_group norm_group="ⲙⲙⲉⲣⲁⲧⲉ">
+<entity entity="person">
 <note note="Coptic page ⲣ︦ⲗ︦ⲅ︦ begins">
 <orig orig="ⲙ">
 <norm norm="ⲙ">
@@ -27,6 +28,7 @@
 </norm>
 </orig>
 </note>
+</entity>
 </norm_group>
 </orig_group>
 <orig_group orig_group="ⲧⲁⲓ">
@@ -101,6 +103,7 @@
 </lemma>
 </norm>
 </orig>
+<entity entity="abstract">
 <orig orig="ⲟⲩ">
 <norm norm="ⲟⲩ">
 <lemma lemma="ⲟⲩ">
@@ -119,6 +122,7 @@
 </lemma>
 </norm>
 </orig>
+</entity>
 </norm_group>
 </orig_group>
 <orig_group orig_group="ⲡⲉ">
@@ -149,6 +153,7 @@
 </lemma>
 </norm>
 </orig>
+<entity entity="substance">
 <orig orig="ⲟⲩ">
 <norm norm="ⲟⲩ">
 <lemma lemma="ⲟⲩ">
@@ -204,6 +209,7 @@
 </orig>
 </norm_group>
 </orig_group>
+</entity>
 <orig_group orig_group="ⲉϥϣⲁⲛⲕⲱ">
 <norm_group norm_group="ⲉϥϣⲁⲛⲕⲱ">
 <orig orig="ⲉϥϣⲁⲛ">
@@ -259,6 +265,7 @@
 </lemma>
 </norm>
 </orig>
+<entity entity="abstract">
 <orig orig="ⲟⲩ">
 <norm norm="ⲟⲩ">
 <lemma lemma="ⲟⲩ">
@@ -295,6 +302,7 @@
 </lemma>
 </norm>
 </orig>
+<entity entity="person">
 <orig orig="ⲛ">
 <norm norm="ⲛ">
 <lemma lemma="ⲡ">
@@ -322,8 +330,10 @@
 </lemma>
 </norm>
 </orig>
+</entity>
 </norm_group>
 </orig_group>
+</entity>
 </ed_line_n>
 <ed_line_n ed_line_n="2">
 <orig_group orig_group="ⲏ">
@@ -341,6 +351,7 @@
 </orig>
 </norm_group>
 </orig_group>
+<entity entity="abstract">
 <orig_group orig_group="ⲛⲉⲧⲛⲁⲉⲓⲣⲉ">
 <norm_group norm_group="ⲛⲉⲧⲛⲁⲉⲓⲣⲉ">
 <orig orig="ⲛ">
@@ -392,6 +403,7 @@
 </lemma>
 </norm>
 </orig>
+<entity entity="abstract">
 <orig orig="ϩⲉⲛ">
 <norm norm="ϩⲉⲛ">
 <lemma lemma="ⲟⲩ">
@@ -436,6 +448,7 @@
 </orig>
 </norm_group>
 </orig_group>
+</entity>
 <orig_group orig_group="ϩⲣⲁⲓ">
 <norm_group norm_group="ϩⲣⲁⲓ">
 <orig orig="ϩⲣⲁⲓ">
@@ -471,6 +484,7 @@
 </orig>
 </norm_group>
 </orig_group>
+</entity>
 <orig_group orig_group=".">
 <norm_group norm_group=".">
 <orig orig=".">
@@ -514,6 +528,7 @@
 </lemma>
 </norm>
 </orig>
+<entity entity="abstract">
 <orig orig="ⲡⲉⲩ">
 <norm norm="ⲡⲉⲩ">
 <lemma lemma="ⲡⲉⲩ">
@@ -532,6 +547,7 @@
 </lemma>
 </norm>
 </orig>
+</entity>
 </norm_group>
 </orig_group>
 </ed_line_n>
@@ -547,6 +563,7 @@
 </lemma>
 </norm>
 </orig>
+<entity entity="substance">
 <orig orig="ⲡⲉⲩ">
 <norm norm="ⲡⲉⲩ">
 <lemma lemma="ⲡⲉⲩ">
@@ -565,6 +582,7 @@
 </lemma>
 </norm>
 </orig>
+</entity>
 </norm_group>
 </orig_group>
 <orig_group orig_group="ⲉϩⲣⲁⲓ">
@@ -613,6 +631,7 @@
 </lemma>
 </norm>
 </orig>
+<entity entity="abstract">
 <orig orig="ⲡ">
 <norm norm="ⲡ">
 <lemma lemma="ⲡ">
@@ -662,6 +681,7 @@
 </lemma>
 </norm>
 </orig>
+<entity entity="person">
 <orig orig="ⲡⲁⲓ">
 <norm norm="ⲡⲁⲓ">
 <lemma lemma="ⲡⲁⲓ">
@@ -734,6 +754,8 @@
 </orig>
 </norm_group>
 </orig_group>
+</entity>
+</entity>
 <orig_group orig_group=".">
 <norm_group norm_group=".">
 <orig orig=".">
@@ -762,6 +784,7 @@
 </lemma>
 </norm>
 </orig>
+<entity entity="abstract">
 <orig orig="ⲡⲁⲓ">
 <norm norm="ⲡⲁⲓ">
 <lemma lemma="ⲡⲁⲓ">
@@ -771,6 +794,7 @@
 </lemma>
 </norm>
 </orig>
+</entity>
 </norm_group>
 </orig_group>
 <orig_group orig_group="ⲕⲁⲛ">
@@ -821,6 +845,7 @@
 </lemma>
 </norm>
 </orig>
+<entity entity="abstract">
 <orig orig="ⲡⲓ">
 <norm norm="ⲡⲓ">
 <lemma lemma="ⲡⲓ">
@@ -839,6 +864,7 @@
 </lemma>
 </norm>
 </orig>
+</entity>
 </norm_group>
 </orig_group>
 <orig_group orig_group="ⲏ">
@@ -940,6 +966,7 @@
 </orig>
 </ed_line_n>
 <ed_line_n ed_line_n="5">
+<entity entity="abstract">
 <orig orig="ⲡⲉϥ">
 <norm norm="ⲡⲉϥ">
 <lemma lemma="ⲡⲉϥ">
@@ -958,6 +985,7 @@
 </lemma>
 </norm>
 </orig>
+</entity>
 </norm_group>
 </orig_group>
 <orig_group orig_group="ⲣⲱ">
@@ -1198,6 +1226,7 @@
 </lemma>
 </norm>
 </orig>
+<entity entity="time">
 <orig orig="ⲑ">
 <norm norm="ⲧ">
 <lemma lemma="ⲡ">
@@ -1229,6 +1258,7 @@
 </lemma>
 </norm>
 </orig>
+<entity entity="abstract">
 <orig orig="ⲡⲉϥ">
 <norm norm="ⲡⲉϥ">
 <lemma lemma="ⲡⲉϥ">
@@ -1271,6 +1301,8 @@
 </orig>
 </norm_group>
 </orig_group>
+</entity>
+</entity>
 <orig_group orig_group="ⲑⲟ">
 <norm_group norm_group="ⲑⲟ">
 <orig orig="ⲑⲟ">
@@ -1295,6 +1327,7 @@
 </lemma>
 </norm>
 </orig>
+<entity entity="object">
 <orig orig="ⲧⲉϥ">
 <norm norm="ⲧⲉϥ">
 <lemma lemma="ⲡⲉϥ">
@@ -1313,6 +1346,7 @@
 </lemma>
 </norm>
 </orig>
+</entity>
 </norm_group>
 </orig_group>
 </verse>
@@ -1395,6 +1429,7 @@
 </lemma>
 </norm>
 </orig>
+<entity entity="place">
 <orig orig="ⲧ">
 <norm norm="ⲧ">
 <lemma lemma="ⲡ">
@@ -1439,6 +1474,7 @@
 </orig>
 </norm_group>
 </orig_group>
+</entity>
 <orig_group orig_group="ϩⲛϩⲱⲃ">
 <norm_group norm_group="ϩⲛϩⲱⲃ">
 <orig orig="ϩⲛ">
@@ -1450,6 +1486,7 @@
 </lemma>
 </norm>
 </orig>
+<entity entity="abstract">
 <orig orig="ϩⲱⲃ">
 <norm norm="ϩⲱⲃ">
 <lemma lemma="ϩⲱⲃ">
@@ -1474,6 +1511,7 @@
 </orig>
 </norm_group>
 </orig_group>
+</entity>
 <orig_group orig_group="ⲕⲁⲧⲁⲥⲙⲟⲧ">
 <norm_group norm_group="ⲕⲁⲧⲁⲥⲙⲟⲧ">
 <orig orig="ⲕⲁⲧⲁ">
@@ -1487,6 +1525,7 @@
 </lemma>
 </norm>
 </orig>
+<entity entity="abstract">
 <orig orig="ⲥⲙⲟⲧ">
 <norm norm="ⲥⲙⲟⲧ">
 <lemma lemma="ⲥⲙⲟⲧ">
@@ -1511,6 +1550,7 @@
 </orig>
 </norm_group>
 </orig_group>
+</entity>
 <orig_group orig_group="ϩⲛⲧⲱϣ">
 <norm_group norm_group="ϩⲛⲧⲱϣ">
 <orig orig="ϩⲛ">
@@ -1524,6 +1564,7 @@
 </orig>
 </ed_line_n>
 <ed_line_n ed_line_n="8">
+<entity entity="abstract">
 <orig orig="ⲧⲱϣ">
 <norm norm="ⲧⲱϣ">
 <lemma lemma="ⲧⲱϣ">
@@ -1559,6 +1600,7 @@
 </lemma>
 </norm>
 </orig>
+<entity entity="person">
 <orig orig="ⲡ">
 <norm norm="ⲡ">
 <lemma lemma="ⲡ">
@@ -1577,8 +1619,10 @@
 </lemma>
 </norm>
 </orig>
+</entity>
 </norm_group>
 </orig_group>
+</entity>
 <orig_group orig_group="ⲉϥⲟ">
 <norm_group norm_group="ⲉϥⲟ">
 <orig orig="ⲉ">
@@ -1621,6 +1665,7 @@
 </lemma>
 </norm>
 </orig>
+<entity entity="person">
 <orig orig="ϫⲁϫⲉ">
 <norm norm="ϫⲁϫⲉ">
 <lemma lemma="ϫⲁϫⲉ">
@@ -1630,6 +1675,7 @@
 </lemma>
 </norm>
 </orig>
+</entity>
 </norm_group>
 </orig_group>
 <orig_group orig_group="ⲉⲛⲉⲧⲉⲙⲡⲟⲩⲥⲱⲧⲙ">
@@ -1643,6 +1689,7 @@
 </lemma>
 </norm>
 </orig>
+<entity entity="person">
 <orig orig="ⲛ">
 <norm norm="ⲛ">
 <lemma lemma="ⲡ">
@@ -1688,6 +1735,7 @@
 </lemma>
 </norm>
 </orig>
+</entity>
 </norm_group>
 </orig_group>
 <orig_group orig_group="ⲏ">
@@ -1707,6 +1755,7 @@
 </orig_group>
 <orig_group orig_group="ⲛⲉⲧⲉⲛⲥⲉⲛⲁⲥⲱⲧⲙ">
 <norm_group norm_group="ⲛⲉⲧⲉⲛⲥⲉⲛⲁⲥⲱⲧⲙ">
+<entity entity="person">
 <orig orig="ⲛ">
 <norm norm="ⲛ">
 <lemma lemma="ⲡ">
@@ -1763,6 +1812,7 @@
 </lemma>
 </norm>
 </orig>
+</entity>
 </norm_group>
 </orig_group>
 <orig_group orig_group="ⲁⲛ">
@@ -1789,6 +1839,7 @@
 </lemma>
 </norm>
 </orig>
+<entity entity="abstract">
 <orig orig="ⲛ">
 <norm norm="ⲛ">
 <lemma lemma="ⲡ">
@@ -1807,6 +1858,7 @@
 </lemma>
 </norm>
 </orig>
+</entity>
 </norm_group>
 </orig_group>
 <orig_group orig_group="ⲙⲛⲛⲧⲱϣ">
@@ -1820,6 +1872,7 @@
 </lemma>
 </norm>
 </orig>
+<entity entity="abstract">
 <orig orig="ⲛ">
 <norm norm="ⲛ">
 <lemma lemma="ⲡ">
@@ -1860,6 +1913,7 @@
 </lemma>
 </norm>
 </orig>
+<entity entity="person">
 <orig orig="ⲡ">
 <norm norm="ⲡ">
 <lemma lemma="ⲡ">
@@ -1878,6 +1932,7 @@
 </lemma>
 </norm>
 </orig>
+</entity>
 </norm_group>
 </orig_group>
 <orig_group orig_group="ϩⲱⲛ">
@@ -1926,6 +1981,7 @@
 </lemma>
 </norm>
 </orig>
+<entity entity="organization">
 <orig orig="ⲛⲉϥ">
 <norm norm="ⲛⲉϥ">
 <lemma lemma="ⲡⲉϥ">
@@ -1948,8 +2004,10 @@
 </lemma>
 </norm>
 </orig>
+</entity>
 </norm_group>
 </orig_group>
+</entity>
 <orig_group orig_group="ⲉⲧⲙⲧⲣⲉⲣⲱⲙⲉ">
 <norm_group norm_group="ⲉⲧⲙⲧⲣⲉⲣⲱⲙⲉ">
 <orig orig="ⲉ">
@@ -1979,6 +2037,7 @@
 </lemma>
 </norm>
 </orig>
+<entity entity="person">
 <orig orig="ⲣⲱⲙⲉ">
 <norm norm="ⲣⲱⲙⲉ">
 <lemma lemma="ⲣⲱⲙⲉ">
@@ -1988,6 +2047,7 @@
 </lemma>
 </norm>
 </orig>
+</entity>
 </norm_group>
 </orig_group>
 <orig_group orig_group="ⲉⲡⲓϣⲱⲛⲉ">
@@ -2001,6 +2061,7 @@
 </lemma>
 </norm>
 </orig>
+<entity entity="abstract">
 <orig orig="ⲡⲓ">
 <norm norm="ⲡⲓ">
 <lemma lemma="ⲡⲓ">
@@ -2047,6 +2108,7 @@
 </note>
 </norm_group>
 </orig_group>
+</entity>
 <orig_group orig_group="ϩⲓⲱⲱϥ">
 <norm_group norm_group="ϩⲓⲱⲱϥ">
 <orig orig="ϩⲓⲱⲱ">
@@ -2387,6 +2449,7 @@
 </lemma>
 </norm>
 </orig>
+<entity entity="abstract">
 <orig orig="ϩⲁϩ">
 <norm norm="ϩⲁϩ">
 <lemma lemma="ϩⲁϩ">
@@ -2431,6 +2494,7 @@
 </lemma>
 </norm>
 </orig>
+<entity entity="abstract">
 <orig orig="ϩⲱϩ">
 <norm norm="ϩⲱϩ">
 <lemma lemma="ϩⲱϩ">
@@ -2473,6 +2537,8 @@
 </orig>
 </norm_group>
 </orig_group>
+</entity>
+</entity>
 <orig_group orig_group="ⲉⲁⲩϩⲱϩ">
 <norm_group norm_group="ⲉⲁⲩϩⲱϩ">
 <orig orig="ⲉ">
@@ -2570,6 +2636,7 @@
 </lemma>
 </norm>
 </orig>
+<entity entity="abstract">
 <orig orig="ⲧⲉϥ">
 <norm norm="ⲧⲉϥ">
 <lemma lemma="ⲡⲉϥ">
@@ -2614,6 +2681,7 @@
 </orig>
 </norm_group>
 </orig_group>
+</entity>
 <orig_group orig_group="ϩⲛⲟⲩϩⲱϩ">
 <norm_group norm_group="ϩⲛⲟⲩϩⲱϩ">
 <orig orig="ϩⲛ">
@@ -2625,6 +2693,7 @@
 </lemma>
 </norm>
 </orig>
+<entity entity="object">
 <orig orig="ⲟⲩ">
 <norm norm="ⲟⲩ">
 <lemma lemma="ⲟⲩ">
@@ -2643,6 +2712,7 @@
 </lemma>
 </norm>
 </orig>
+</entity>
 </norm_group>
 </orig_group>
 <orig_group orig_group="ϣⲁⲛⲧⲉⲛⲉϥⲡⲗⲏⲅⲏ">
@@ -2656,6 +2726,7 @@
 </lemma>
 </norm>
 </orig>
+<entity entity="abstract">
 <orig orig="ⲛⲉϥ">
 <norm norm="ⲛⲉϥ">
 <lemma lemma="ⲡⲉϥ">
@@ -2676,6 +2747,7 @@
 </lemma>
 </norm>
 </orig>
+</entity>
 </norm_group>
 </orig_group>
 <orig_group orig_group="ⲁϣⲁⲓ">
@@ -2762,6 +2834,7 @@
 </lemma>
 </norm>
 </orig>
+<entity entity="person">
 <orig orig="ⲡ">
 <norm norm="ⲡ">
 <lemma lemma="ⲡ">
@@ -2780,6 +2853,7 @@
 </lemma>
 </norm>
 </orig>
+</entity>
 </norm_group>
 </orig_group>
 <orig_group orig_group="ⲙⲡⲟⲩϣⲓⲡⲉ">
@@ -2846,6 +2920,7 @@
 </lemma>
 </norm>
 </orig>
+<entity entity="person">
 <orig orig="ⲣⲱⲙⲉ">
 <norm norm="ⲣⲱⲙⲉ">
 <lemma lemma="ⲣⲱⲙⲉ">
@@ -2855,6 +2930,7 @@
 </lemma>
 </norm>
 </orig>
+</entity>
 </norm_group>
 </orig_group>
 <orig_group orig_group="ⲙⲡⲟⲩϣⲛϩⲧⲏⲩ">
@@ -3033,6 +3109,7 @@
 </lemma>
 </norm>
 </orig>
+<entity entity="abstract">
 <orig orig="ⲛⲉⲩ">
 <norm norm="ⲛⲉⲩ">
 <lemma lemma="ⲡⲉⲩ">
@@ -3051,6 +3128,7 @@
 </lemma>
 </norm>
 </orig>
+</entity>
 </norm_group>
 </orig_group>
 <orig_group orig_group="ⲛⲁⲕⲧⲟⲟⲩ">
@@ -3097,6 +3175,7 @@
 </lemma>
 </norm>
 </orig>
+<entity entity="object">
 <orig orig="ⲧⲉⲩ">
 <norm norm="ⲧⲉⲩ">
 <lemma lemma="ⲡⲉⲩ">
@@ -3115,6 +3194,7 @@
 </lemma>
 </norm>
 </orig>
+</entity>
 </norm_group>
 </orig_group>
 <orig_group orig_group="ⲁⲩⲱ">
@@ -3159,6 +3239,7 @@
 </lemma>
 </norm>
 </orig>
+<entity entity="person">
 <orig orig="ⲧ">
 <norm norm="ⲧ">
 <lemma lemma="ⲡ">
@@ -3192,6 +3273,7 @@
 </lemma>
 </norm>
 </orig>
+<entity entity="place">
 <orig orig="ⲧ">
 <norm norm="ⲧ">
 <lemma lemma="ⲡ">
@@ -3243,6 +3325,8 @@
 </orig>
 </norm_group>
 </orig_group>
+</entity>
+</entity>
 <orig_group orig_group=".">
 <norm_group norm_group=".">
 <orig orig=".">
@@ -3382,6 +3466,7 @@
 </lemma>
 </norm>
 </orig>
+<entity entity="abstract">
 <orig orig="ⲡ">
 <norm norm="ⲡ">
 <lemma lemma="ⲡ">
@@ -3400,6 +3485,7 @@
 </lemma>
 </norm>
 </orig>
+</entity>
 </norm_group>
 </orig_group>
 <orig_group orig_group="ⲙⲛⲧⲗⲩⲡⲏ">
@@ -3413,6 +3499,7 @@
 </lemma>
 </norm>
 </orig>
+<entity entity="abstract">
 <orig orig="ⲧ">
 <norm norm="ⲧ">
 <lemma lemma="ⲡ">
@@ -3446,6 +3533,7 @@
 </lemma>
 </norm>
 </orig>
+<entity entity="person">
 <orig orig="ⲡⲁⲓ">
 <norm norm="ⲡⲁⲓ">
 <lemma lemma="ⲡⲁⲓ">
@@ -3490,6 +3578,7 @@
 </lemma>
 </norm>
 </orig>
+<entity entity="abstract">
 <orig orig="ⲡⲉϥ">
 <norm norm="ⲡⲉϥ">
 <lemma lemma="ⲡⲉϥ">
@@ -3508,8 +3597,11 @@
 </lemma>
 </norm>
 </orig>
+</entity>
 </norm_group>
 </orig_group>
+</entity>
+</entity>
 <orig_group orig_group="ⲉⲩⲙⲛⲧϣⲙⲙⲟ">
 <norm_group norm_group="ⲉⲩⲙⲛⲧϣⲙⲙⲟ">
 <orig orig="ⲉ">
@@ -3530,6 +3622,7 @@
 </lemma>
 </norm>
 </orig>
+<entity entity="abstract">
 <orig orig="ⲙⲛⲧϣⲙⲙⲟ">
 <norm norm="ⲙⲛⲧϣⲙⲙⲟ">
 <lemma lemma="ⲙⲛⲧϣⲙⲙⲟ">
@@ -3546,6 +3639,7 @@
 </lemma>
 </norm>
 </orig>
+</entity>
 </norm_group>
 </orig_group>
 <orig_group orig_group="ⲛⲙⲙⲁⲩ">
@@ -3605,6 +3699,7 @@
 </lemma>
 </norm>
 </orig>
+<entity entity="abstract">
 <orig orig="ⲙⲛⲧϫⲁϫⲉ">
 <norm norm="ⲙⲛⲧϫⲁϫⲉ">
 <lemma lemma="ⲙⲛⲧϫⲁϫⲉ">
@@ -3619,6 +3714,7 @@
 </lemma>
 </norm>
 </orig>
+</entity>
 </norm_group>
 </orig_group>
 <orig_group orig_group="ⲛⲁⲕⲧⲟⲟⲩ">
@@ -3773,6 +3869,7 @@
 </lemma>
 </norm>
 </orig>
+<entity entity="abstract">
 <orig orig="ⲡ">
 <norm norm="ⲡ">
 <lemma lemma="ⲡ">
@@ -3827,10 +3924,12 @@
 </lemma>
 </norm>
 </orig>
+</entity>
 </norm_group>
 </orig_group>
 <orig_group orig_group="ϩⲉⲛⲕⲉⲉⲡⲓⲥⲧⲟⲗⲏ">
 <norm_group norm_group="ϩⲉⲛⲕⲉⲉⲡⲓⲥⲧⲟⲗⲏ">
+<entity entity="object">
 <orig orig="ϩⲉⲛ">
 <norm norm="ϩⲉⲛ">
 <lemma lemma="ϩⲉⲛ">
@@ -3860,6 +3959,7 @@
 </lemma>
 </norm>
 </orig>
+</entity>
 </norm_group>
 </orig_group>
 <orig_group orig_group="ⲉⲣⲉⲡϣⲁϫⲉ">
@@ -3873,6 +3973,7 @@
 </lemma>
 </norm>
 </orig>
+<entity entity="abstract">
 <orig orig="ⲡ">
 <norm norm="ⲡ">
 <lemma lemma="ⲡ">
@@ -3904,6 +4005,7 @@
 </lemma>
 </norm>
 </orig>
+<entity entity="person">
 <orig orig="ⲡ">
 <norm norm="ⲡ">
 <lemma lemma="ⲡ">
@@ -3922,6 +4024,7 @@
 </lemma>
 </norm>
 </orig>
+</entity>
 </norm_group>
 </orig_group>
 </ed_line_n>
@@ -3948,6 +4051,7 @@
 </orig>
 </norm_group>
 </orig_group>
+</entity>
 <orig_group orig_group="ϫⲱ">
 <norm_group norm_group="ϫⲱ">
 <orig orig="ϫⲱ">
@@ -4058,6 +4162,7 @@
 </orig>
 </norm_group>
 </orig_group>
+<entity entity="person">
 <orig_group orig_group="ⲡⲉⲧⲛⲁⲣⲟⲩⲧⲟⲡⲟⲥ">
 <norm_group norm_group="ⲡⲉⲧⲛⲁⲣⲟⲩⲧⲟⲡⲟⲥ">
 <orig orig="ⲡ">
@@ -4096,6 +4201,7 @@
 </lemma>
 </norm>
 </orig>
+<entity entity="place">
 <orig orig="ⲟⲩ">
 <norm norm="ⲟⲩ">
 <lemma lemma="ⲟⲩ">
@@ -4167,6 +4273,7 @@
 </lemma>
 </norm>
 </orig>
+<entity entity="person">
 <orig orig="ϣⲙⲙⲟ">
 <norm norm="ϣⲙⲙⲟ">
 <lemma lemma="ϣⲙⲙⲟ">
@@ -4189,6 +4296,7 @@
 </lemma>
 </norm>
 </orig>
+<entity entity="person">
 <orig orig="ⲡ">
 <norm norm="ⲡ">
 <lemma lemma="ⲡ">
@@ -4207,8 +4315,12 @@
 </lemma>
 </norm>
 </orig>
+</entity>
 </norm_group>
 </orig_group>
+</entity>
+</entity>
+</entity>
 <orig_group orig_group="ϩⲛⲛⲉϥϩⲃⲏⲟⲩⲉ">
 <norm_group norm_group="ϩⲛⲛⲉϥϩⲃⲏⲩⲉ">
 <orig orig="ϩⲛ">
@@ -4220,6 +4332,7 @@
 </lemma>
 </norm>
 </orig>
+<entity entity="abstract">
 <orig orig="ⲛⲉϥ">
 <norm norm="ⲛⲉϥ">
 <lemma lemma="ⲡⲉϥ">
@@ -4264,6 +4377,7 @@
 </orig>
 </norm_group>
 </orig_group>
+</entity>
 <orig_group orig_group="ⲛⲑⲉ">
 <norm_group norm_group="ⲛⲧϩⲉ">
 <orig orig="ⲛ">
@@ -4388,6 +4502,7 @@
 </lemma>
 </norm>
 </orig>
+<entity entity="place">
 <orig orig="ⲡⲓ">
 <norm norm="ⲡⲓ">
 <lemma lemma="ⲡⲓ">
@@ -4419,6 +4534,7 @@
 </lemma>
 </norm>
 </orig>
+<entity entity="person">
 <orig orig="ϣⲙⲙⲟ">
 <norm norm="ϣⲙⲙⲟ">
 <lemma lemma="ϣⲙⲙⲟ">
@@ -4428,8 +4544,10 @@
 </lemma>
 </norm>
 </orig>
+</entity>
 </norm_group>
 </orig_group>
+</entity>
 <orig_group orig_group="ⲉⲣⲟⲓ">
 <norm_group norm_group="ⲉⲣⲟⲓ">
 <orig orig="ⲉⲣⲟ">
@@ -4472,6 +4590,7 @@
 </lemma>
 </norm>
 </orig>
+<entity entity="person">
 <orig orig="ⲡ">
 <norm norm="ⲡ">
 <lemma lemma="ⲡ">
@@ -4490,6 +4609,7 @@
 </lemma>
 </norm>
 </orig>
+</entity>
 </norm_group>
 </orig_group>
 <orig_group orig_group="ⲣⲛⲣⲱⲙⲉ">
@@ -4503,6 +4623,7 @@
 </lemma>
 </norm>
 </orig>
+<entity entity="person">
 <orig orig="ⲛ">
 <norm norm="ⲛ">
 <lemma lemma="ⲡ">
@@ -4548,6 +4669,7 @@
 </orig>
 </norm_group>
 </orig_group>
+</entity>
 <orig_group orig_group="ⲛϣⲙⲙⲟ">
 <norm_group norm_group="ⲛϣⲙⲙⲟ">
 <orig orig="ⲛ">
@@ -4559,6 +4681,7 @@
 </lemma>
 </norm>
 </orig>
+<entity entity="person">
 <orig orig="ϣⲙⲙⲟ">
 <norm norm="ϣⲙⲙⲟ">
 <lemma lemma="ϣⲙⲙⲟ">
@@ -4592,6 +4715,7 @@
 </orig>
 </norm_group>
 </orig_group>
+</entity>
 <orig_group orig_group="ⲉⲓⲧⲉ">
 <norm_group norm_group="ⲉⲓⲧⲉ">
 <orig orig="ⲉⲓⲧⲉ">
@@ -4609,6 +4733,7 @@
 </orig_group>
 <orig_group orig_group="ϩⲟⲟⲩⲧ">
 <norm_group norm_group="ϩⲟⲟⲩⲧ">
+<entity entity="person">
 <orig orig="ϩⲟⲟⲩⲧ">
 <norm norm="ϩⲟⲟⲩⲧ">
 <lemma lemma="ϩⲟⲟⲩⲧ">
@@ -4618,6 +4743,7 @@
 </lemma>
 </norm>
 </orig>
+</entity>
 </norm_group>
 </orig_group>
 <orig_group orig_group="ⲉⲓⲧⲉ">
@@ -4635,6 +4761,7 @@
 </orig>
 </norm_group>
 </orig_group>
+<entity entity="person">
 <orig_group orig_group="ⲥϩⲓⲙⲉ">
 <norm_group norm_group="ⲥϩⲓⲙⲉ">
 <orig orig="ⲥϩⲓⲙⲉ">
@@ -4670,6 +4797,7 @@
 </orig>
 </norm_group>
 </orig_group>
+</entity>
 <orig_group orig_group="ⲏ">
 <norm_group norm_group="ⲏ">
 <orig orig="ⲏ">
@@ -4727,6 +4855,7 @@
 </lemma>
 </norm>
 </orig>
+<entity entity="abstract">
 <orig orig="ϩⲉⲛ">
 <norm norm="ϩⲉⲛ">
 <lemma lemma="ⲟⲩ">
@@ -4747,6 +4876,7 @@
 </lemma>
 </norm>
 </orig>
+</entity>
 </norm_group>
 </orig_group>
 <orig_group orig_group="ⲛⲟⲩⲟⲉⲓϣ">
@@ -4760,6 +4890,7 @@
 </lemma>
 </norm>
 </orig>
+<entity entity="time">
 <orig orig="ⲟⲩⲟⲉⲓϣ">
 <norm norm="ⲟⲩⲟⲉⲓϣ">
 <lemma lemma="ⲟⲩⲟⲉⲓϣ">
@@ -4784,6 +4915,7 @@
 </orig>
 </norm_group>
 </orig_group>
+</entity>
 <orig_group orig_group="ϩⲣⲁⲓ">
 <norm_group norm_group="ϩⲣⲁⲓ">
 <orig orig="ϩⲣⲁⲓ">
@@ -4808,6 +4940,7 @@
 </lemma>
 </norm>
 </orig>
+<entity entity="organization">
 <orig orig="ⲛⲉϥ">
 <norm norm="ⲛⲉϥ">
 <lemma lemma="ⲡⲉϥ">
@@ -4828,6 +4961,7 @@
 </lemma>
 </norm>
 </orig>
+</entity>
 </norm_group>
 </orig_group>
 <orig_group orig_group=".">
@@ -4894,6 +5028,7 @@
 </orig>
 </norm_group>
 </orig_group>
+<entity entity="abstract">
 <orig_group orig_group="ⲡⲓϩⲙⲟⲧ">
 <norm_group norm_group="ⲡⲓϩⲙⲟⲧ">
 <orig orig="ⲡⲓ">
@@ -4918,6 +5053,7 @@
 </orig_group>
 </ed_line_n>
 <ed_line_n ed_line_n="11">
+<entity entity="person">
 <orig_group orig_group="ⲛⲧⲱⲧⲛ">
 <norm_group norm_group="ⲛⲧⲱⲧⲛ">
 <orig orig="ⲛⲧⲱⲧⲛ">
@@ -4975,6 +5111,8 @@
 </orig>
 </norm_group>
 </orig_group>
+</entity>
+</entity>
 <orig_group orig_group="ϫⲉⲙⲡⲉⲡⲛⲟⲩⲧⲉ">
 <norm_group norm_group="ϫⲉⲙⲡⲉⲡⲛⲟⲩⲧⲉ">
 <orig orig="ϫⲉ">
@@ -4995,6 +5133,7 @@
 </lemma>
 </norm>
 </orig>
+<entity entity="person">
 <orig orig="ⲡ">
 <norm norm="ⲡ">
 <lemma lemma="ⲡ">
@@ -5013,6 +5152,7 @@
 </lemma>
 </norm>
 </orig>
+</entity>
 </norm_group>
 </orig_group>
 <orig_group orig_group="ⲥⲁϩⲱϥ">
@@ -5061,6 +5201,7 @@
 </lemma>
 </norm>
 </orig>
+<entity entity="place">
 <orig orig="ⲛⲉϥ">
 <norm norm="ⲛⲉϥ">
 <lemma lemma="ⲡⲉϥ">
@@ -5103,6 +5244,7 @@
 </orig>
 </norm_group>
 </orig_group>
+</entity>
 </ed_line_n>
 <ed_line_n ed_line_n="12">
 <orig_group orig_group="ⲉⲧⲃⲉⲛⲉⲧⲛϩⲃⲏⲩⲉ">
@@ -5116,6 +5258,7 @@
 </lemma>
 </norm>
 </orig>
+<entity entity="abstract">
 <orig orig="ⲛⲉⲧⲛ">
 <norm norm="ⲛⲉⲧⲛ">
 <lemma lemma="ⲡⲉⲧⲛ">
@@ -5147,6 +5290,7 @@
 </lemma>
 </norm>
 </orig>
+<entity entity="abstract">
 <orig orig="ⲃⲟⲧⲉ">
 <norm norm="ⲃⲟⲧⲉ">
 <lemma lemma="ⲃⲟⲧⲉ">
@@ -5156,8 +5300,10 @@
 </lemma>
 </norm>
 </orig>
+</entity>
 </norm_group>
 </orig_group>
+</entity>
 <orig_group orig_group="ⲁⲗⲗⲁ">
 <norm_group norm_group="ⲁⲗⲗⲁ">
 <orig orig="ⲁⲗⲗⲁ">
@@ -5175,6 +5321,7 @@
 </orig_group>
 <orig_group orig_group="ⲡⲁⲛⲉϥⲙⲛⲧϣⲁⲛϩⲧⲏϥ">
 <norm_group norm_group="ⲡⲁⲛⲉϥⲙⲛⲧϣⲁⲛϩⲧⲏϥ">
+<entity entity="abstract">
 <orig orig="ⲡⲁ">
 <norm norm="ⲡⲁ">
 <lemma lemma="ⲡⲁ">
@@ -5210,6 +5357,7 @@
 </lemma>
 </norm>
 </orig>
+</entity>
 <orig orig="ϥ">
 <norm norm="ϥ">
 <lemma lemma="ⲛⲧⲟϥ">
@@ -5260,6 +5408,7 @@
 </orig>
 </ed_line_n>
 <ed_line_n ed_line_n="13">
+<entity entity="person">
 <orig orig="ⲛⲉ">
 <norm norm="ⲛⲉ">
 <lemma lemma="ⲡ">
@@ -5304,6 +5453,7 @@
 </orig>
 </norm_group>
 </orig_group>
+</entity>
 <orig_group orig_group="ⲡⲉ">
 <norm_group norm_group="ⲡⲉ">
 <orig orig="ⲡⲉ">
@@ -5410,6 +5560,7 @@
 </lemma>
 </norm>
 </orig>
+<entity entity="person">
 <orig orig="ⲣⲱⲙⲉ">
 <norm norm="ⲣⲱⲙⲉ">
 <lemma lemma="ⲣⲱⲙⲉ">
@@ -5419,6 +5570,7 @@
 </lemma>
 </norm>
 </orig>
+</entity>
 </norm_group>
 </orig_group>
 <orig_group orig_group="ⲣⲙⲁ">
@@ -5452,6 +5604,7 @@
 </lemma>
 </norm>
 </orig>
+<entity entity="person">
 <orig orig="ϣⲙⲙⲟ">
 <norm norm="ϣⲙⲙⲟ">
 <lemma lemma="ϣⲙⲙⲟ">
@@ -5461,6 +5614,7 @@
 </lemma>
 </norm>
 </orig>
+</entity>
 </norm_group>
 </orig_group>
 <orig_group orig_group="ⲉⲡⲛⲟⲩⲧⲉ">
@@ -5474,6 +5628,7 @@
 </lemma>
 </norm>
 </orig>
+<entity entity="person">
 <orig orig="ⲡ">
 <norm norm="ⲡ">
 <lemma lemma="ⲡ">
@@ -5492,6 +5647,7 @@
 </lemma>
 </norm>
 </orig>
+</entity>
 </norm_group>
 </orig_group>
 <orig_group orig_group="ϩⲛⲛⲉⲩⲙⲛⲧⲁⲥⲉⲃⲏⲥ">
@@ -5505,6 +5661,7 @@
 </lemma>
 </norm>
 </orig>
+<entity entity="abstract">
 <orig orig="ⲛⲉⲩ">
 <norm norm="ⲛⲉⲩ">
 <lemma lemma="ⲡⲉⲩ">
@@ -5530,6 +5687,7 @@
 </lemma>
 </norm>
 </orig>
+</entity>
 </norm_group>
 </orig_group>
 <orig_group orig_group="ϣⲁⲣⲉⲣⲱⲙⲉ">
@@ -5543,6 +5701,7 @@
 </lemma>
 </norm>
 </orig>
+<entity entity="person">
 <orig orig="ⲣⲱⲙⲉ">
 <norm norm="ⲣⲱⲙⲉ">
 <lemma lemma="ⲣⲱⲙⲉ">
@@ -5552,6 +5711,7 @@
 </lemma>
 </norm>
 </orig>
+</entity>
 </norm_group>
 </orig_group>
 <orig_group orig_group="ⲟⲛ">
@@ -5607,6 +5767,7 @@
 </orig>
 </ed_line_n>
 <ed_line_n ed_line_n="15">
+<entity entity="person">
 <orig orig="ⲡ">
 <norm norm="ⲡ">
 <lemma lemma="ⲡ">
@@ -5625,6 +5786,7 @@
 </lemma>
 </norm>
 </orig>
+</entity>
 <orig orig="ϩⲱⲛ">
 <norm norm="ϩⲱⲛ">
 <lemma lemma="ϩⲱⲛ">
@@ -5682,6 +5844,7 @@
 </lemma>
 </norm>
 </orig>
+<entity entity="abstract">
 <orig orig="ⲛⲉⲩ">
 <norm norm="ⲛⲉⲩ">
 <lemma lemma="ⲡⲉⲩ">
@@ -5726,6 +5889,7 @@
 </orig>
 </norm_group>
 </orig_group>
+</entity>
 <orig_group orig_group="ⲁⲩⲱ">
 <norm_group norm_group="ⲁⲩⲱ">
 <orig orig="ⲁⲩⲱ">
@@ -5754,6 +5918,7 @@
 </ed_page_n>
 <ed_page_n ed_page_n="103">
 <ed_line_n ed_line_n="1">
+<entity entity="person">
 <orig orig="ⲡ">
 <norm norm="ⲡ">
 <lemma lemma="ⲡ">
@@ -5772,6 +5937,7 @@
 </lemma>
 </norm>
 </orig>
+</entity>
 </norm_group>
 </orig_group>
 <orig_group orig_group="ⲑⲛⲟⲟⲩ">
@@ -5896,6 +6062,7 @@
 </lemma>
 </norm>
 </orig>
+<entity entity="person">
 <orig orig="ⲡⲁⲓ">
 <norm norm="ⲡⲁⲓ">
 <lemma lemma="ⲡⲁⲓ">
@@ -5905,6 +6072,7 @@
 </lemma>
 </norm>
 </orig>
+</entity>
 </norm_group>
 </orig_group>
 <orig_group orig_group="ⲉⲧⲉⲣⲉⲥⲟⲟⲩⲛ">
@@ -6029,6 +6197,7 @@
 </lemma>
 </norm>
 </orig>
+<entity entity="person">
 <orig orig="ϩⲉⲛ">
 <norm norm="ϩⲉⲛ">
 <lemma lemma="ⲟⲩ">
@@ -6089,6 +6258,7 @@
 </orig>
 </norm_group>
 </orig_group>
+</entity>
 <orig_group orig_group="ⲏ">
 <norm_group norm_group="ⲏ">
 <orig orig="ⲏ">
@@ -6223,6 +6393,7 @@
 </lemma>
 </norm>
 </orig>
+<entity entity="person">
 <orig orig="ⲛ">
 <norm norm="ⲛ">
 <lemma lemma="ⲡ">
@@ -6278,6 +6449,7 @@
 </orig>
 </norm_group>
 </orig_group>
+</entity>
 </verse>
 </translation>
 <verse verse="10">
@@ -6418,6 +6590,7 @@
 </orig>
 </ed_line_n>
 <ed_line_n ed_line_n="4">
+<entity entity="substance">
 <orig orig="ⲟⲩ">
 <norm norm="ⲟⲩ">
 <lemma lemma="ⲟⲩ">
@@ -6436,6 +6609,7 @@
 </lemma>
 </norm>
 </orig>
+</entity>
 </norm_group>
 </orig_group>
 <orig_group orig_group="ⲁⲩⲱ">
@@ -6647,6 +6821,7 @@
 </lemma>
 </norm>
 </orig>
+<entity entity="place">
 <orig orig="ⲡ">
 <norm norm="ⲡ">
 <lemma lemma="ⲡ">
@@ -6665,6 +6840,7 @@
 </lemma>
 </norm>
 </orig>
+</entity>
 </norm_group>
 </orig_group>
 <orig_group orig_group="ⲉⲡⲉⲥⲏⲧ">
@@ -6709,6 +6885,7 @@
 </lemma>
 </norm>
 </orig>
+<entity entity="person">
 <orig orig="ⲧ">
 <norm norm="ⲧ">
 <lemma lemma="ⲡ">
@@ -6740,6 +6917,7 @@
 </lemma>
 </norm>
 </orig>
+<entity entity="abstract">
 <orig orig="ⲛⲁⲓ">
 <norm norm="ⲛⲁⲓ">
 <lemma lemma="ⲡⲁⲓ">
@@ -6749,8 +6927,10 @@
 </lemma>
 </norm>
 </orig>
+</entity>
 </norm_group>
 </orig_group>
+</entity>
 <orig_group orig_group="ⲁⲩⲱ">
 <norm_group norm_group="ⲁⲩⲱ">
 <orig orig="ⲁⲩⲱ">
@@ -6775,6 +6955,7 @@
 </lemma>
 </norm>
 </orig>
+<entity entity="place">
 <orig orig="ⲧ">
 <norm norm="ⲧ">
 <lemma lemma="ⲡ">
@@ -6808,6 +6989,7 @@
 </lemma>
 </norm>
 </orig>
+<entity entity="organization">
 <orig orig="ⲧ">
 <norm norm="ⲧ">
 <lemma lemma="ⲡ">
@@ -6826,6 +7008,7 @@
 </lemma>
 </norm>
 </orig>
+</entity>
 </norm_group>
 </orig_group>
 <orig_group orig_group="ⲛⲛⲓⲕⲟⲟⲩⲉ">
@@ -6839,6 +7022,7 @@
 </lemma>
 </norm>
 </orig>
+<entity entity="person">
 <orig orig="ⲛⲓ">
 <norm norm="ⲛⲓ">
 <lemma lemma="ⲡⲓ">
@@ -6938,6 +7122,7 @@
 </lemma>
 </norm>
 </orig>
+<entity entity="abstract">
 <orig orig="ϩⲉⲛ">
 <norm norm="ϩⲉⲛ">
 <lemma lemma="ⲟⲩ">
@@ -6969,6 +7154,7 @@
 </lemma>
 </norm>
 </orig>
+<entity entity="abstract">
 <orig orig="ⲃⲟⲧⲉ">
 <norm norm="ⲃⲟⲧⲉ">
 <lemma lemma="ⲃⲟⲧⲉ">
@@ -6978,8 +7164,10 @@
 </lemma>
 </norm>
 </orig>
+</entity>
 </norm_group>
 </orig_group>
+</entity>
 <orig_group orig_group="ϩⲣⲁⲓ">
 <norm_group norm_group="ϩⲣⲁⲓ">
 <orig orig="ϩⲣⲁⲓ">
@@ -7006,6 +7194,7 @@
 </orig>
 </ed_line_n>
 <ed_line_n ed_line_n="7">
+<entity entity="organization">
 <orig orig="ⲛⲉϥ">
 <norm norm="ⲛⲉϥ">
 <lemma lemma="ⲡⲉϥ">
@@ -7026,6 +7215,7 @@
 </lemma>
 </norm>
 </orig>
+</entity>
 </norm_group>
 </orig_group>
 <orig_group orig_group="ⲛⲟⲩⲟⲉⲓϣ">
@@ -7039,6 +7229,7 @@
 </lemma>
 </norm>
 </orig>
+<entity entity="time">
 <orig orig="ⲟⲩⲟⲉⲓϣ">
 <norm norm="ⲟⲩⲟⲉⲓϣ">
 <lemma lemma="ⲟⲩⲟⲉⲓϣ">
@@ -7063,6 +7254,9 @@
 </orig>
 </norm_group>
 </orig_group>
+</entity>
+</entity>
+</entity>
 <orig_group orig_group="ϩⲙⲡⲧⲣⲉⲛϣⲁϫⲉ">
 <norm_group norm_group="ϩⲙⲡⲧⲣⲉⲛϣⲁϫⲉ">
 <orig orig="ϩⲙ">
@@ -7074,6 +7268,7 @@
 </lemma>
 </norm>
 </orig>
+<entity entity="event">
 <orig orig="ⲡ">
 <norm norm="ⲡ">
 <lemma lemma="ⲡ">
@@ -7101,6 +7296,7 @@
 </lemma>
 </norm>
 </orig>
+<entity entity="abstract">
 <orig orig="ϣⲁϫⲉ">
 <norm norm="ϣⲁϫⲉ">
 <lemma lemma="ϣⲁϫⲉ">
@@ -7110,6 +7306,7 @@
 </lemma>
 </norm>
 </orig>
+</entity>
 </norm_group>
 </orig_group>
 <orig_group orig_group="ⲛⲧⲁⲡϫⲟⲉⲓⲥ">
@@ -7132,6 +7329,7 @@
 </lemma>
 </norm>
 </orig>
+<entity entity="person">
 <orig orig="ⲡ">
 <norm norm="ⲡ">
 <lemma lemma="ⲡ">
@@ -7150,6 +7348,7 @@
 </lemma>
 </norm>
 </orig>
+</entity>
 </norm_group>
 </orig_group>
 <orig_group orig_group="ϫⲟⲟⲩ">
@@ -7187,6 +7386,7 @@
 </lemma>
 </norm>
 </orig>
+<entity entity="person">
 <orig orig="ⲛⲉϥ">
 <norm norm="ⲛⲉϥ">
 <lemma lemma="ⲡⲉϥ">
@@ -7207,6 +7407,7 @@
 </lemma>
 </norm>
 </orig>
+</entity>
 </norm_group>
 </orig_group>
 <orig_group orig_group="ϫⲉⲁⲩϫⲱⲕ">
@@ -7220,6 +7421,7 @@
 </lemma>
 </norm>
 </orig>
+</entity>
 <orig orig="ⲁ">
 <norm norm="ⲁ">
 <lemma lemma="ⲁ">
@@ -7286,6 +7488,7 @@
 </lemma>
 </norm>
 </orig>
+<entity entity="person">
 <orig orig="ⲛ">
 <norm norm="ⲛ">
 <lemma lemma="ⲡ">
@@ -7319,6 +7522,7 @@
 </lemma>
 </norm>
 </orig>
+<entity entity="person">
 <orig orig="ϩⲟⲟⲩⲧ">
 <norm norm="ϩⲟⲟⲩⲧ">
 <lemma lemma="ϩⲟⲟⲩⲧ">
@@ -7328,8 +7532,10 @@
 </lemma>
 </norm>
 </orig>
+</entity>
 </norm_group>
 </orig_group>
+</entity>
 <orig_group orig_group="ⲙⲛⲛⲁⲕⲁⲑⲁⲣⲧⲟⲥ">
 <norm_group norm_group="ⲙⲛⲛⲁⲕⲁⲑⲁⲣⲧⲟⲥ">
 <orig orig="ⲙⲛ">
@@ -7343,6 +7549,7 @@
 </orig>
 </ed_line_n>
 <ed_line_n ed_line_n="9">
+<entity entity="person">
 <orig orig="ⲛ">
 <norm norm="ⲛ">
 <lemma lemma="ⲡ">
@@ -7376,6 +7583,7 @@
 </lemma>
 </norm>
 </orig>
+<entity entity="person">
 <orig orig="ⲥϩⲓⲙⲉ">
 <norm norm="ⲥϩⲓⲙⲉ">
 <lemma lemma="ⲥϩⲓⲙⲉ">
@@ -7385,8 +7593,10 @@
 </lemma>
 </norm>
 </orig>
+</entity>
 </norm_group>
 </orig_group>
+</entity>
 <orig_group orig_group="ⲉⲧϣⲟⲟⲡ">
 <norm_group norm_group="ⲉⲧϣⲟⲟⲡ">
 <orig orig="ⲉⲧ">
@@ -7512,6 +7722,7 @@
 </orig>
 </norm_group>
 </orig_group>
+<entity entity="substance">
 <orig_group orig_group="ⲡϣⲟⲉⲓϣ">
 <norm_group norm_group="ⲡϣⲟⲉⲓϣ">
 <orig orig="ⲡ">
@@ -7547,6 +7758,7 @@
 </lemma>
 </norm>
 </orig>
+<entity entity="object">
 <orig orig="ⲛⲉⲧⲛ">
 <norm norm="ⲛⲉⲧⲛ">
 <lemma lemma="ⲡⲉⲧⲛ">
@@ -7565,8 +7777,10 @@
 </lemma>
 </norm>
 </orig>
+</entity>
 </norm_group>
 </orig_group>
+</entity>
 <orig_group orig_group="ⲛⲁⲩ">
 <norm_group norm_group="ⲛⲁⲩ">
 <orig orig="ⲛⲁ">
@@ -7600,6 +7814,7 @@
 </lemma>
 </norm>
 </orig>
+<entity entity="abstract">
 <orig orig="ⲩ">
 <norm norm="ⲩ">
 <lemma lemma="ⲟⲩ">
@@ -7623,6 +7838,7 @@
 </lemma>
 </norm>
 </orig>
+</entity>
 </norm_group>
 </orig_group>
 <orig_group orig_group="ⲛⲁⲩ">
@@ -7671,6 +7887,7 @@
 </lemma>
 </norm>
 </orig>
+<entity entity="person">
 <orig orig="ⲛ">
 <norm norm="ⲛ">
 <lemma lemma="ⲡ">
@@ -7715,6 +7932,7 @@
 </lemma>
 </norm>
 </orig>
+<entity entity="abstract">
 <orig orig="ⲧ">
 <norm norm="ⲧ">
 <lemma lemma="ⲡ">
@@ -7740,8 +7958,10 @@
 </lemma>
 </norm>
 </orig>
+</entity>
 </norm_group>
 </orig_group>
+</entity>
 </verse>
 <translation translation="...">
 <verse verse="11">
@@ -7758,6 +7978,7 @@
 </orig>
 </norm_group>
 </orig_group>
+<entity entity="person">
 <orig_group orig_group="ⲛϣⲏⲣⲉ">
 <norm_group norm_group="ⲛϣⲏⲣⲉ">
 <orig orig="ⲛ">
@@ -7817,6 +8038,7 @@
 </lemma>
 </norm>
 </orig>
+<entity entity="abstract">
 <orig orig="ϯ">
 <norm norm="ⲧ">
 <lemma lemma="ⲡ">
@@ -7837,8 +8059,10 @@
 </lemma>
 </norm>
 </orig>
+</entity>
 </norm_group>
 </orig_group>
+</entity>
 <orig_group orig_group="ϫⲉϯⲣⲏⲛⲏ">
 <norm_group norm_group="ϫⲉⲧⲉⲓⲣⲏⲛⲏ">
 <orig orig="ϫⲉ">
@@ -7850,6 +8074,7 @@
 </lemma>
 </norm>
 </orig>
+<entity entity="abstract">
 <orig orig="ϯ">
 <norm norm="ⲧ">
 <lemma lemma="ⲡ">
@@ -7870,6 +8095,7 @@
 </lemma>
 </norm>
 </orig>
+</entity>
 </norm_group>
 </orig_group>
 <orig_group orig_group="ⲙⲛⲛⲉⲛⲧⲁⲩⲁⲁⲩ">
@@ -7883,6 +8109,7 @@
 </lemma>
 </norm>
 </orig>
+<entity entity="abstract">
 <orig orig="ⲛ">
 <norm norm="ⲛ">
 <lemma lemma="ⲡ">
@@ -7950,6 +8177,7 @@
 </lemma>
 </norm>
 </orig>
+<entity entity="person">
 <orig orig="ϫⲟⲉⲓⲥ">
 <norm norm="ϫⲟⲉⲓⲥ">
 <lemma lemma="ϫⲟⲉⲓⲥ">
@@ -7959,6 +8187,7 @@
 </lemma>
 </norm>
 </orig>
+</entity>
 </norm_group>
 </orig_group>
 </ed_line_n>
@@ -7977,6 +8206,7 @@
 </lemma>
 </norm>
 </orig>
+<entity entity="abstract">
 <orig orig="ϯ">
 <norm norm="ⲧ">
 <lemma lemma="ⲡ">
@@ -7997,9 +8227,11 @@
 </lemma>
 </norm>
 </orig>
+</entity>
 </note>
 </norm_group>
 </orig_group>
+</entity>
 <orig_group orig_group="ⲥⲉⲥⲟⲟⲩⲛ">
 <norm_group norm_group="ⲥⲉⲥⲟⲟⲩⲛ">
 <orig orig="ⲥⲉ">
@@ -8044,6 +8276,7 @@
 </orig>
 </norm_group>
 </orig_group>
+<entity entity="person">
 <orig_group orig_group="ⲛⲉⲧⲙⲡϣⲁ">
 <norm_group norm_group="ⲛⲉⲧⲙⲡϣⲁ">
 <orig orig="ⲛ">
@@ -8095,6 +8328,7 @@
 </lemma>
 </norm>
 </orig>
+<entity entity="abstract">
 <orig orig="ⲧⲉⲩ">
 <norm norm="ⲧⲉⲩ">
 <lemma lemma="ⲡⲉⲩ">
@@ -8115,8 +8349,10 @@
 </lemma>
 </norm>
 </orig>
+</entity>
 </norm_group>
 </orig_group>
+</entity>
 <orig_group orig_group="ⲙⲧⲟⲛ">
 <norm_group norm_group="ⲙⲧⲟⲛ">
 <orig orig="ⲙⲧⲟⲛ">
@@ -8247,6 +8483,7 @@
 </orig_group>
 <orig_group orig_group="ⲛⲁⲧⲙⲡϣⲁ">
 <norm_group norm_group="ⲛⲁⲧⲙⲡϣⲁ">
+<entity entity="abstract">
 <orig orig="ⲛ">
 <norm norm="ⲛ">
 <lemma lemma="ⲡ">
@@ -8270,6 +8507,7 @@
 </lemma>
 </norm>
 </orig>
+</entity>
 </norm_group>
 </orig_group>
 <orig_group orig_group="ⲉⲧⲙⲧⲣⲉⲥⲙⲧⲟⲛ">
@@ -8507,6 +8745,7 @@
 </orig_group>
 <orig_group orig_group="ϯⲣⲏⲛⲏ">
 <norm_group norm_group="ⲧⲉⲓⲣⲏⲛⲏ">
+<entity entity="abstract">
 <orig orig="ϯ">
 <norm norm="ⲧ">
 <lemma lemma="ⲡ">
@@ -8527,6 +8766,7 @@
 </lemma>
 </norm>
 </orig>
+</entity>
 </norm_group>
 </orig_group>
 <orig_group orig_group="ⲏ">
@@ -8555,6 +8795,7 @@
 </lemma>
 </norm>
 </orig>
+<entity entity="place">
 <orig orig="ⲙ">
 <norm norm="ⲙ">
 <lemma lemma="ⲡ">
@@ -8669,6 +8910,7 @@
 </lemma>
 </norm>
 </orig>
+<entity entity="place">
 <orig orig="ⲙⲁ">
 <norm norm="ⲙⲁ">
 <lemma lemma="ⲙⲁ">
@@ -8702,6 +8944,7 @@
 </orig>
 </norm_group>
 </orig_group>
+</entity>
 <orig_group orig_group="ⲙⲙⲟⲥ">
 <norm_group norm_group="ⲙⲙⲟⲥ">
 <orig orig="ⲙⲙⲟ">
@@ -8759,6 +9002,7 @@
 </orig>
 </norm_group>
 </orig_group>
+</entity>
 <orig_group orig_group="ⲉⲥϫⲱⲕ">
 <norm_group norm_group="ⲉⲥϫⲱⲕ">
 <orig orig="ⲉ">
@@ -8855,6 +9099,7 @@
 </lemma>
 </norm>
 </orig>
+<entity entity="place">
 <orig orig="ⲡ">
 <norm norm="ⲡ">
 <lemma lemma="ⲡ">
@@ -8886,6 +9131,7 @@
 </lemma>
 </norm>
 </orig>
+<entity entity="person">
 <orig orig="ⲙ">
 <norm norm="ⲙ">
 <lemma lemma="ⲡ">
@@ -8919,6 +9165,7 @@
 </lemma>
 </norm>
 </orig>
+<entity entity="person">
 <orig orig="ⲡ">
 <norm norm="ⲡ">
 <lemma lemma="ⲡ">
@@ -8937,8 +9184,11 @@
 </lemma>
 </norm>
 </orig>
+</entity>
 </norm_group>
 </orig_group>
+</entity>
+</entity>
 <orig_group orig_group="ⲛⲟⲩⲟⲉⲓϣ">
 <norm_group norm_group="ⲛⲟⲩⲟⲉⲓϣ">
 <orig orig="ⲛ">
@@ -8950,6 +9200,7 @@
 </lemma>
 </norm>
 </orig>
+<entity entity="time">
 <orig orig="ⲟⲩⲟⲉⲓϣ">
 <norm norm="ⲟⲩⲟⲉⲓϣ">
 <lemma lemma="ⲟⲩⲟⲉⲓϣ">
@@ -8974,6 +9225,7 @@
 </orig>
 </norm_group>
 </orig_group>
+</entity>
 <orig_group orig_group="ϣⲁϩⲣⲁⲓ">
 <norm_group norm_group="ϣⲁϩⲣⲁⲓ">
 <orig orig="ϣⲁϩⲣⲁⲓ">
@@ -8998,6 +9250,7 @@
 </lemma>
 </norm>
 </orig>
+<entity entity="abstract">
 <orig orig="ⲧ">
 <norm norm="ⲧ">
 <lemma lemma="ⲡ">
@@ -9034,6 +9287,7 @@
 </lemma>
 </norm>
 </orig>
+<entity entity="time">
 <orig orig="ⲡ">
 <norm norm="ⲡ">
 <lemma lemma="ⲡ">
@@ -9054,8 +9308,10 @@
 </lemma>
 </norm>
 </orig>
+</entity>
 </norm_group>
 </orig_group>
+</entity>
 <orig_group orig_group="ⲛⲑⲉ">
 <norm_group norm_group="ⲛⲧϩⲉ">
 <orig orig="ⲛ">
@@ -9182,6 +9438,7 @@
 </lemma>
 </norm>
 </orig>
+<entity entity="person">
 <orig orig="ⲛ">
 <norm norm="ⲛ">
 <lemma lemma="ⲡ">
@@ -9213,6 +9470,7 @@
 </lemma>
 </norm>
 </orig>
+<entity entity="abstract">
 <orig orig="ϯ">
 <norm norm="ⲧ">
 <lemma lemma="ⲡ">
@@ -9233,8 +9491,10 @@
 </lemma>
 </norm>
 </orig>
+</entity>
 </norm_group>
 </orig_group>
+</entity>
 </ed_line_n>
 <ed_line_n ed_line_n="3">
 <orig_group orig_group="ⲙⲁⲣⲉⲧⲉⲧⲛⲉⲓⲣⲏⲛⲏ">
@@ -9351,6 +9611,7 @@
 </lemma>
 </norm>
 </orig>
+<entity entity="person">
 <orig orig="ϣⲏⲣⲉ">
 <norm norm="ϣⲏⲣⲉ">
 <lemma lemma="ϣⲏⲣⲉ">
@@ -9373,6 +9634,7 @@
 </lemma>
 </norm>
 </orig>
+<entity entity="abstract">
 <orig orig="ⲧ">
 <norm norm="ⲧ">
 <lemma lemma="ⲡ">
@@ -9396,8 +9658,10 @@
 </lemma>
 </norm>
 </orig>
+</entity>
 </norm_group>
 </orig_group>
+</entity>
 </ed_line_n>
 <ed_line_n ed_line_n="4">
 <orig_group orig_group="ⲙⲁⲣⲉⲧⲉⲧⲛⲉⲓⲣⲏⲛⲏ">
@@ -9420,6 +9684,7 @@
 </lemma>
 </norm>
 </orig>
+<entity entity="abstract">
 <orig orig="ⲉⲓⲣⲏⲛⲏ">
 <norm norm="ⲉⲓⲣⲏⲛⲏ">
 <lemma lemma="ⲉⲓⲣⲏⲛⲏ">
@@ -9431,6 +9696,7 @@
 </lemma>
 </norm>
 </orig>
+</entity>
 </norm_group>
 </orig_group>
 <orig_group orig_group="ⲕⲟⲧⲥ">
@@ -9586,6 +9852,7 @@
 </orig_group>
 <orig_group orig_group="ϯⲣⲏⲛⲏ">
 <norm_group norm_group="ϯⲉⲓⲣⲏⲛⲏ">
+<entity entity="abstract">
 <orig orig="ϯ">
 <norm norm="ⲧ">
 <lemma lemma="ⲡ">
@@ -9606,10 +9873,12 @@
 </lemma>
 </norm>
 </orig>
+</entity>
 </norm_group>
 </orig_group>
 <orig_group orig_group="ⲧⲕⲟⲓⲛⲱⲛⲟⲥ">
 <norm_group norm_group="ⲧⲕⲟⲓⲛⲱⲛⲟⲥ">
+<entity entity="person">
 <orig orig="ⲧ">
 <norm norm="ⲧ">
 <lemma lemma="ⲡ">
@@ -9633,6 +9902,7 @@
 </lemma>
 </norm>
 </orig>
+</entity>
 </norm_group>
 </orig_group>
 <orig_group orig_group="ⲁⲛ">
@@ -9672,6 +9942,7 @@
 </lemma>
 </norm>
 </orig>
+<entity entity="person">
 <orig orig="ⲛ">
 <norm norm="ⲛ">
 <lemma lemma="ⲡ">
@@ -9692,6 +9963,7 @@
 </lemma>
 </norm>
 </orig>
+</entity>
 </norm_group>
 </orig_group>
 <orig_group orig_group="ⲁⲩⲱ">
@@ -9707,6 +9979,7 @@
 </orig>
 </norm_group>
 </orig_group>
+<entity entity="abstract">
 <orig_group orig_group="ⲡⲉⲡ︦ⲛ︦ⲁ︦">
 <norm_group norm_group="ⲡⲉⲡⲛⲉⲩⲙⲁ">
 <orig orig="ⲡⲉ">
@@ -9742,6 +10015,7 @@
 </lemma>
 </norm>
 </orig>
+<entity entity="person">
 <orig orig="ⲛ">
 <norm norm="ⲛ">
 <lemma lemma="ⲡ">
@@ -9762,6 +10036,7 @@
 </lemma>
 </norm>
 </orig>
+</entity>
 </norm_group>
 </orig_group>
 <orig_group orig_group="ⲙⲡⲕⲟⲓⲛⲱⲛⲟⲥ">
@@ -9775,6 +10050,7 @@
 </lemma>
 </norm>
 </orig>
+<entity entity="person">
 <orig orig="ⲡ">
 <norm norm="ⲡ">
 <lemma lemma="ⲡ">
@@ -9795,8 +10071,10 @@
 </lemma>
 </norm>
 </orig>
+</entity>
 </norm_group>
 </orig_group>
+</entity>
 <orig_group orig_group="ⲁⲛ">
 <norm_group norm_group="ⲁⲛ">
 <orig orig="ⲁⲛ">
@@ -9836,6 +10114,7 @@
 </lemma>
 </norm>
 </orig>
+<entity entity="abstract">
 <orig orig="ϯ">
 <norm norm="ⲧ">
 <lemma lemma="ⲡ">
@@ -9854,6 +10133,7 @@
 </lemma>
 </norm>
 </orig>
+</entity>
 </norm_group>
 </orig_group>
 <orig_group orig_group="ⲁⲩⲱ">
@@ -9869,6 +10149,7 @@
 </orig>
 </norm_group>
 </orig_group>
+<entity entity="abstract">
 <orig_group orig_group="ⲛⲉⲧⲉⲣⲉϯⲣⲏⲛⲏ">
 <norm_group norm_group="ⲛⲉⲧⲉⲣⲉⲧⲉⲓⲣⲏⲛⲏ">
 <orig orig="ⲛ">
@@ -9959,6 +10240,7 @@
 </note>
 </norm_group>
 </orig_group>
+</entity>
 <orig_group orig_group="ⲥⲉⲛⲁϣⲱⲡⲉ">
 <norm_group norm_group="ⲥⲉⲛⲁϣⲱⲡⲉ">
 <orig orig="ⲥⲉ">
@@ -9992,6 +10274,7 @@
 </orig_group>
 </ed_line_n>
 <ed_line_n ed_line_n="7">
+<entity entity="person">
 <orig_group orig_group="ⲛϣⲏⲣⲉ">
 <norm_group norm_group="ⲛϣⲏⲣⲉ">
 <orig orig="ⲛ">
@@ -10025,6 +10308,7 @@
 </lemma>
 </norm>
 </orig>
+<entity entity="abstract">
 <orig orig="ϯ">
 <norm norm="ⲧ">
 <lemma lemma="ⲡ">
@@ -10043,8 +10327,10 @@
 </lemma>
 </norm>
 </orig>
+</entity>
 </norm_group>
 </orig_group>
+</entity>
 <orig_group orig_group="ⲁⲩⲱ">
 <norm_group norm_group="ⲁⲩⲱ">
 <orig orig="ⲁⲩⲱ">
@@ -10058,6 +10344,7 @@
 </orig>
 </norm_group>
 </orig_group>
+<entity entity="person">
 <orig_group orig_group="ⲛϣⲉⲉⲣⲉ">
 <norm_group norm_group="ⲛϣⲉⲉⲣⲉ">
 <orig orig="ⲛ">
@@ -10091,6 +10378,7 @@
 </lemma>
 </norm>
 </orig>
+<entity entity="abstract">
 <orig orig="ⲡⲉ">
 <norm norm="ⲡⲉ">
 <lemma lemma="ⲡ">
@@ -10109,8 +10397,10 @@
 </lemma>
 </norm>
 </orig>
+</entity>
 </norm_group>
 </orig_group>
+</entity>
 <orig_group orig_group="ⲁⲩⲱ">
 <norm_group norm_group="ⲁⲩⲱ">
 <orig orig="ⲁⲩⲱ">
@@ -10124,6 +10414,7 @@
 </orig>
 </norm_group>
 </orig_group>
+<entity entity="abstract">
 <orig_group orig_group="ⲛⲉⲧⲉⲣⲉϯⲣⲏⲛⲏ">
 <norm_group norm_group="ⲛⲉⲧⲉⲣⲉϯⲣⲏⲛⲏ">
 <orig orig="ⲛ">
@@ -10144,6 +10435,7 @@
 </lemma>
 </norm>
 </orig>
+<entity entity="abstract">
 <orig orig="ϯ">
 <norm norm="ⲧ">
 <lemma lemma="ⲡ">
@@ -10164,6 +10456,7 @@
 </lemma>
 </norm>
 </orig>
+</entity>
 </norm_group>
 </orig_group>
 <orig_group orig_group="ⲛⲁⲣϫⲁϫⲉ">
@@ -10217,6 +10510,7 @@
 </orig>
 </norm_group>
 </orig_group>
+</entity>
 <orig_group orig_group="ⲥⲉⲛⲁϣⲱⲡⲉ">
 <norm_group norm_group="ⲥⲉⲛⲁϣⲱⲡⲉ">
 <orig orig="ⲥⲉ">
@@ -10259,6 +10553,7 @@
 </lemma>
 </norm>
 </orig>
+<entity entity="person">
 <orig orig="ϣⲏⲣⲉ">
 <norm norm="ϣⲏⲣⲉ">
 <lemma lemma="ϣⲏⲣⲉ">
@@ -10281,6 +10576,7 @@
 </lemma>
 </norm>
 </orig>
+<entity entity="abstract">
 <orig orig="ⲧ">
 <norm norm="ⲧ">
 <lemma lemma="ⲡ">
@@ -10304,8 +10600,10 @@
 </lemma>
 </norm>
 </orig>
+</entity>
 </norm_group>
 </orig_group>
+</entity>
 <orig_group orig_group="ⲁⲩⲱ">
 <norm_group norm_group="ⲁⲩⲱ">
 <orig orig="ⲁⲩⲱ">
@@ -10319,6 +10617,7 @@
 </orig>
 </norm_group>
 </orig_group>
+<entity entity="person">
 <orig_group orig_group="ⲛϣⲏⲣⲉ">
 <norm_group norm_group="ⲛϣⲏⲣⲉ">
 <orig orig="ⲛ">
@@ -10352,6 +10651,7 @@
 </lemma>
 </norm>
 </orig>
+<entity entity="abstract">
 <orig orig="ⲡ">
 <norm norm="ⲡ">
 <lemma lemma="ⲡ">
@@ -10370,8 +10670,10 @@
 </lemma>
 </norm>
 </orig>
+</entity>
 </norm_group>
 </orig_group>
+</entity>
 <orig_group orig_group=".">
 <norm_group norm_group=".">
 <orig orig=".">
@@ -10406,6 +10708,7 @@
 </orig>
 </norm_group>
 </orig_group>
+<entity entity="abstract">
 <orig_group orig_group="ⲟⲩⲟⲉⲓ">
 <norm_group norm_group="ⲟⲩⲟⲉⲓ">
 <orig orig="ⲟⲩⲟⲉⲓ">
@@ -10441,6 +10744,8 @@
 </orig>
 </norm_group>
 </orig_group>
+</entity>
+<entity entity="person">
 <orig_group orig_group="ⲛⲉⲛⲧⲁⲩⲧⲁⲕⲟ">
 <norm_group norm_group="ⲛⲉⲛⲧⲁⲩⲧⲁⲕⲟ">
 <orig orig="ⲛ">
@@ -10501,6 +10806,7 @@
 </lemma>
 </norm>
 </orig>
+<entity entity="abstract">
 <orig orig="ⲧⲉⲩ">
 <norm norm="ⲧⲉⲩ">
 <lemma lemma="ⲡⲉⲩ">
@@ -10526,6 +10832,7 @@
 </lemma>
 </norm>
 </orig>
+</entity>
 </norm_group>
 </orig_group>
 <orig_group orig_group="ⲙⲛⲧⲉⲩⲙⲛⲧϣⲁⲩ">
@@ -10539,6 +10846,7 @@
 </lemma>
 </norm>
 </orig>
+<entity entity="abstract">
 <orig orig="ⲧⲉⲩ">
 <norm norm="ⲧⲉⲩ">
 <lemma lemma="ⲡⲉⲩ">
@@ -10562,6 +10870,7 @@
 </lemma>
 </norm>
 </orig>
+</entity>
 </norm_group>
 </orig_group>
 <orig_group orig_group="ϩⲣⲁⲓ">
@@ -10601,6 +10910,7 @@
 </orig>
 </norm_group>
 </orig_group>
+</entity>
 </verse>
 </translation>
 <translation translation="...">
@@ -10660,6 +10970,7 @@
 </lemma>
 </norm>
 </orig>
+<entity entity="abstract">
 <orig orig="ⲧⲉⲩ">
 <norm norm="ⲧⲉⲩ">
 <lemma lemma="ⲡⲉⲩ">
@@ -10680,6 +10991,7 @@
 </lemma>
 </norm>
 </orig>
+</entity>
 </norm_group>
 </orig_group>
 <orig_group orig_group="ⲏ">
@@ -10697,6 +11009,7 @@
 </orig>
 </norm_group>
 </orig_group>
+<entity entity="abstract">
 <orig_group orig_group="ⲛⲉϩⲃⲏⲩⲉ">
 <norm_group norm_group="ⲛⲉϩⲃⲏⲩⲉ">
 <orig orig="ⲛⲉ">
@@ -10730,6 +11043,7 @@
 </lemma>
 </norm>
 </orig>
+<entity entity="abstract">
 <orig orig="ⲧⲉⲩ">
 <norm norm="ⲧⲉⲩ">
 <lemma lemma="ⲡⲉⲩ">
@@ -10750,12 +11064,15 @@
 </lemma>
 </norm>
 </orig>
+</entity>
 </norm_group>
 </orig_group>
+</entity>
 </ed_line_n>
 <ed_line_n ed_line_n="11">
 <orig_group orig_group="ⲛⲉⲧⲛϩⲟⲧⲃⲥ">
 <norm_group norm_group="ⲛⲉⲧⲛϩⲟⲧⲃⲥ">
+<entity entity="abstract">
 <orig orig="ⲛⲉⲧⲛ">
 <norm norm="ⲛⲉⲧⲛ">
 <lemma lemma="ⲛⲉⲧⲛ">
@@ -10774,8 +11091,10 @@
 </lemma>
 </norm>
 </orig>
+</entity>
 </norm_group>
 </orig_group>
+<entity entity="abstract">
 <orig_group orig_group="ϩⲉⲛϩⲟⲧⲃⲉⲥ">
 <norm_group norm_group="ϩⲉⲛϩⲟⲧⲃⲉⲥ">
 <orig orig="ϩⲉⲛ">
@@ -10809,6 +11128,7 @@
 </lemma>
 </norm>
 </orig>
+<entity entity="person">
 <orig orig="ⲣⲱⲙⲉ">
 <norm norm="ⲣⲱⲙⲉ">
 <lemma lemma="ⲣⲱⲙⲉ">
@@ -10818,6 +11138,7 @@
 </lemma>
 </norm>
 </orig>
+</entity>
 </norm_group>
 </orig_group>
 <orig_group orig_group="ⲁⲛ">
@@ -10833,6 +11154,7 @@
 </orig>
 </norm_group>
 </orig_group>
+</entity>
 <orig_group orig_group="ⲛⲉ">
 <norm_group norm_group="ⲛⲉ">
 <orig orig="ⲛⲉ">
@@ -10861,6 +11183,7 @@
 </orig>
 </norm_group>
 </orig_group>
+<entity entity="abstract">
 <orig_group orig_group="ϩⲉⲛϩⲟⲧⲃⲉⲥ">
 <norm_group norm_group="ϩⲉⲛϩⲟⲧⲃⲉⲥ">
 <orig orig="ϩⲉⲛ">
@@ -10968,6 +11291,7 @@
 </orig>
 </norm_group>
 </orig_group>
+</entity>
 <orig_group orig_group=".">
 <norm_group norm_group=".">
 <orig orig=".">
@@ -10985,6 +11309,7 @@
 </translation>
 <translation translation="...">
 <verse verse="16">
+<entity entity="abstract">
 <orig_group orig_group="ⲡⲓⲣⲓⲣϩⲟⲟⲩⲧ">
 <norm_group norm_group="ⲡⲓⲣⲓⲣϩⲟⲟⲩⲧ">
 <orig orig="ⲡⲓ">
@@ -11029,6 +11354,7 @@
 </orig>
 </norm_group>
 </orig_group>
+</entity>
 <orig_group orig_group="ⲙⲛⲡⲓⲁϩⲟⲟⲩ">
 <norm_group norm_group="ⲙⲛⲡⲓⲁϩⲟⲟⲩ">
 <orig orig="ⲙⲛ">
@@ -11040,6 +11366,7 @@
 </lemma>
 </norm>
 </orig>
+<entity entity="object">
 <orig orig="ⲡ">
 <norm norm="ⲡ">
 <lemma lemma="ⲡ">
@@ -11058,6 +11385,7 @@
 </lemma>
 </norm>
 </orig>
+</entity>
 </norm_group>
 </orig_group>
 <orig_group orig_group="[..]">
@@ -11171,6 +11499,7 @@
 </lemma>
 </norm>
 </orig>
+<entity entity="abstract">
 <orig orig="ⲧⲉ">
 <norm norm="ⲧⲉ">
 <lemma lemma="ⲡ">
@@ -11189,6 +11518,7 @@
 </lemma>
 </norm>
 </orig>
+</entity>
 </norm_group>
 </orig_group>
 <orig_group orig_group="ⲛⲉⲛⲧⲁⲩⲧⲁⲕⲟ">
@@ -11251,6 +11581,7 @@
 </lemma>
 </norm>
 </orig>
+<entity entity="abstract">
 <orig orig="ⲧⲉⲧⲛ">
 <norm norm="ⲧⲉⲧⲛ">
 <lemma lemma="ⲡⲉⲧⲛ">
@@ -11271,6 +11602,7 @@
 </lemma>
 </norm>
 </orig>
+</entity>
 </norm_group>
 </orig_group>
 <orig_group orig_group="ⲁⲩⲱ">
@@ -11339,6 +11671,7 @@
 </lemma>
 </norm>
 </orig>
+<entity entity="abstract">
 <orig orig="ⲛⲉⲩ">
 <norm norm="ⲛⲉⲩ">
 <lemma lemma="ⲡⲉⲩ">
@@ -11357,6 +11690,7 @@
 </lemma>
 </norm>
 </orig>
+</entity>
 </norm_group>
 </orig_group>
 <orig_group orig_group="ⲙⲛⲛⲉⲩϣⲱⲗ">
@@ -11370,6 +11704,7 @@
 </lemma>
 </norm>
 </orig>
+<entity entity="abstract">
 <orig orig="ⲛⲉⲩ">
 <norm norm="ⲛⲉⲩ">
 <lemma lemma="ⲡⲉⲩ">
@@ -11388,6 +11723,7 @@
 </lemma>
 </norm>
 </orig>
+</entity>
 </norm_group>
 </orig_group>
 <orig_group orig_group=".">
@@ -11422,6 +11758,7 @@
 </orig_group>
 <orig_group orig_group="ⲛⲓⲥⲩⲛⲁⲅⲱⲅⲏ">
 <norm_group norm_group="ⲛⲓⲥⲩⲛⲁⲅⲱⲅⲏ">
+<entity entity="place">
 <orig orig="ⲛⲓ">
 <norm norm="ⲛⲓ">
 <lemma lemma="ⲡⲓ">
@@ -11442,6 +11779,7 @@
 </lemma>
 </norm>
 </orig>
+</entity>
 </norm_group>
 </orig_group>
 <orig_group orig_group="ⲙⲟⲩϩ">
@@ -11468,6 +11806,7 @@
 </lemma>
 </norm>
 </orig>
+<entity entity="abstract">
 <orig orig="ⲛⲉϩⲡⲉ">
 <norm norm="ⲛⲉϩⲡⲉ">
 <lemma lemma="ⲛⲉϩⲡⲉ">
@@ -11482,6 +11821,7 @@
 </lemma>
 </norm>
 </orig>
+</entity>
 </norm_group>
 </orig_group>
 <orig_group orig_group="ϩⲓⲣⲓⲙⲉ">
@@ -11499,6 +11839,7 @@
 </ed_page_n>
 <ed_page_n ed_page_n="105">
 <ed_line_n ed_line_n="1">
+<entity entity="event">
 <orig orig="ⲣⲓⲙⲉ">
 <norm norm="ⲣⲓⲙⲉ">
 <lemma lemma="ⲣⲓⲙⲉ">
@@ -11508,6 +11849,7 @@
 </lemma>
 </norm>
 </orig>
+</entity>
 </norm_group>
 </orig_group>
 <orig_group orig_group="ϩⲓⲁϣⲕⲁⲕ">
@@ -11521,6 +11863,7 @@
 </lemma>
 </norm>
 </orig>
+<entity entity="abstract">
 <orig orig="ⲁϣⲕⲁⲕ">
 <norm norm="ⲁϣⲕⲁⲕ">
 <lemma lemma="ⲁϣⲕⲁⲕ">
@@ -11530,6 +11873,7 @@
 </lemma>
 </norm>
 </orig>
+</entity>
 </norm_group>
 </orig_group>
 <orig_group orig_group="ⲉⲃⲟⲗ">
@@ -11661,6 +12005,7 @@
 </lemma>
 </norm>
 </orig>
+<entity entity="abstract">
 <orig orig="ⲛⲉⲓ">
 <norm norm="ⲛⲉⲓ">
 <lemma lemma="ⲡⲉⲓ">
@@ -11679,6 +12024,7 @@
 </lemma>
 </norm>
 </orig>
+</entity>
 </norm_group>
 </orig_group>
 <orig_group orig_group="ϩⲛⲙⲙⲁ">
@@ -11694,6 +12040,7 @@
 </orig>
 </ed_line_n>
 <ed_line_n ed_line_n="2">
+<entity entity="place">
 <orig orig="ⲙ">
 <norm norm="ⲙ">
 <lemma lemma="ⲡ">
@@ -11747,6 +12094,7 @@
 </lemma>
 </norm>
 </orig>
+<entity entity="person">
 <orig orig="ⲡ">
 <norm norm="ⲡ">
 <lemma lemma="ⲡ">
@@ -11765,8 +12113,10 @@
 </lemma>
 </norm>
 </orig>
+</entity>
 </norm_group>
 </orig_group>
+</entity>
 <orig_group orig_group="ⲁⲩⲱ">
 <norm_group norm_group="ⲁⲩⲱ">
 <orig orig="ⲁⲩⲱ">
@@ -11811,6 +12161,7 @@
 </orig>
 </norm_group>
 </orig_group>
+<entity entity="abstract">
 <orig_group orig_group="ⲛⲓϩⲃⲏⲩⲉ">
 <norm_group norm_group="ⲛⲓϩⲃⲏⲩⲉ">
 <orig orig="ⲛⲓ">
@@ -11844,6 +12195,7 @@
 </lemma>
 </norm>
 </orig>
+<entity entity="abstract">
 <orig orig="ⲗⲟⲓⲙⲟⲥ">
 <norm norm="ⲗⲟⲓⲙⲟⲥ">
 <lemma lemma="ⲗⲟⲓⲙⲟⲥ">
@@ -11855,8 +12207,10 @@
 </lemma>
 </norm>
 </orig>
+</entity>
 </norm_group>
 </orig_group>
+</entity>
 <orig_group orig_group="ϩⲟⲗⲱⲥ">
 <norm_group norm_group="ϩⲟⲗⲱⲥ">
 <orig orig="ϩⲟⲗⲱⲥ">
@@ -11987,6 +12341,7 @@
 </lemma>
 </norm>
 </orig>
+<entity entity="abstract">
 <orig orig="ⲡⲉⲧⲛ">
 <norm norm="ⲡⲉⲧⲛ">
 <lemma lemma="ⲡⲉⲧⲛ">
@@ -12005,6 +12360,7 @@
 </lemma>
 </norm>
 </orig>
+</entity>
 </norm_group>
 </orig_group>
 <orig_group orig_group="ⲙⲟⲩ">
@@ -12039,6 +12395,7 @@
 <ed_line_n ed_line_n="4">
 <orig_group orig_group="ⲡⲧⲣⲉⲁⲙⲛ">
 <norm_group norm_group="ⲡⲧⲣⲉⲁⲙⲛ">
+<entity entity="event">
 <orig orig="ⲡ">
 <norm norm="ⲡ">
 <lemma lemma="ⲡ">
@@ -12075,6 +12432,7 @@
 </lemma>
 </norm>
 </orig>
+</entity>
 </norm_group>
 </orig_group>
 <orig_group orig_group="[..]">
@@ -12120,6 +12478,7 @@
 </orig>
 </norm_group>
 </orig_group>
+<entity entity="abstract">
 <orig_group orig_group="ⲡⲉⲓϣⲱ[ⲛⲉ]">
 <norm_group norm_group="ⲡⲉⲓϣⲱⲛⲉ">
 <orig orig="ⲡⲉⲓ">
@@ -12170,6 +12529,7 @@
 </orig>
 </norm_group>
 </orig_group>
+</entity>
 <orig_group orig_group="[.....]">
 <norm_group norm_group=".....">
 <orig orig="[.....]">
@@ -12276,6 +12636,7 @@
 </orig_group>
 <orig_group orig_group="[ⲛ]ⲉϥⲉⲓⲃ">
 <norm_group norm_group="ⲛⲉϥⲉⲓⲃ">
+<entity entity="object">
 <orig orig="[ⲛ]ⲉϥ">
 <norm norm="ⲛⲉϥ">
 <lemma lemma="ⲡⲉϥ">
@@ -12294,6 +12655,7 @@
 </lemma>
 </norm>
 </orig>
+</entity>
 </norm_group>
 </orig_group>
 </ed_line_n>
@@ -12309,6 +12671,7 @@
 </lemma>
 </norm>
 </orig>
+<entity entity="object">
 <orig orig="ⲡ">
 <norm norm="ⲡ">
 <lemma lemma="ⲡ">
@@ -12351,6 +12714,7 @@
 </orig>
 </norm_group>
 </orig_group>
+</entity>
 <orig_group orig_group="ⲡⲣⲟⲥⲧⲉⲩⲛⲟⲩ">
 <norm_group norm_group="ⲡⲣⲟⲥⲧⲉⲩⲛⲟⲩ">
 <orig orig="ⲡⲣⲟⲥ">
@@ -12435,6 +12799,7 @@
 </lemma>
 </norm>
 </orig>
+<entity entity="abstract">
 <orig orig="ⲡⲉϥ">
 <norm norm="ⲡⲉϥ">
 <lemma lemma="ⲡⲉϥ">
@@ -12453,6 +12818,7 @@
 </lemma>
 </norm>
 </orig>
+</entity>
 </norm_group>
 </orig_group>
 <orig_group orig_group="ⲏ">
@@ -12472,6 +12838,7 @@
 </orig_group>
 <orig_group orig_group="ⲛⲉϥⲉⲓⲃ">
 <norm_group norm_group="ⲛⲉϥⲉⲓⲃ">
+<entity entity="object">
 <orig orig="ⲛⲉϥ">
 <norm norm="ⲛⲉϥ">
 <lemma lemma="ⲡⲉϥ">
@@ -12490,10 +12857,12 @@
 </lemma>
 </norm>
 </orig>
+</entity>
 </norm_group>
 </orig_group>
 </ed_line_n>
 <ed_line_n ed_line_n="6">
+<entity entity="person">
 <orig_group orig_group="ⲛⲧⲱⲧⲛ">
 <norm_group norm_group="ⲛⲧⲱⲧⲛ">
 <orig orig="ⲛⲧⲱⲧⲛ">
@@ -12570,6 +12939,7 @@
 </orig_group>
 <orig_group orig_group="ϩⲟⲟⲩⲧ">
 <norm_group norm_group="ϩⲟⲟⲩⲧ">
+<entity entity="person">
 <orig orig="ϩⲟⲟⲩⲧ">
 <norm norm="ϩⲟⲟⲩⲧ">
 <lemma lemma="ϩⲟⲟⲩⲧ">
@@ -12579,6 +12949,7 @@
 </lemma>
 </norm>
 </orig>
+</entity>
 </norm_group>
 </orig_group>
 <orig_group orig_group="ⲉⲓⲧⲉ">
@@ -12596,6 +12967,7 @@
 </orig>
 </norm_group>
 </orig_group>
+<entity entity="person">
 <orig_group orig_group="ⲥϩⲓⲙⲉ">
 <norm_group norm_group="ⲥϩⲓⲙⲉ">
 <orig orig="ⲥϩⲓⲙⲉ">
@@ -12644,6 +13016,9 @@
 </orig>
 </norm_group>
 </orig_group>
+</entity>
+</entity>
+<entity entity="person">
 <orig_group orig_group="ⲛⲁⲓ">
 <norm_group norm_group="ⲛⲁⲓ">
 <orig orig="ⲛⲁⲓ">
@@ -12701,6 +13076,7 @@
 </lemma>
 </norm>
 </orig>
+<entity entity="abstract">
 <orig orig="ϩⲉⲛ">
 <norm norm="ϩⲉⲛ">
 <lemma lemma="ⲟⲩ">
@@ -12719,6 +13095,7 @@
 </lemma>
 </norm>
 </orig>
+</entity>
 </norm_group>
 </orig_group>
 <orig_group orig_group="ϩⲣⲁⲓ">
@@ -12745,6 +13122,7 @@
 </lemma>
 </norm>
 </orig>
+<entity entity="place">
 <orig orig="ⲛⲓ">
 <norm norm="ⲛⲓ">
 <lemma lemma="ⲡⲓ">
@@ -12778,6 +13156,7 @@
 </lemma>
 </norm>
 </orig>
+<entity entity="time">
 <orig orig="ⲟⲩⲟⲉⲓϣ">
 <norm norm="ⲟⲩⲟⲉⲓϣ">
 <lemma lemma="ⲟⲩⲟⲉⲓϣ">
@@ -12802,6 +13181,9 @@
 </orig>
 </norm_group>
 </orig_group>
+</entity>
+</entity>
+</entity>
 <orig_group orig_group=".">
 <norm_group norm_group=".">
 <orig orig=".">
@@ -12832,6 +13214,7 @@
 </orig>
 </norm_group>
 </orig_group>
+<entity entity="abstract">
 <orig_group orig_group="ⲡⲉⲧⲉⲧⲛⲁϫⲟⲟϥ">
 <norm_group norm_group="ⲡⲉⲧⲉⲧⲛⲛⲁϫⲟⲟϥ">
 <orig orig="ⲡ">
@@ -12897,6 +13280,8 @@
 </lemma>
 </norm>
 </orig>
+</entity>
+<entity entity="abstract">
 <orig orig="ⲛ">
 <norm norm="ⲛ">
 <lemma lemma="ⲡ">
@@ -12942,6 +13327,7 @@
 </lemma>
 </norm>
 </orig>
+<entity entity="event">
 <orig orig="ⲡ">
 <norm norm="ⲡ">
 <lemma lemma="ⲡ">
@@ -12960,6 +13346,8 @@
 </lemma>
 </norm>
 </orig>
+</entity>
+</entity>
 </norm_group>
 </orig_group>
 <orig_group orig_group="ⲁⲩϫⲣⲟ">
@@ -13004,6 +13392,7 @@
 </lemma>
 </norm>
 </orig>
+<entity entity="event">
 <orig orig="ⲡ">
 <norm norm="ⲡ">
 <lemma lemma="ⲡ">
@@ -13022,6 +13411,7 @@
 </lemma>
 </norm>
 </orig>
+</entity>
 </norm_group>
 </orig_group>
 <orig_group orig_group="ϩⲙⲡⲧⲣⲉⲩⲡⲁⲧⲁⲥⲥⲉ">
@@ -13035,6 +13425,7 @@
 </lemma>
 </norm>
 </orig>
+<entity entity="event">
 <orig orig="ⲡ">
 <norm norm="ⲡ">
 <lemma lemma="ⲡ">
@@ -13099,6 +13490,7 @@
 </orig>
 </norm_group>
 </orig_group>
+</entity>
 <orig_group orig_group="ϩⲛⲧⲉⲩⲙⲛⲧⲡⲁⲣⲑⲉⲛⲟⲥ">
 <norm_group norm_group="ϩⲛⲧⲉⲩⲙⲛⲧⲡⲁⲣⲑⲉⲛⲟⲥ">
 <orig orig="ϩⲛ">
@@ -13110,6 +13502,7 @@
 </lemma>
 </norm>
 </orig>
+<entity entity="abstract">
 <orig orig="ⲧⲉⲩ">
 <norm norm="ⲧⲉⲩ">
 <lemma lemma="ⲡⲉⲩ">
@@ -13135,6 +13528,7 @@
 </lemma>
 </norm>
 </orig>
+</entity>
 </norm_group>
 </orig_group>
 <orig_group orig_group="ⲏ">
@@ -13154,6 +13548,7 @@
 </orig_group>
 <orig_group orig_group="ⲧⲉⲩⲙⲛⲧϣⲁⲩ">
 <norm_group norm_group="ⲧⲉⲩⲙⲛⲧϣⲁⲩ">
+<entity entity="abstract">
 <orig orig="ⲧⲉⲩ">
 <norm norm="ⲧⲉⲩ">
 <lemma lemma="ⲡⲉⲩ">
@@ -13177,6 +13572,7 @@
 </lemma>
 </norm>
 </orig>
+</entity>
 </norm_group>
 </orig_group>
 <orig_group orig_group="ⲁⲩⲱ">
@@ -13234,6 +13630,7 @@
 </lemma>
 </norm>
 </orig>
+<entity entity="object">
 <orig orig="ⲡⲉϥ">
 <norm norm="ⲡⲉϥ">
 <lemma lemma="ⲡⲉϥ">
@@ -13252,6 +13649,7 @@
 </lemma>
 </norm>
 </orig>
+</entity>
 </norm_group>
 </orig_group>
 </ed_line_n>
@@ -13282,6 +13680,7 @@
 </lemma>
 </norm>
 </orig>
+<entity entity="object">
 <orig orig="ⲡⲉϥ">
 <norm norm="ⲡⲉϥ">
 <lemma lemma="ⲡⲉϥ">
@@ -13300,6 +13699,7 @@
 </lemma>
 </norm>
 </orig>
+</entity>
 </norm_group>
 </orig_group>
 <orig_group orig_group="ⲧⲁⲕⲟ">
@@ -13348,6 +13748,7 @@
 </lemma>
 </norm>
 </orig>
+<entity entity="abstract">
 <orig orig="ⲧⲉⲩ">
 <norm norm="ⲧⲉⲩ">
 <lemma lemma="ⲡⲉⲩ">
@@ -13381,6 +13782,7 @@
 </lemma>
 </norm>
 </orig>
+<entity entity="abstract">
 <orig orig="ⲙⲛⲧⲙⲉ">
 <norm norm="ⲙⲛⲧⲙⲉ">
 <lemma lemma="ⲙⲛⲧⲙⲉ">
@@ -13395,8 +13797,10 @@
 </lemma>
 </norm>
 </orig>
+</entity>
 </norm_group>
 </orig_group>
+</entity>
 <orig_group orig_group="ⲉⲁⲡⲙⲟⲩ">
 <norm_group norm_group="ⲉⲁⲡⲙⲟⲩ">
 <orig orig="ⲉ">
@@ -13417,6 +13821,7 @@
 </lemma>
 </norm>
 </orig>
+<entity entity="event">
 <orig orig="ⲡ">
 <norm norm="ⲡ">
 <lemma lemma="ⲡ">
@@ -13435,6 +13840,7 @@
 </lemma>
 </norm>
 </orig>
+</entity>
 </norm_group>
 </orig_group>
 </ed_line_n>
@@ -13485,6 +13891,7 @@
 </lemma>
 </norm>
 </orig>
+<entity entity="event">
 <orig orig="ⲡ">
 <norm norm="ⲡ">
 <lemma lemma="ⲡ">
@@ -13545,6 +13952,7 @@
 </orig>
 </norm_group>
 </orig_group>
+</entity>
 <orig_group orig_group="ϫⲛⲛⲉϥϫⲱϩⲙ">
 <norm_group norm_group="ϫⲛⲛⲉϥϫⲱϩⲙ">
 <orig orig="ϫⲛ">
@@ -13574,6 +13982,7 @@
 </lemma>
 </norm>
 </orig>
+<entity entity="abstract">
 <orig orig="ϫⲱϩⲙ">
 <norm norm="ϫⲱϩⲙ">
 <lemma lemma="ϫⲱϩⲙ">
@@ -13583,6 +13992,7 @@
 </lemma>
 </norm>
 </orig>
+</entity>
 </norm_group>
 </orig_group>
 <orig_group orig_group="ⲙⲛⲛⲉϥⲥⲱⲱϥ">
@@ -13596,6 +14006,7 @@
 </lemma>
 </norm>
 </orig>
+<entity entity="abstract">
 <orig orig="ⲛⲉϥ">
 <norm norm="ⲛⲉϥ">
 <lemma lemma="ⲡⲉϥ">
@@ -13616,6 +14027,7 @@
 </lemma>
 </norm>
 </orig>
+</entity>
 </norm_group>
 </orig_group>
 <orig_group orig_group="ⲙⲛⲛⲉϥϫⲓⲟⲩⲉ">
@@ -13629,6 +14041,7 @@
 </lemma>
 </norm>
 </orig>
+<entity entity="abstract">
 <orig orig="ⲛⲉϥ">
 <norm norm="ⲛⲉϥ">
 <lemma lemma="ⲡⲉϥ">
@@ -13647,6 +14060,7 @@
 </lemma>
 </norm>
 </orig>
+</entity>
 </norm_group>
 </orig_group>
 <orig_group orig_group="ⲙⲛⲛⲉϥⲕⲉϩⲃⲏⲩⲉ">
@@ -13660,6 +14074,7 @@
 </lemma>
 </norm>
 </orig>
+<entity entity="abstract">
 <orig orig="ⲛⲉϥ">
 <norm norm="ⲛⲉϥ">
 <lemma lemma="ⲡⲉϥ">
@@ -13700,6 +14115,7 @@
 </lemma>
 </norm>
 </orig>
+<entity entity="abstract">
 <orig orig="ⲗⲟⲓⲙⲟⲥ">
 <norm norm="ⲗⲟⲓⲙⲟⲥ">
 <lemma lemma="ⲗⲟⲓⲙⲟⲥ">
@@ -13711,8 +14127,10 @@
 </lemma>
 </norm>
 </orig>
+</entity>
 </norm_group>
 </orig_group>
+</entity>
 <orig_group orig_group=".">
 <norm_group norm_group=".">
 <orig orig=".">
@@ -13749,6 +14167,7 @@
 </orig>
 </norm_group>
 </orig_group>
+<entity entity="person">
 <orig_group orig_group="ⲡⲉⲧⲛⲁⲣⲡⲙⲉⲉⲩⲉ">
 <norm_group norm_group="ⲡⲉⲧⲛⲁⲣⲡⲙⲉⲉⲩⲉ">
 <orig orig="ⲡ">
@@ -13820,6 +14239,7 @@
 </lemma>
 </norm>
 </orig>
+<entity entity="abstract">
 <orig orig="ⲛⲉ">
 <norm norm="ⲛⲉ">
 <lemma lemma="ⲡ">
@@ -13911,6 +14331,8 @@
 </orig>
 </norm_group>
 </orig_group>
+</entity>
+</entity>
 <orig_group orig_group="ϥⲛⲁⲛⲉϫⲡⲁϭⲥⲉ">
 <norm_group norm_group="ϥⲛⲁⲛⲉϫⲡⲁϭⲥⲉ">
 <orig orig="ϥ">
@@ -14037,6 +14459,7 @@
 </lemma>
 </norm>
 </orig>
+<entity entity="person">
 <orig orig="ⲛ">
 <norm norm="ⲛ">
 <lemma lemma="ⲡ">
@@ -14064,6 +14487,7 @@
 </lemma>
 </norm>
 </orig>
+</entity>
 </norm_group>
 </orig_group>
 <orig_group orig_group=".">
@@ -14121,6 +14545,7 @@
 </lemma>
 </norm>
 </orig>
+<entity entity="event">
 <orig orig="ⲡ">
 <norm norm="ⲡ">
 <lemma lemma="ⲡ">
@@ -14139,6 +14564,7 @@
 </lemma>
 </norm>
 </orig>
+</entity>
 </norm_group>
 </orig_group>
 <orig_group orig_group="ⲛⲁϣ">
@@ -14196,6 +14622,7 @@
 </lemma>
 </norm>
 </orig>
+<entity entity="event">
 <orig orig="ⲡ">
 <norm norm="ⲡ">
 <lemma lemma="ⲡ">
@@ -14251,6 +14678,7 @@
 <ed_line_n ed_line_n="2">
 <orig_group orig_group="ⲡⲉⲕϫⲣⲟ">
 <norm_group norm_group="ⲡⲉⲕϫⲣⲟ">
+<entity entity="abstract">
 <orig orig="ⲡⲉⲕ">
 <norm norm="ⲡⲉⲕ">
 <lemma lemma="ⲡⲉⲕ">
@@ -14269,10 +14697,13 @@
 </lemma>
 </norm>
 </orig>
+</entity>
 </norm_group>
 </orig_group>
+</entity>
 <orig_group orig_group="ⲁⲙⲛⲧⲉ">
 <norm_group norm_group="ⲁⲙⲛⲧⲉ">
+<entity entity="place">
 <orig orig="ⲁⲙⲛⲧⲉ">
 <norm norm="ⲁⲙⲛⲧⲉ">
 <lemma lemma="ⲁⲙⲛⲧⲉ">
@@ -14282,6 +14713,7 @@
 </lemma>
 </norm>
 </orig>
+</entity>
 </norm_group>
 </orig_group>
 <orig_group orig_group="ⲉϥⲧⲱⲛ">
@@ -14317,6 +14749,7 @@
 </orig_group>
 <orig_group orig_group="ⲡⲉⲕⲉⲓⲃ">
 <norm_group norm_group="ⲡⲉⲕⲉⲓⲃ">
+<entity entity="abstract">
 <orig orig="ⲡⲉⲕ">
 <norm norm="ⲡⲉⲕ">
 <lemma lemma="ⲡⲉⲕ">
@@ -14335,6 +14768,7 @@
 </lemma>
 </norm>
 </orig>
+</entity>
 </norm_group>
 </orig_group>
 <orig_group orig_group="ⲉⲁϥⲧⲁⲕⲟ">
@@ -14388,6 +14822,7 @@
 </lemma>
 </norm>
 </orig>
+<entity entity="abstract">
 <orig orig="ⲧⲉⲧⲛ">
 <norm norm="ⲧⲉⲧⲛ">
 <lemma lemma="ⲡⲉⲧⲛ">
@@ -14408,6 +14843,7 @@
 </lemma>
 </norm>
 </orig>
+</entity>
 </norm_group>
 </orig_group>
 <orig_group orig_group="ⲏ">
@@ -14513,6 +14949,7 @@
 </lemma>
 </norm>
 </orig>
+<entity entity="abstract">
 <orig orig="ⲛⲉⲧⲛ">
 <norm norm="ⲛⲉⲧⲛ">
 <lemma lemma="ⲡⲉⲧⲛ">
@@ -14555,6 +14992,7 @@
 </orig>
 </norm_group>
 </orig_group>
+</entity>
 <orig_group orig_group=".">
 <norm_group norm_group=".">
 <orig orig=".">
@@ -14614,6 +15052,7 @@
 </lemma>
 </norm>
 </orig>
+<entity entity="abstract">
 <orig orig="ⲙⲛⲧⲣⲉ">
 <norm norm="ⲙⲛⲧⲣⲉ">
 <lemma lemma="ⲙⲛⲧⲣⲉ">
@@ -14669,6 +15108,7 @@
 </orig>
 </norm_group>
 </orig_group>
+</entity>
 </ed_line_n>
 <ed_line_n ed_line_n="4">
 <orig_group orig_group="ⲙⲁⲩⲁⲧⲧⲏⲩⲧⲛ">
@@ -14838,6 +15278,7 @@
 </lemma>
 </norm>
 </orig>
+<entity entity="person">
 <orig orig="ⲛⲓ">
 <norm norm="ⲛⲓ">
 <lemma lemma="ⲡⲓ">
@@ -14882,6 +15323,7 @@
 </orig>
 </norm_group>
 </orig_group>
+</entity>
 <orig_group orig_group="ⲉⲃⲟⲗ">
 <norm_group norm_group="ⲉⲃⲟⲗ">
 <orig orig="ⲉⲃⲟⲗ">
@@ -14906,6 +15348,7 @@
 </lemma>
 </norm>
 </orig>
+<entity entity="person">
 <orig orig="ⲡ">
 <norm norm="ⲡ">
 <lemma lemma="ⲡ">
@@ -14924,6 +15367,7 @@
 </lemma>
 </norm>
 </orig>
+</entity>
 </norm_group>
 </orig_group>
 <orig_group orig_group="ⲧⲉⲧⲛϣⲟⲩϣⲟⲩ">
@@ -15213,6 +15657,7 @@
 </lemma>
 </norm>
 </orig>
+<entity entity="event">
 <orig orig="ⲡ">
 <norm norm="ⲡ">
 <lemma lemma="ⲡ">
@@ -15266,6 +15711,7 @@
 </orig_group>
 <orig_group orig_group="ⲡⲉⲕϫⲣⲟ">
 <norm_group norm_group="ⲡⲉⲕϫⲣⲟ">
+<entity entity="abstract">
 <orig orig="ⲡⲉⲕ">
 <norm norm="ⲡⲉⲕ">
 <lemma lemma="ⲡⲉⲕ">
@@ -15284,8 +15730,10 @@
 </lemma>
 </norm>
 </orig>
+</entity>
 </norm_group>
 </orig_group>
+</entity>
 </ed_line_n>
 <ed_line_n ed_line_n="7">
 <orig_group orig_group="ⲁⲣⲏⲩ">
@@ -15347,6 +15795,7 @@
 </orig_group>
 <orig_group orig_group="ⲡⲉⲧⲛϫⲣⲟ">
 <norm_group norm_group="ⲡⲉⲧⲛϫⲣⲟ">
+<entity entity="abstract">
 <orig orig="ⲡⲉⲧⲛ">
 <norm norm="ⲡⲉⲧⲛ">
 <lemma lemma="ⲡⲉⲧⲛ">
@@ -15365,6 +15814,7 @@
 </lemma>
 </norm>
 </orig>
+</entity>
 </norm_group>
 </orig_group>
 <orig_group orig_group="ⲏ">
@@ -15384,6 +15834,7 @@
 </orig_group>
 <orig_group orig_group="ⲁⲙⲛⲧⲉ">
 <norm_group norm_group="ⲁⲙⲛⲧⲉ">
+<entity entity="place">
 <orig orig="ⲁⲙⲛⲧⲉ">
 <norm norm="ⲁⲙⲛⲧⲉ">
 <lemma lemma="ⲁⲙⲛⲧⲉ">
@@ -15393,6 +15844,7 @@
 </lemma>
 </norm>
 </orig>
+</entity>
 </norm_group>
 </orig_group>
 <orig_group orig_group="ⲉϥⲧⲱⲛ">
@@ -15428,6 +15880,7 @@
 </orig_group>
 <orig_group orig_group="ⲡⲉⲕⲉⲓⲃ">
 <norm_group norm_group="ⲡⲉⲕⲉⲓⲃ">
+<entity entity="abstract">
 <orig orig="ⲡⲉⲕ">
 <norm norm="ⲡⲉⲕ">
 <lemma lemma="ⲡⲉⲕ">
@@ -15446,6 +15899,7 @@
 </lemma>
 </norm>
 </orig>
+</entity>
 </norm_group>
 </orig_group>
 <orig_group orig_group=".">
@@ -15565,6 +16019,7 @@
 </orig>
 </norm_group>
 </orig_group>
+<entity entity="abstract">
 <orig_group orig_group="ⲧⲉⲧⲛϭⲟⲙ">
 <norm_group norm_group="ⲧⲉⲧⲛϭⲟⲙ">
 <orig orig="ⲧⲉⲧⲛ">
@@ -15730,6 +16185,7 @@
 </orig>
 </ed_line_n>
 <ed_line_n ed_line_n="9">
+<entity entity="object">
 <orig orig="ⲧ">
 <norm norm="ⲧ">
 <lemma lemma="ⲡ">
@@ -15761,6 +16217,7 @@
 </lemma>
 </norm>
 </orig>
+<entity entity="abstract">
 <orig orig="ⲡⲉϥ">
 <norm norm="ⲡⲉϥ">
 <lemma lemma="ⲡⲉϥ">
@@ -15821,6 +16278,9 @@
 </orig>
 </norm_group>
 </orig_group>
+</entity>
+</entity>
+</entity>
 <orig_group orig_group=".">
 <norm_group norm_group=".">
 <orig orig=".">
