@@ -12854,6 +12854,7 @@
 </lb_n>
 </verse>
 </chapter>
+<chapter chapter="4">
 <verse verse="1">
 <lb_n lb_n="11">
 <orig_group orig_group="ⲉϣϫⲉ">
@@ -12862,9 +12863,7 @@
 <norm norm="ⲉϣϫⲉ">
 <lemma lemma="ⲉϣϫⲉ">
 <pos pos="CONJ">
-<chapter chapter="4">
 ⲉϣϫⲉ
-</chapter>
 </pos>
 </lemma>
 </norm>
@@ -16709,4 +16708,5 @@
 </verse>
 </pb_xml_id>
 </ed_page_n>
+</chapter>
 </meta>
