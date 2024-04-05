@@ -1,6 +1,9 @@
-<meta annotation="Adeline Harrington, Lydia Bremer-McCollum" author="Shenoute" collection="Borgia Collection" Coptic_edition="&lt;a href=&amp;quot;https://archive.org/details/oeuvresdeschenou02shen/page/106/mode/2up&amp;quot;&gt;Amélineau Oeuvres de Schenoudi 2:106-108&lt;/a&gt;" corpus="shenoute.witness" country="Egypt" document_cts_urn="-" entities="-" identities="-" idno="-" language="Sahidic Coptic" license="&lt;a href='https://creativecommons.org/licenses/by/4.0/'&gt;CC-BY 4.0&lt;/a&gt;" msContents_title_n="8" msContents_title_type="canons" msItem_title="Who But God Is the Witness" msName="MONB.FL" note="Digital text provided by Stephen Emmel. Typed transcription of Amélineau's Oeuvres de Schenoudi. Converted to unicode by Coptic Scriptorium" objectType="codex" order="-" origDate="-" origDate_notAfter="-" origDate_notBefore="-" origDate_precision="medium" origPlace="White Monastery" pages_from="185" pages_to="186" parsing="automatic" paths_authors="&lt;a href='http://paths.uniroma1.it/atlas/authors/95'&gt;95&lt;/a&gt;" paths_manuscripts="-" paths_works="-" people="none" placeName="Atripe" places="none" previous="-" project="Coptic SCRIPTORIUM" redundant="yes" repository="Biblioteca Nazionale di Napoli" segmentation="automatic" source="Stephen Emmel" source_info="Digital text provided by Stephen Emmel. Reproduced with permission from Emmel" tagging="automatic" title="Who but God is the Witness MONB.FL 185-186" Trismegistos="-" version_date="-" version_n="-" witness="-">
+<meta annotation="Adeline Harrington, Lydia Bremer-McCollum, Caroline T. Schroeder" author="Shenoute" collection="Borgia Collection" Coptic_edition="&lt;a href='https://archive.org/details/oeuvresdeschenou02shen/page/106/mode/2up'&gt;Amélineau Oeuvres de Schenoudi 2:106-108&lt;/a&gt;" corpus="shenoute.witness" country="Egypt" document_cts_urn="-" entities="-" identities="-" idno="-" language="Sahidic Coptic" license="&lt;a href='https://creativecommons.org/licenses/by/4.0/'&gt;CC-BY 4.0&lt;/a&gt;" msContents_title_n="8" msContents_title_type="canons" msItem_title="Who But God Is the Witness" msName="MONB.FL" note="Digital text provided by Stephen Emmel. Typed transcription of Amélineau's Oeuvres de Schenoudi. Converted to unicode by Coptic Scriptorium" objectType="codex" order="-" origDate="-" origDate_notAfter="-" origDate_notBefore="-" origDate_precision="medium" origPlace="White Monastery" pages_from="185" pages_to="186" parsing="automatic" paths_authors="&lt;a href='http://paths.uniroma1.it/atlas/authors/95'&gt;95&lt;/a&gt;" paths_manuscripts="-" paths_works="-" people="none" placeName="Atripe" places="none" previous="-" project="Coptic SCRIPTORIUM" redundant="yes" repository="Biblioteca Nazionale di Napoli" segmentation="automatic" source="Stephen Emmel" source_info="Digital text provided by Stephen Emmel. Reproduced with permission from Emmel" tagging="checked" title="Who but God is the Witness MONB.FL 185-186" Trismegistos="-" version_date="-" version_n="-" witness="-">
 <pb_xml_id pb_xml_id="FL185">
 <ed_page_n ed_page_n="106">
+<translation translation="...">
+<chapter chapter="44">
+<verse verse="3">
 <ed_line_n ed_line_n="1">
 <orig_group orig_group="ⲧⲁϥⲙⲟⲟⲩⲧϥ">
 <norm_group norm_group="ⲧⲁϥⲙⲟⲟⲩⲧϥ">
@@ -8,7 +11,7 @@
 <orig orig="ⲧⲁϥ">
 <norm norm="ⲧⲁϥ">
 <lemma lemma="ⲧⲁϥ">
-<pos pos="N">
+<pos pos="UNKNOWN">
 ⲧⲁϥ
 </pos>
 </lemma>
@@ -64,7 +67,7 @@
 <orig orig="ⲉ">
 <norm norm="ⲉ">
 <lemma lemma="ⲉⲣⲉ">
-<pos pos="CFOC">
+<pos pos="AOPT">
 ⲉ
 </pos>
 </lemma>
@@ -197,6 +200,12 @@
 </norm_group>
 </orig_group>
 </ed_line_n>
+</verse>
+</chapter>
+</translation>
+<chapter chapter="45">
+<translation translation="...">
+<verse verse="1">
 <ed_line_n ed_line_n="2">
 <orig_group orig_group="ϭⲟⲙϭⲙ">
 <norm_group norm_group="ϭⲟⲙϭⲙ">
@@ -401,6 +410,10 @@
 </orig>
 </norm_group>
 </orig_group>
+</verse>
+</translation>
+<translation translation="...">
+<verse verse="2">
 <orig_group orig_group="ⲏ">
 <norm_group norm_group="ⲏ">
 <orig orig="ⲏ">
@@ -798,6 +811,12 @@
 </orig>
 </norm_group>
 </orig_group>
+</verse>
+</translation>
+</chapter>
+<chapter chapter="46">
+<translation translation="...">
+<verse verse="1">
 <orig_group orig_group="ⲥⲉⲛⲁϣⲓ">
 <norm_group norm_group="ⲥⲉⲛⲁϣⲓ">
 <orig orig="ⲥⲉ">
@@ -944,10 +963,14 @@
 </orig>
 </norm_group>
 </orig_group>
+</verse>
+</translation>
 </ed_line_n>
 </ed_page_n>
 <ed_page_n ed_page_n="107">
 <ed_line_n ed_line_n="1">
+<translation translation="...">
+<verse verse="2">
 <orig_group orig_group="ⲛⲉⲛⲧⲁⲧⲉⲧⲛⲗⲩⲡⲉⲓ">
 <norm_group norm_group="ⲛⲉⲛⲧⲁⲧⲉⲧⲛⲗⲩⲡⲉⲓ">
 <orig orig="ⲛ">
@@ -1111,6 +1134,10 @@
 </orig>
 </norm_group>
 </orig_group>
+</verse>
+</translation>
+<translation translation="...">
+<verse verse="3">
 <orig_group orig_group="ⲙⲡⲣⲙⲉⲉⲩⲉ">
 <norm_group norm_group="ⲙⲡⲣⲙⲉⲉⲩⲉ">
 <orig orig="ⲙⲡⲣ">
@@ -1232,6 +1259,10 @@
 </orig>
 </norm_group>
 </orig_group>
+</verse>
+</translation>
+<translation translation="...">
+<verse verse="4">
 <orig_group orig_group="ⲛⲧⲟϥ">
 <norm_group norm_group="ⲛⲧⲟϥ">
 <orig orig="ⲛⲧⲟϥ">
@@ -2196,6 +2227,12 @@
 </orig>
 </norm_group>
 </orig_group>
+</verse>
+</translation>
+</chapter>
+<chapter chapter="47">
+<translation translation="...">
+<verse verse="1">
 <orig_group orig_group="ⲡⲓϣⲁϫⲉ">
 <norm_group norm_group="ⲡⲓϣⲁϫⲉ">
 <orig orig="ⲡⲓ">
@@ -2620,6 +2657,10 @@
 </orig>
 </norm_group>
 </orig_group>
+</verse>
+</translation>
+<translation translation="...">
+<verse verse="2">
 <orig_group orig_group="ⲁⲧⲉⲧⲛⲁⲁⲩ">
 <norm_group norm_group="ⲁⲧⲉⲧⲛⲁⲁⲩ">
 <orig orig="ⲁ">
@@ -2890,6 +2931,10 @@
 </norm_group>
 </orig_group>
 </ed_line_n>
+</verse>
+</translation>
+<translation translation="...">
+<verse verse="3">
 <ed_line_n ed_line_n="11">
 <orig_group orig_group="ⲁⲧⲉⲧⲛⲥⲱⲱϥ">
 <norm_group norm_group="ⲁⲧⲉⲧⲛⲥⲱⲱϥ">
@@ -3087,6 +3132,10 @@
 </orig>
 </norm_group>
 </orig_group>
+</verse>
+</translation>
+<translation translation="...">
+<verse verse="4">
 <orig_group orig_group="ⲁⲧⲉⲧⲛⲙⲟⲟϣⲉ">
 <norm_group norm_group="ⲁⲧⲉⲧⲛⲙⲟⲟϣⲉ">
 <orig orig="ⲁ">
@@ -3277,6 +3326,10 @@
 </orig>
 </norm_group>
 </orig_group>
+</verse>
+</translation>
+<translation translation="...">
+<verse verse="5">
 <orig_group orig_group="ⲁⲧⲉⲧⲛⲧⲁⲕⲉ">
 <norm_group norm_group="ⲁⲧⲉⲧⲛⲧⲁⲕⲉ">
 <orig orig="ⲁ">
@@ -3568,6 +3621,10 @@
 </orig>
 </norm_group>
 </orig_group>
+</verse>
+</translation>
+<translation translation="...">
+<verse verse="6">
 <orig_group orig_group="ⲁⲧⲉⲧⲛⲃⲱⲕ">
 <norm_group norm_group="ⲁⲧⲉⲧⲛⲃⲱⲕ">
 <orig orig="ⲁ">
@@ -3689,7 +3746,10 @@
 </orig>
 </norm_group>
 </orig_group>
+</verse>
+</translation>
 </ed_line_n>
 </ed_page_n>
+</chapter>
 </pb_xml_id>
 </meta>
