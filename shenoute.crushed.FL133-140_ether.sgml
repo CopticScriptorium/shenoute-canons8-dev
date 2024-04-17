@@ -8416,9 +8416,11 @@
 <norm norm="...">
 <lemma lemma="...">
 <pos pos="UNKNOWN">
+<note note="tear and hole in manuscript (CTS)">
 <gap_reason gap_reason="lost">
 [...]
 </gap_reason>
+</note>
 </pos>
 </lemma>
 </norm>
@@ -8466,9 +8468,11 @@
 <norm norm="..">
 <lemma lemma="..">
 <pos pos="UNKNOWN">
+<note note="tear and hole in manuscript (CTS)">
 <gap_reason gap_reason="lost">
 [..]
 </gap_reason>
+</note>
 </pos>
 </lemma>
 </norm>
@@ -8504,6 +8508,7 @@
 <orig_group orig_group="ⲛⲁⲧⲙⲡϣⲁ">
 <norm_group norm_group="ⲛⲁⲧⲙⲡϣⲁ">
 <entity entity="abstract">
+<note note="ⲛ restored by A; lower part of alpha barely visible; tear and hole in manuscript (CTS)">
 <orig orig="ⲛ">
 <norm norm="ⲛ">
 <lemma lemma="ⲡ">
@@ -8520,6 +8525,7 @@
 <morph morph="ⲁⲧ">
 ⲁⲧ
 </morph>
+</note>
 <morph morph="ⲙⲡϣⲁ">
 ⲙⲡϣⲁ
 </morph>
@@ -11385,6 +11391,7 @@
 </norm_group>
 </orig_group>
 </entity>
+<note note="tear and hole in manuscript on right side (CTS)">
 <orig_group orig_group="ⲙⲛⲡⲓⲁϩⲟⲟⲩ">
 <norm_group norm_group="ⲙⲛⲡⲓⲁϩⲟⲟⲩ">
 <orig orig="ⲙⲛ">
@@ -11518,6 +11525,7 @@
 </orig>
 </norm_group>
 </orig_group>
+</note>
 <orig_group orig_group="ϩⲛⲧⲉⲅⲣⲁϥⲏ">
 <norm_group norm_group="ϩⲛⲧⲉⲅⲣⲁϥⲏ">
 <orig orig="ϩⲛ">
@@ -12374,7 +12382,9 @@
 <norm norm="ϣⲁⲛⲧⲉ">
 <lemma lemma="ϣⲁⲛⲧⲉ">
 <pos pos="ALIM">
+<note note="tear in left side of manuscript begins(CTS)">
 ϣⲁⲛⲧⲉ
+</note>
 </pos>
 </lemma>
 </norm>
@@ -12384,7 +12394,9 @@
 <norm norm="ⲡⲉⲧⲛ">
 <lemma lemma="ⲡⲉⲧⲛ">
 <pos pos="PPOS">
+<note note="tear in left side of manuscript; tau restored by A (CTS)">
 ⲉⲧⲛ
+</note>
 </pos>
 </lemma>
 </norm>
@@ -12420,9 +12432,11 @@
 <norm norm="....">
 <lemma lemma="....">
 <pos pos="UNKNOWN">
+<note note="tear in left side of manuscript (CTS)">
 <gap_reason gap_reason="lost">
 [....]
 </gap_reason>
+</note>
 </pos>
 </lemma>
 </norm>
@@ -12479,9 +12493,11 @@
 <norm norm="..">
 <lemma lemma="..">
 <pos pos="UNKNOWN">
+<note note="tear in left side of manuscript (CTS)">
 <gap_reason gap_reason="lost">
 [..]
 </gap_reason>
+</note>
 </pos>
 </lemma>
 </norm>
@@ -12494,7 +12510,9 @@
 <norm norm="ⲉ">
 <lemma lemma="ⲉ">
 <pos pos="UNKNOWN">
+<note note="tear in left side of manuscript; epsilon restored by A (CTS)">
 ⲉ
+</note>
 </pos>
 </lemma>
 </norm>
@@ -12528,6 +12546,7 @@
 </lemma>
 </norm>
 </orig>
+<note note="tear in left side of manuscript (CTS)">
 <orig orig="ϣⲱ[ⲛⲉ]">
 <norm norm="ϣⲱⲛⲉ">
 <lemma lemma="ϣⲱⲛⲉ">
@@ -12554,6 +12573,7 @@
 </orig>
 </norm_group>
 </orig_group>
+</note>
 <orig_group orig_group="ⲑⲟⲟⲩ">
 <norm_group norm_group="ϩⲟⲟⲩ">
 <orig orig="ⲑⲟⲟⲩ">
@@ -12574,9 +12594,11 @@
 <norm norm=".....">
 <lemma lemma=".....">
 <pos pos="PUNCT">
+<note note="tear in left side of manuscript (CTS)">
 <gap_reason gap_reason="lost">
 [.....]
 </gap_reason>
+</note>
 </pos>
 </lemma>
 </norm>
@@ -12613,9 +12635,11 @@
 <norm norm=".....">
 <lemma lemma=".....">
 <pos pos="UNKNOWN">
+<note note="tear in left side of manuscript (CTS)">
 <gap_reason gap_reason="lost">
 [.....]
 </gap_reason>
+</note>
 </pos>
 </lemma>
 </norm>
@@ -12650,7 +12674,9 @@
 <norm norm="ϩ">
 <lemma lemma="ϩ">
 <pos pos="UNKNOWN">
+<note note="hore restored by A (CTS)">
 ϩ
+</note>
 </pos>
 </lemma>
 </norm>
@@ -15431,17 +15457,20 @@
 <norm norm="ϣⲟⲩϣⲟⲩ">
 <lemma lemma="ϣⲟⲩϣⲟⲩ">
 <pos pos="V">
+<note note="first upsulon missing due to tear in manuscript; reconstructed by A (CTS)">
 ϣⲟⲩϣⲟⲩ
+</note>
 </pos>
 </lemma>
 </norm>
 </orig>
 </norm_group>
 </orig_group>
+<note note="tear on right side of manuscript (CTS)">
 <orig_group orig_group="ⲙⲙⲱ">
 <norm_group norm_group="ⲙⲙⲱ">
 <orig orig="ⲙⲙⲱ">
-<norm norm="ⲙⲙⲱ">
+<norm norm="ⲙⲙⲱ̣">
 <lemma lemma="ⲙⲙⲱ">
 <pos pos="PREP_PPERO">
 ⲙⲙⲱ
@@ -15557,17 +15586,21 @@
 </lemma>
 </norm>
 </orig>
+</note>
 <orig orig="ⲉⲧⲛ">
 <norm norm="ⲧⲉⲧⲛ">
 <lemma lemma="ⲛⲧⲱⲧⲛ">
 <pos pos="PPERS">
+<note note="tear on right side of manuscript; ⲛ reconstructed by A (CTS)">
 ⲉⲧⲛ
+</note>
 </pos>
 </lemma>
 </norm>
 </orig>
 </norm_group>
 </orig_group>
+<note note="tear on right side of manuscript (CTS)">
 <orig_group orig_group="[....]">
 <norm_group norm_group="....">
 <orig orig="[....]">
@@ -15605,19 +15638,23 @@
 </orig>
 </norm_group>
 </orig_group>
+</note>
 <orig_group orig_group="ⲛ">
 <norm_group norm_group="ⲛ">
 <orig orig="ⲛ">
 <norm norm="ⲛ">
 <lemma lemma="ⲛ">
 <pos pos="PREP">
+<note note="tear on right side of manuscript; ⲛ reconstructed by A from partly visible letter (CTS)">
 ⲛ
+</note>
 </pos>
 </lemma>
 </norm>
 </orig>
 </norm_group>
 </orig_group>
+<note note="tear on right side of manuscript (CTS)">
 <orig_group orig_group="[...]">
 <norm_group norm_group="...">
 <orig orig="[...]">
@@ -15670,6 +15707,7 @@
 </orig>
 </norm_group>
 </orig_group>
+</note>
 <orig_group orig_group="ⲉⲣⲟϥ">
 <norm_group norm_group="ⲉⲣⲟϥ">
 <orig orig="ⲉⲣⲟ">
