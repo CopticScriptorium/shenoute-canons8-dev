@@ -1,8 +1,8 @@
-<meta annotation="Adeline Harrington, Lydia Bremer-McCollum, Caroline T. Schroeder" author="Shenoute" collection="Borgia Collection" Coptic_edition="&lt;a href='https://archive.org/details/oeuvresdeschenou02shen/page/100/mode/2up'&gt;Amélineau Oeuvres de Schenoudi 2:100-106&lt;/a&gt;" corpus="shenoute.crushed" country="Egypt" document_cts_urn="-" entities="checked" identities="checked" idno="-" language="Sahidic Coptic" license="&lt;a href='https://creativecommons.org/licenses/by/4.0/'&gt;CC-BY 4.0&lt;/a&gt;" msContents_title_n="8" msContents_title_type="canons" msItem_title="My Heart Is Crushed" msName="MONB.FL" note="Digital text provided by Stephen Emmel. Typed transcription of Amélineau's Oeuvres de Schenoudi. Converted to unicode by Coptic Scriptorium" objectType="codex" order="-" origDate="-" origDate_notAfter="-" origDate_notBefore="-" origDate_precision="medium" origPlace="White Monastery" pages_from="133" pages_to="140" parsing="automatic" paths_authors="&lt;a href='http://paths.uniroma1.it/atlas/authors/95'&gt;95&lt;/a&gt;" paths_manuscripts="-" paths_works="-" people="none" placeName="Atripe" places="none" previous="-" project="Coptic SCRIPTORIUM" redundant="yes" repository="Biblioteca Nazionale di Napoli" segmentation="automatic" source="Stephen Emmel" source_info="Digital text provided by Stephen Emmel. Reproduced with permission from Emmel" tagging="automatic" title="My Heart Is Crushed MONB.FL 133-140" Trismegistos="-" version_date="2023-09-29" version_n="4.5.0" witness="-">
-<chapter chapter="39">
+<meta annotation="Adeline Harrington, Lydia Bremer-McCollum, Caroline T. Schroeder" author="Shenoute" collection="Borgia Collection" Coptic_edition="&lt;a href='https://archive.org/details/oeuvresdeschenou02shen/page/100/mode/2up'&gt;Amélineau Oeuvres de Schenoudi 2:100-106&lt;/a&gt;" corpus="shenoute.crushed" country="Egypt" document_cts_urn="urn:cts:copticLit:shenoute.crushed.amelineau:39-43" entities="checked" identities="checked" idno="IB 5 ff. 80-83" language="Sahidic Coptic" license="&lt;a href='https://creativecommons.org/licenses/by/4.0/'&gt;CC-BY 4.0&lt;/a&gt;" msContents_title_n="8" msContents_title_type="canons" msItem_title="My Heart Is Crushed" msName="MONB.FL" note="Digital text provided by Stephen Emmel. Typed transcription of Amélineau's Oeuvres de Schenoudi. Converted to unicode by Coptic Scriptorium. Some manuscript information added by Schroeder in Naples 2024. Chapter divisions based on paragraph divisions in Anne Boud'hors French translation (IFAO 2013). Verse divisions mostly follow Boud'hors sentence divisions." objectType="codex" order="05" origDate="between 601 and 800 C.E." origDate_notAfter="800" origDate_notBefore="601" origDate_precision="medium" origPlace="White Monastery" pages_from="133" pages_to="140" parsing="automatic" paths_authors="&lt;a href='http://paths.uniroma1.it/atlas/authors/95'&gt;95&lt;/a&gt;" paths_manuscripts="&lt;a href=&amp;quot;http://paths.uniroma1.it/atlas/manuscripts/385&amp;quot;&gt;385&lt;/a&gt;" paths_works="&lt;a href=&amp;quot;http://paths.uniroma1.it/atlas/works/794&amp;quot;&gt;794&lt;/a&gt;" people="none" placeName="Atripe" places="none" previous="urn:cts:copticLit:shenoute.crushed.amelineau:36-39" project="Coptic SCRIPTORIUM" redundant="yes" repository="Biblioteca Nazionale di Napoli" segmentation="automatic" source="Stephen Emmel" source_info="Digital text provided by Stephen Emmel. Reproduced with permission from Emmel" tagging="automatic" title="My Heart Is Crushed MONB.FL 133-140 (Amélineau edition)" Trismegistos="none" version_date="2024-04-01" version_n="5.0.0" witness="This document has a parallel witness in MONB.XO 115-123 and also a partial parallel in MONB.YE 115-118. Coptic Scriptorium has not published either of those parallels. XO is in Boud'hors edition in Le canon 8 de Chénouté [Cairo: IFAO 2013] The Amélineau edition follows MONB.FL as the primary witness.">
+<chapter_n chapter_n="39">
 <pb_xml_id pb_xml_id="FL133">
 <translation translation="...">
-<verse verse="6">
+<verse_n verse_n="6">
 <ed_page_n ed_page_n="100">
 <ed_line_n ed_line_n="1">
 <orig_group orig_group="ⲙⲙⲉⲣⲁⲧⲉ">
@@ -498,10 +498,10 @@
 </orig>
 </norm_group>
 </orig_group>
-</verse>
+</verse_n>
 </translation>
 <translation translation="...">
-<verse verse="7">
+<verse_n verse_n="7">
 <orig_group orig_group="ⲁⲗⲗⲁ">
 <norm_group norm_group="ⲁⲗⲗⲁ">
 <orig orig="ⲁⲗⲗⲁ">
@@ -769,10 +769,10 @@
 </orig>
 </norm_group>
 </orig_group>
-</verse>
+</verse_n>
 </translation>
 <translation translation="...">
-<verse verse="8">
+<verse_n verse_n="8">
 <orig_group orig_group="ⲉⲧⲃⲉⲡⲁⲓ">
 <norm_group norm_group="ⲉⲧⲃⲉⲡⲁⲓ">
 <orig orig="ⲉⲧⲃⲉ">
@@ -2316,10 +2316,10 @@
 </orig>
 </norm_group>
 </orig_group>
-</verse>
+</verse_n>
 </translation>
 <translation translation="...">
-<verse verse="9">
+<verse_n verse_n="9">
 <orig_group orig_group="ⲉⲁⲩϩⲱϩ">
 <norm_group norm_group="ⲉⲁⲩϩⲱϩ">
 <orig orig="ⲉ">
@@ -2760,10 +2760,10 @@
 </norm_group>
 </orig_group>
 </ed_line_n>
-</verse>
+</verse_n>
 </translation>
 <translation translation="...">
-<verse verse="10">
+<verse_n verse_n="10">
 <ed_line_n ed_line_n="14">
 <orig_group orig_group="ⲙⲡⲟⲩⲣϩⲟⲧⲉ">
 <norm_group norm_group="ⲙⲡⲟⲩⲣϩⲟⲧⲉ">
@@ -3026,10 +3026,10 @@
 </orig>
 </norm_group>
 </orig_group>
-</verse>
+</verse_n>
 </translation>
 <translation translation="...">
-<verse verse="11">
+<verse_n verse_n="11">
 <orig_group orig_group="ⲏ">
 <norm_group norm_group="ⲏ">
 <orig orig="ⲏ">
@@ -3344,10 +3344,10 @@
 </orig>
 </norm_group>
 </orig_group>
-</verse>
+</verse_n>
 </translation>
 <translation translation="...">
-<verse verse="12">
+<verse_n verse_n="12">
 <orig_group orig_group="ⲙⲏ">
 <norm_group norm_group="ⲙⲏ">
 <orig orig="ⲙⲏ">
@@ -3818,10 +3818,10 @@
 </orig>
 </norm_group>
 </orig_group>
-</verse>
+</verse_n>
 </translation>
 <translation translation="...">
-<verse verse="13">
+<verse_n verse_n="13">
 <orig_group orig_group="ϫⲉⲙⲡⲟⲩⲡⲓⲥⲧⲉⲩⲉ">
 <norm_group norm_group="ϫⲉⲙⲡⲟⲩⲡⲓⲥⲧⲉⲩⲉ">
 <orig orig="ϫⲉ">
@@ -4578,10 +4578,10 @@
 </orig>
 </norm_group>
 </orig_group>
-</verse>
+</verse_n>
 </translation>
 <translation translation="...">
-<verse verse="14">
+<verse_n verse_n="14">
 <orig_group orig_group="ⲛⲧⲉⲧⲙⲡⲛⲟⲩⲧⲉ">
 <norm_group norm_group="ⲛⲧⲉⲧⲙⲡⲛⲟⲩⲧⲉ">
 <orig orig="ⲛⲧⲉ">
@@ -4989,12 +4989,12 @@
 </orig>
 </norm_group>
 </orig_group>
-</verse>
+</verse_n>
 </translation>
-</chapter>
-<chapter chapter="40">
+</chapter_n>
+<chapter_n chapter_n="40">
 <translation translation="...">
-<verse verse="1">
+<verse_n verse_n="1">
 <orig_group orig_group="ⲙⲡⲱⲧⲛ">
 <norm_group norm_group="ⲙⲡⲱⲧⲛ">
 <orig orig="ⲙ">
@@ -5552,10 +5552,10 @@
 </orig>
 </norm_group>
 </orig_group>
-</verse>
+</verse_n>
 </translation>
 <translation translation="...">
-<verse verse="2">
+<verse_n verse_n="2">
 <orig_group orig_group="ⲉϣϫⲉϣⲁⲣⲉⲣⲱⲙⲉ">
 <norm_group norm_group="ⲉϣϫⲉϣⲁⲣⲉⲣⲱⲙⲉ">
 <orig orig="ⲉϣϫⲉ">
@@ -6026,12 +6026,12 @@
 </orig>
 </norm_group>
 </orig_group>
-</verse>
+</verse_n>
 </translation>
-</chapter>
-<chapter chapter="41">
+</chapter_n>
+<chapter_n chapter_n="41">
 <translation translation="...">
-<verse verse="1">
+<verse_n verse_n="1">
 <orig_group orig_group="ⲥⲧⲟ">
 <norm_group norm_group="ⲥⲧⲟ">
 <orig orig="ⲥⲧⲟ">
@@ -7878,10 +7878,10 @@
 </orig>
 </norm_group>
 </orig_group>
-</verse>
+</verse_n>
 </translation>
 <translation translation="...">
-<verse verse="2">
+<verse_n verse_n="2">
 <orig_group orig_group="ⲁⲩⲱ">
 <norm_group norm_group="ⲁⲩⲱ">
 <orig orig="ⲁⲩⲱ">
@@ -8079,10 +8079,10 @@
 </norm_group>
 </orig_group>
 </entity>
-</verse>
+</verse_n>
 </translation>
 <translation translation="...">
-<verse verse="3">
+<verse_n verse_n="3">
 <orig_group orig_group="ϫⲉϯⲣⲏⲛⲏ">
 <norm_group norm_group="ϫⲉⲧⲉⲓⲣⲏⲛⲏ">
 <orig orig="ϫⲉ">
@@ -9853,10 +9853,10 @@
 </orig>
 </norm_group>
 </orig_group>
-</verse>
+</verse_n>
 </translation>
 <translation translation="...">
-<verse verse="4">
+<verse_n verse_n="4">
 <orig_group orig_group="ⲏ">
 <norm_group norm_group="ⲏ">
 <orig orig="ⲏ">
@@ -9988,10 +9988,10 @@
 </entity>
 </norm_group>
 </orig_group>
-</verse>
+</verse_n>
 </translation>
 <translation translation="...">
-<verse verse="5">
+<verse_n verse_n="5">
 <orig_group orig_group="ⲁⲩⲱ">
 <norm_group norm_group="ⲁⲩⲱ">
 <orig orig="ⲁⲩⲱ">
@@ -10162,10 +10162,10 @@
 </entity>
 </norm_group>
 </orig_group>
-</verse>
+</verse_n>
 </translation>
 <translation translation="...">
-<verse verse="6">
+<verse_n verse_n="6">
 <orig_group orig_group="ⲁⲩⲱ">
 <norm_group norm_group="ⲁⲩⲱ">
 <orig orig="ⲁⲩⲱ">
@@ -10431,10 +10431,10 @@
 </norm_group>
 </orig_group>
 </entity>
-</verse>
+</verse_n>
 </translation>
 <translation translation="...">
-<verse verse="7">
+<verse_n verse_n="7">
 <orig_group orig_group="ⲁⲩⲱ">
 <norm_group norm_group="ⲁⲩⲱ">
 <orig orig="ⲁⲩⲱ">
@@ -10722,12 +10722,12 @@
 </norm_group>
 </orig_group>
 </ed_line_n>
-</verse>
+</verse_n>
 </translation>
-</chapter>
-<chapter chapter="42">
+</chapter_n>
+<chapter_n chapter_n="42">
 <translation translation="...">
-<verse verse="1">
+<verse_n verse_n="1">
 <ed_line_n ed_line_n="9">
 <orig_group orig_group="ⲱ">
 <norm_group norm_group="ⲱ">
@@ -11101,10 +11101,10 @@
 </orig_group>
 </entity>
 </ed_line_n>
-</verse>
+</verse_n>
 </translation>
 <translation translation="...">
-<verse verse="2">
+<verse_n verse_n="2">
 <ed_line_n ed_line_n="11">
 <orig_group orig_group="ⲛⲉⲧⲛϩⲟⲧⲃⲥ">
 <norm_group norm_group="ⲛⲉⲧⲛϩⲟⲧⲃⲥ">
@@ -11341,10 +11341,10 @@
 </orig>
 </norm_group>
 </orig_group>
-</verse>
+</verse_n>
 </translation>
 <translation translation="...">
-<verse verse="3">
+<verse_n verse_n="3">
 <entity entity="abstract">
 <orig_group orig_group="ⲡⲓⲣⲓⲣϩⲟⲟⲩⲧ">
 <norm_group norm_group="ⲡⲓⲣⲓⲣϩⲟⲟⲩⲧ">
@@ -11777,10 +11777,10 @@
 </orig>
 </norm_group>
 </orig_group>
-</verse>
+</verse_n>
 </translation>
 <translation translation="...">
-<verse verse="4">
+<verse_n verse_n="4">
 <orig_group orig_group="ⲁ">
 <norm_group norm_group="ⲁ">
 <orig orig="ⲁ">
@@ -12155,10 +12155,10 @@
 </norm_group>
 </orig_group>
 </entity>
-</verse>
+</verse_n>
 </translation>
 <translation translation="...">
-<verse verse="5">
+<verse_n verse_n="5">
 <orig_group orig_group="ⲁⲩⲱ">
 <norm_group norm_group="ⲁⲩⲱ">
 <orig orig="ⲁⲩⲱ">
@@ -12253,10 +12253,10 @@
 </norm_group>
 </orig_group>
 </entity>
-</verse>
+</verse_n>
 </translation>
 <translation translation="...">
-<verse verse="6">
+<verse_n verse_n="6">
 <orig_group orig_group="ϩⲟⲗⲱⲥ">
 <norm_group norm_group="ϩⲟⲗⲱⲥ">
 <orig orig="ϩⲟⲗⲱⲥ">
@@ -12812,10 +12812,10 @@
 </orig>
 </norm_group>
 </orig_group>
-</verse>
+</verse_n>
 </translation>
 <translation translation="...">
-<verse verse="7">
+<verse_n verse_n="7">
 <orig_group orig_group="ϫⲉⲙⲡⲉⲧⲛϭⲱⲣⲃ">
 <norm_group norm_group="ϫⲉⲙⲡⲉⲧⲛϭⲱⲣⲃ">
 <orig orig="ϫⲉ">
@@ -13265,12 +13265,12 @@
 </orig>
 </norm_group>
 </orig_group>
-</verse>
+</verse_n>
 </translation>
-</chapter>
-<chapter chapter="43">
+</chapter_n>
+<chapter_n chapter_n="43">
 <translation translation="...">
-<verse verse="1">
+<verse_n verse_n="1">
 <orig_group orig_group="ⲟⲩ">
 <norm_group norm_group="ⲟⲩ">
 <orig orig="ⲟⲩ">
@@ -14575,10 +14575,10 @@
 </orig>
 </norm_group>
 </orig_group>
-</verse>
+</verse_n>
 </translation>
 <translation translation="...">
-<verse verse="2">
+<verse_n verse_n="2">
 <orig_group orig_group="ⲉⲧⲉⲧⲛⲁⲛⲉϭⲛⲉϭⲡⲙⲟⲩ">
 <norm_group norm_group="ⲉⲧⲉⲧⲛⲛⲁⲛⲉϭⲛⲉϭⲡⲙⲟⲩ">
 <orig orig="ⲉ">
@@ -15438,10 +15438,10 @@
 </entity>
 </norm_group>
 </orig_group>
-</verse>
+</verse_n>
 </translation>
 <translation translation="...">
-<verse verse="3">
+<verse_n verse_n="3">
 <orig_group orig_group="ⲧⲉⲧⲛϣⲟⲩϣⲟⲩ">
 <norm_group norm_group="ⲧⲉⲧⲛϣⲟⲩϣⲟⲩ">
 <orig orig="ⲧⲉⲧⲛ">
@@ -16122,12 +16122,12 @@
 </orig>
 </norm_group>
 </orig_group>
-</verse>
+</verse_n>
 </translation>
 <orig_group orig_group="ⲉⲛⲧⲁϥⲃⲟⲗⲥ">
 <norm_group norm_group="ⲉⲛⲧⲁϥⲃⲟⲗⲥ">
 <translation translation="...">
-<verse verse="3">
+<verse_n verse_n="3">
 <orig orig="ⲉⲛⲧ">
 <norm norm="ⲉⲛⲧ">
 <lemma lemma="ⲉⲣⲉ">
@@ -16164,10 +16164,10 @@
 </lemma>
 </norm>
 </orig>
-</verse>
+</verse_n>
 </translation>
 <translation translation="...">
-<verse verse="4">
+<verse_n verse_n="4">
 <orig orig="ⲥ">
 <norm norm="ⲥ">
 <lemma lemma="ⲛⲧⲟⲥ">
@@ -16192,10 +16192,10 @@
 </orig>
 </norm_group>
 </orig_group>
-</verse>
+</verse_n>
 </translation>
 <translation translation="...">
-<verse verse="5">
+<verse_n verse_n="5">
 <orig_group orig_group="ⲏ">
 <norm_group norm_group="ⲏ">
 <orig orig="ⲏ">
@@ -16389,9 +16389,9 @@
 </norm_group>
 </orig_group>
 </ed_line_n>
-</verse>
+</verse_n>
 </translation>
 </ed_page_n>
 </pb_xml_id>
-</chapter>
+</chapter_n>
 </meta>
