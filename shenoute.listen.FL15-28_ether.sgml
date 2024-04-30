@@ -11738,8 +11738,8 @@
 </entity>
 <orig_group orig_group="ⲛⲙⲙⲉ">
 <norm_group norm_group="ⲛⲙⲙⲉ">
-<orig orig="ⲛⲙⲙⲉ">
-<norm norm="ⲛⲙⲙⲉ">
+<orig orig="ⲛⲙⲙ">
+<norm norm="ⲛⲙⲙ">
 <lemma lemma="ⲙⲛ">
 <pos pos="PREP">
 ⲛⲙⲙ
@@ -20810,6 +20810,7 @@
 <ed_page_n ed_page_n="87">
 <ed_line_n ed_line_n="1">
 <orig_group orig_group="ⲉⲣⲟϥ">
+<norm_group norm_group="ⲉⲣⲟϥ">
 <orig orig="ⲉⲣⲟ">
 <norm norm="ⲉⲣⲟ">
 <lemma lemma="ⲉ">
@@ -20828,6 +20829,7 @@
 </lemma>
 </norm>
 </orig>
+</norm_group>
 </orig_group>
 <orig_group orig_group="ⲛⲧⲁⲩⲥⲱϩⲡ">
 <norm_group norm_group="ⲛⲧⲁⲩⲥⲱϩⲡ">
