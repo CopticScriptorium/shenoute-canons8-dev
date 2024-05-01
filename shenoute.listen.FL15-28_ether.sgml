@@ -6220,7 +6220,9 @@
 <norm norm="ⲉ">
 <lemma lemma="ⲉⲧⲉⲣⲉ">
 <pos pos="CREL">
+<note note="ⲉ-ϣⲁⲣⲉ a variant for relative conversion of Aorist (Layton sec 337)">
 ⲉ
+</note>
 </pos>
 </lemma>
 </norm>
@@ -13356,7 +13358,7 @@
 <norm_group norm_group="ⲛⲁⲩ">
 <orig orig="ⲛⲁ">
 <norm norm="ⲛⲁ">
-<lemma lemma="ⲛ">
+<lemma lemma="ⲛⲁ">
 <pos pos="PREP">
 ⲛⲁⲩ
 </pos>
@@ -14849,7 +14851,7 @@
 <norm_group norm_group="ⲉϩⲉⲛϣⲗⲟϥ">
 <orig orig="ⲉ">
 <norm norm="ⲉ">
-<lemma lemma="ⲉ">
+<lemma lemma="ⲉⲣⲉ">
 <pos pos="CCIRC">
 ⲉ
 </pos>
@@ -19377,9 +19379,7 @@
 <norm norm="ⲥ">
 <lemma lemma="ⲥ">
 <pos pos="UNKNOWN">
-<supplied_reason supplied_reason="lost">
 ⲥ
-</supplied_reason>
 </pos>
 </lemma>
 </norm>
@@ -19392,9 +19392,9 @@
 <norm norm="..">
 <lemma lemma="..">
 <pos pos="UNKNOWN">
-<supplied_reason supplied_reason="lost">
+<gap_reason gap_reason="lost">
 [..]
-</supplied_reason>
+</gap_reason>
 </pos>
 </lemma>
 </norm>
@@ -19438,9 +19438,9 @@
 <norm norm="...">
 <lemma lemma="...">
 <pos pos="UNKNOWN">
-<supplied_reason supplied_reason="lost">
+<gap_reason gap_reason="lost">
 [...]
-</supplied_reason>
+</gap_reason>
 </pos>
 </lemma>
 </norm>
@@ -20543,7 +20543,7 @@
 </orig_group>
 <orig_group orig_group="ϣⲁⲛⲕⲗ[ⲗⲉ]">
 <norm_group norm_group="ϣⲁⲛⲕⲗⲗⲉ">
-<orig orig="ϣⲁⲛ">
+<orig orig="ϣⲁ">
 <norm norm="ϣⲁ">
 <lemma lemma="ϣⲁ">
 <pos pos="PREP">
@@ -25877,6 +25877,7 @@
 </lemma>
 </norm>
 </orig>
+<entity identity="Jerusalem" entity="place">
 <orig orig="ⲑ">
 <norm norm="ⲧ">
 <lemma lemma="ⲡ">
@@ -25897,6 +25898,7 @@
 </lemma>
 </norm>
 </orig>
+</entity>
 </norm_group>
 </orig_group>
 <orig_group orig_group="ϩⲛⲟⲩⲕⲁϣ">
