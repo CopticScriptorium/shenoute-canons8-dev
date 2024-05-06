@@ -2,8 +2,8 @@
 <pb_xml_id pb_xml_id="FL185">
 <ed_page_n ed_page_n="106">
 <translation translation="...">
-<chapter chapter="44">
-<verse verse="3">
+<chapter_n chapter_n="44">
+<verse_n verse_n="3">
 <ed_line_n ed_line_n="1">
 <orig_group orig_group="ⲧⲁϥⲙⲟⲟⲩⲧϥ">
 <norm_group norm_group="ⲧⲁϥⲙⲟⲟⲩⲧϥ">
@@ -200,12 +200,12 @@
 </norm_group>
 </orig_group>
 </ed_line_n>
-</verse>
-</chapter>
+</verse_n>
+</chapter_n>
 </translation>
-<chapter chapter="45">
+<chapter_n chapter_n="45">
 <translation translation="...">
-<verse verse="1">
+<verse_n verse_n="1">
 <ed_line_n ed_line_n="2">
 <orig_group orig_group="ϭⲟⲙϭⲙ">
 <norm_group norm_group="ϭⲟⲙϭⲙ">
@@ -424,10 +424,10 @@
 </norm_group>
 </orig_group>
 </entity>
-</verse>
+</verse_n>
 </translation>
 <translation translation="...">
-<verse verse="2">
+<verse_n verse_n="2">
 <orig_group orig_group="ⲏ">
 <norm_group norm_group="ⲏ">
 <orig orig="ⲏ">
@@ -839,12 +839,12 @@
 </orig>
 </norm_group>
 </orig_group>
-</verse>
+</verse_n>
 </translation>
-</chapter>
-<chapter chapter="46">
+</chapter_n>
+<chapter_n chapter_n="46">
 <translation translation="...">
-<verse verse="1">
+<verse_n verse_n="1">
 <orig_group orig_group="ⲥⲉⲛⲁϣⲓ">
 <norm_group norm_group="ⲥⲉⲛⲁϣⲓ">
 <orig orig="ⲥⲉ">
@@ -993,14 +993,14 @@
 </norm_group>
 </orig_group>
 </entity>
-</verse>
+</verse_n>
 </translation>
 </ed_line_n>
 </ed_page_n>
 <ed_page_n ed_page_n="107">
 <ed_line_n ed_line_n="1">
 <translation translation="...">
-<verse verse="2">
+<verse_n verse_n="2">
 <entity entity="person">
 <orig_group orig_group="ⲛⲉⲛⲧⲁⲧⲉⲧⲛⲗⲩⲡⲉⲓ">
 <norm_group norm_group="ⲛⲉⲛⲧⲁⲧⲉⲧⲛⲗⲩⲡⲉⲓ">
@@ -1168,10 +1168,10 @@
 </orig>
 </norm_group>
 </orig_group>
-</verse>
+</verse_n>
 </translation>
 <translation translation="...">
-<verse verse="3">
+<verse_n verse_n="3">
 <orig_group orig_group="ⲙⲡⲣⲙⲉⲉⲩⲉ">
 <norm_group norm_group="ⲙⲡⲣⲙⲉⲉⲩⲉ">
 <orig orig="ⲙⲡⲣ">
@@ -1297,10 +1297,10 @@
 </norm_group>
 </orig_group>
 </entity>
-</verse>
+</verse_n>
 </translation>
 <translation translation="...">
-<verse verse="4">
+<verse_n verse_n="4">
 <orig_group orig_group="ⲛⲧⲟϥ">
 <norm_group norm_group="ⲛⲧⲟϥ">
 <orig orig="ⲛⲧⲟϥ">
@@ -2289,12 +2289,12 @@
 </norm_group>
 </orig_group>
 </entity>
-</verse>
+</verse_n>
 </translation>
-</chapter>
-<chapter chapter="47">
+</chapter_n>
+<chapter_n chapter_n="47">
 <translation translation="...">
-<verse verse="1">
+<verse_n verse_n="1">
 <orig_group orig_group="ⲡⲓϣⲁϫⲉ">
 <norm_group norm_group="ⲡⲓϣⲁϫⲉ">
 <entity entity="abstract">
@@ -2731,10 +2731,10 @@
 </entity>
 </norm_group>
 </orig_group>
-</verse>
+</verse_n>
 </translation>
 <translation translation="...">
-<verse verse="2">
+<verse_n verse_n="2">
 <orig_group orig_group="ⲁⲧⲉⲧⲛⲁⲁⲩ">
 <norm_group norm_group="ⲁⲧⲉⲧⲛⲁⲁⲩ">
 <orig orig="ⲁ">
@@ -3017,10 +3017,10 @@
 </orig_group>
 </entity>
 </ed_line_n>
-</verse>
+</verse_n>
 </translation>
 <translation translation="...">
-<verse verse="3">
+<verse_n verse_n="3">
 <ed_line_n ed_line_n="11">
 <orig_group orig_group="ⲁⲧⲉⲧⲛⲥⲱⲱϥ">
 <norm_group norm_group="ⲁⲧⲉⲧⲛⲥⲱⲱϥ">
@@ -3224,10 +3224,10 @@
 </orig>
 </norm_group>
 </orig_group>
-</verse>
+</verse_n>
 </translation>
 <translation translation="...">
-<verse verse="4">
+<verse_n verse_n="4">
 <orig_group orig_group="ⲁⲧⲉⲧⲛⲙⲟⲟϣⲉ">
 <norm_group norm_group="ⲁⲧⲉⲧⲛⲙⲟⲟϣⲉ">
 <orig orig="ⲁ">
@@ -3430,10 +3430,10 @@
 </entity>
 </norm_group>
 </orig_group>
-</verse>
+</verse_n>
 </translation>
 <translation translation="...">
-<verse verse="5">
+<verse_n verse_n="5">
 <orig_group orig_group="ⲁⲧⲉⲧⲛⲧⲁⲕⲉ">
 <norm_group norm_group="ⲁⲧⲉⲧⲛⲧⲁⲕⲉ">
 <orig orig="ⲁ">
@@ -3733,10 +3733,10 @@
 </norm_group>
 </orig_group>
 </entity>
-</verse>
+</verse_n>
 </translation>
 <translation translation="...">
-<verse verse="6">
+<verse_n verse_n="6">
 <orig_group orig_group="ⲁⲧⲉⲧⲛⲃⲱⲕ">
 <norm_group norm_group="ⲁⲧⲉⲧⲛⲃⲱⲕ">
 <orig orig="ⲁ">
@@ -3862,10 +3862,10 @@
 </orig>
 </norm_group>
 </orig_group>
-</verse>
+</verse_n>
 </translation>
 </ed_line_n>
 </ed_page_n>
-</chapter>
+</chapter_n>
 </pb_xml_id>
 </meta>
