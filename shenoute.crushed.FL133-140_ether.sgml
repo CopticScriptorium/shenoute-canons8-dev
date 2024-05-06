@@ -1,4 +1,4 @@
-<meta annotation="Adeline Harrington, Lydia Bremer-McCollum, Caroline T. Schroeder" author="Shenoute" collection="Borgia Collection" Coptic_edition="&lt;a href='https://archive.org/details/oeuvresdeschenou02shen/page/100/mode/2up'&gt;Amélineau Oeuvres de Schenoudi 2:100-106&lt;/a&gt;" corpus="shenoute.crushed" country="Egypt" document_cts_urn="urn:cts:copticLit:shenoute.crushed.amelineau:39-43" entities="checked" identities="checked" idno="IB 5 ff. 80-83" language="Sahidic Coptic" license="&lt;a href='https://creativecommons.org/licenses/by/4.0/'&gt;CC-BY 4.0&lt;/a&gt;" msContents_title_n="8" msContents_title_type="canons" msItem_title="My Heart Is Crushed" msName="MONB.FL" note="Digital text provided by Stephen Emmel. Typed transcription of Amélineau's Oeuvres de Schenoudi. Converted to unicode by Coptic Scriptorium. Some manuscript information added by Schroeder in Naples 2024. Chapter divisions based on paragraph divisions in Anne Boud'hors French translation (IFAO 2013). Verse divisions mostly follow Boud'hors sentence divisions." objectType="codex" order="05" origDate="between 601 and 800 C.E." origDate_notAfter="800" origDate_notBefore="601" origDate_precision="medium" origPlace="White Monastery" pages_from="133" pages_to="140" parsing="automatic" paths_authors="&lt;a href='http://paths.uniroma1.it/atlas/authors/95'&gt;95&lt;/a&gt;" paths_manuscripts="&lt;a href=&amp;quot;http://paths.uniroma1.it/atlas/manuscripts/385&amp;quot;&gt;385&lt;/a&gt;" paths_works="&lt;a href=&amp;quot;http://paths.uniroma1.it/atlas/works/794&amp;quot;&gt;794&lt;/a&gt;" people="none" placeName="Atripe" places="none" previous="urn:cts:copticLit:shenoute.crushed.amelineau:36-39" project="Coptic SCRIPTORIUM" redundant="yes" repository="Biblioteca Nazionale di Napoli" segmentation="automatic" source="Stephen Emmel" source_info="Digital text provided by Stephen Emmel. Reproduced with permission from Emmel" tagging="automatic" title="My Heart Is Crushed MONB.FL 133-140 (Amélineau edition)" Trismegistos="none" version_date="2024-04-01" version_n="5.0.0" witness="This document has a parallel witness in MONB.XO 115-123 and also a partial parallel in MONB.YE 115-118. Coptic Scriptorium has not published either of those parallels. XO is in Boud'hors edition in Le canon 8 de Chénouté [Cairo: IFAO 2013] The Amélineau edition follows MONB.FL as the primary witness.">
+<meta annotation="Adeline Harrington, Lydia Bremer-McCollum, Caroline T. Schroeder" author="Shenoute" collection="Borgia Collection" Coptic_edition="&lt;a href='https://archive.org/details/oeuvresdeschenou02shen/page/100/mode/2up'&gt;Amélineau Oeuvres de Schenoudi 2:100-106&lt;/a&gt;" corpus="shenoute.crushed" country="Egypt" document_cts_urn="urn:cts:copticLit:shenoute.crushed.amelineau:39-43" entities="checked" identities="checked" idno="IB 5 ff. 80-83" language="Sahidic Coptic" license="&lt;a href='https://creativecommons.org/licenses/by/4.0/'&gt;CC-BY 4.0&lt;/a&gt;" msContents_title_n="8" msContents_title_type="canons" msItem_title="My Heart Is Crushed" msName="MONB.FL" note="Digital text provided by Stephen Emmel. Typed transcription of Amélineau's Oeuvres de Schenoudi. Converted to unicode by Coptic Scriptorium. Some manuscript information added by Schroeder in Naples 2024. Chapter divisions based on paragraph divisions in Anne Boud'hors French translation (IFAO 2013). Verse divisions mostly follow Boud'hors sentence divisions." objectType="codex" order="05" origDate="between 601 and 800 C.E." origDate_notAfter="800" origDate_notBefore="601" origDate_precision="medium" origPlace="White Monastery" pages_from="133" pages_to="140" parsing="automatic" paths_authors="&lt;a href='http://paths.uniroma1.it/atlas/authors/95'&gt;95&lt;/a&gt;" paths_manuscripts="&lt;a href='http://paths.uniroma1.it/atlas/manuscripts/385'&gt;385&lt;/a&gt;" paths_works="&lt;a href='http://paths.uniroma1.it/atlas/works/794'&gt;794&lt;/a&gt;" people="none" placeName="Atripe" places="none" previous="urn:cts:copticLit:shenoute.crushed.amelineau:36-39" project="Coptic SCRIPTORIUM" redundant="yes" repository="Biblioteca Nazionale di Napoli" segmentation="automatic" source="Stephen Emmel" source_info="Digital text provided by Stephen Emmel. Reproduced with permission from Emmel" tagging="automatic" title="My Heart Is Crushed MONB.FL 133-140 (Amélineau edition)" Trismegistos="none" version_date="2024-05-06" version_n="5.0.0" witness="This document has a parallel witness in MONB.XO 115-123 and also a partial parallel in MONB.YE 115-118. Coptic Scriptorium has not published either of those parallels. XO is in Boud'hors edition in Le canon 8 de Chénouté [Cairo: IFAO 2013] The Amélineau edition follows MONB.FL as the primary witness.">
 <chapter_n chapter_n="39">
 <pb_xml_id pb_xml_id="FL133">
 <translation translation="...">
@@ -16124,10 +16124,10 @@
 </orig_group>
 </verse_n>
 </translation>
-<orig_group orig_group="ⲉⲛⲧⲁϥⲃⲟⲗⲥ">
-<norm_group norm_group="ⲉⲛⲧⲁϥⲃⲟⲗⲥ">
 <translation translation="...">
 <verse_n verse_n="3">
+<orig_group orig_group="ⲉⲛⲧⲁϥⲃⲟⲗⲥ">
+<norm_group norm_group="ⲉⲛⲧⲁϥⲃⲟⲗⲥ">
 <orig orig="ⲉⲛⲧ">
 <norm norm="ⲉⲛⲧ">
 <lemma lemma="ⲉⲣⲉ">
@@ -16164,10 +16164,6 @@
 </lemma>
 </norm>
 </orig>
-</verse_n>
-</translation>
-<translation translation="...">
-<verse_n verse_n="4">
 <orig orig="ⲥ">
 <norm norm="ⲥ">
 <lemma lemma="ⲛⲧⲟⲥ">
@@ -16195,7 +16191,7 @@
 </verse_n>
 </translation>
 <translation translation="...">
-<verse_n verse_n="5">
+<verse_n verse_n="4">
 <orig_group orig_group="ⲏ">
 <norm_group norm_group="ⲏ">
 <orig orig="ⲏ">
