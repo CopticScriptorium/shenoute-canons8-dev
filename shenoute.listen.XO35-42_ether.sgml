@@ -2394,8 +2394,6 @@
 </orig>
 </norm_group>
 </orig_group>
-</pb_xml_id>
-<pb_xml_id pb_xml_id="ⲗ︦︦ϝ︦">
 <orig_group orig_group="ⲉⲧⲛⲁⲛⲟⲩⲟⲩ">
 <norm_group norm_group="ⲉⲧⲛⲁⲛⲟⲩⲟⲩ">
 <orig orig="ⲉⲧ">
@@ -2407,6 +2405,8 @@
 </lemma>
 </norm>
 </orig>
+</pb_xml_id>
+<pb_xml_id pb_xml_id="ⲗ︦︦ϝ︦">
 <orig orig="ⲛⲁⲛⲟⲩ">
 <norm norm="ⲛⲁⲛⲟⲩ">
 <lemma lemma="ⲛⲁⲛⲟⲩ">
@@ -9473,15 +9473,16 @@
 <norm norm="ⲕⲱϩⲧ">
 <lemma lemma="ⲕⲱϩⲧ">
 <pos pos="N">
-ⲕⲱϩⲧ
+ⲕⲱ
+</pb_xml_id>
+<pb_xml_id pb_xml_id="ⲗ︦ⲑ︦">
+ϩⲧ
 </pos>
 </lemma>
 </norm>
 </orig>
 </norm_group>
 </orig_group>
-</pb_xml_id>
-<pb_xml_id pb_xml_id="ⲗ︦ⲑ︦">
 <orig_group orig_group="ⲛⲧⲕⲉϩⲉⲛⲛⲁ">
 <norm_group norm_group="ⲛⲧⲅⲉϩⲉⲛⲛⲁ">
 <orig orig="ⲛ">
@@ -14516,7 +14517,10 @@
 <lemma lemma="ⲯⲩⲭⲏ">
 <pos pos="N">
 <lang lang="Greek">
-ⲯⲩⲭⲏ
+ⲯⲩ
+</pb_xml_id>
+<pb_xml_id pb_xml_id="ⲙ︦ⲁ︦">
+ⲭⲏ
 </lang>
 </pos>
 </lemma>
@@ -14524,7 +14528,6 @@
 </orig>
 </norm_group>
 </orig_group>
-</pb_xml_id>
 <orig_group orig_group="ⲧⲉⲧⲟ">
 <norm_group norm_group="ⲧⲉⲧⲟ">
 <orig orig="ⲧ">
@@ -17029,14 +17032,16 @@
 </orig>
 </norm_group>
 </orig_group>
-<pb_xml_id pb_xml_id="ⲙ︦ⲃ︦">
 <orig_group orig_group="ⲙⲙⲁⲩ">
 <norm_group norm_group="ⲙⲙⲁⲩ">
 <orig orig="ⲙⲙⲁⲩ">
 <norm norm="ⲙⲙⲁⲩ">
 <lemma lemma="ⲙⲙⲁⲩ">
 <pos pos="ADV">
-ⲙⲙⲁⲩ
+ⲙ
+</pb_xml_id>
+<pb_xml_id pb_xml_id="ⲙ︦ⲃ︦">
+ⲙⲁⲩ
 </pos>
 </lemma>
 </norm>
